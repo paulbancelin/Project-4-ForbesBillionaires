@@ -1,0 +1,1001 @@
+Name,NetWorth,Country,Source,Rank,Age,Residence,Citizenship,Status,Children,Education,Self_made
+"Jeff Bezos",177,"United States",e-commerce,1,57,"Seattle, Washington","United States","In Relationship",4,"Bachelor of Arts/Science, Princeton University",1
+"Elon Musk",151,"United States","electric vehicles",2,49,"Austin, Texas","United States","In Relationship",7,"Bachelor of Arts/Science, University of Pennsylvania",1
+"Bill Gates",124,"United States",software,4,65,"Medina, Washington","United States",Divorced,3,"Drop Out, Harvard University",1
+"Mark Zuckerberg",97,"United States","social network",5,36,"Palo Alto, California","United States",Married,2,"Drop Out, Harvard University",1
+"Warren Buffett",96,"United States",finance,6,90,"Omaha, Nebraska","United States","Widowed, Remarried",3,"Master of Science, Columbia University; Bachelor of Arts/Science, University of Nebraska Lincoln",1
+"Larry Ellison",93,"United States",software,7,76,"Lanai, Hawaii","United States","In Relationship",4,"Drop Out, University of Chicago; Drop Out, University of Illinois, Urbana-Champaign",1
+"Larry Page",91.5,"United States","online services",8,48,"Palo Alto, California","United States",Married,1,"Master of Science, Stanford University; Bachelor of Arts/Science, University of Michigan",1
+"Sergey Brin",89,"United States","online services",9,47,"Los Altos, California","United States",Married,3,"Master of Science, Stanford University; Bachelor of Arts/Science, University of Maryland, College Park",1
+"Steve Ballmer",68.7,"United States",software,14,65,"Hunts Point, Washington","United States",Married,3,"Bachelor of Arts/Science, Harvard University; Drop Out, Stanford University",1
+"Ma Huateng",65.8,China,"internet media",15,49,"Shenzhen, China",China,Married,NULL,"Bachelor of Arts/Science, Shenzhen University",1
+"Carlos Slim Helu & family",62.8,Mexico,telecom,16,81,"Mexico City, Mexico",Mexico,Widowed,6,"Bachelor of Arts/Science, Universidad Nacional Autonoma de Mexico",1
+"Michael Bloomberg",59,"United States","Bloomberg LP",20,79,"New York, New York","United States","In Relationship",2,"Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, Johns Hopkins University",1
+"Colin Zheng Huang",55.3,China,e-commerce,21,41,"Shanghai, China",China,NULL,NULL,"Master, University of Wisconsin Madison; Bachelor of Arts/Science, Zhejiang University",1
+"Daniel Gilbert",51.9,"United States",finance,23,59,"Franklin, Michigan","United States",Married,5,"Bachelor of Arts/Science, Michigan State University; LLB, Wayne State University",1
+"Phil Knight & family",49.9,"United States","sports apparel",25,83,"Hillsboro, Oregon","United States",Married,3,"Master of Business Administration, Stanford Graduate School of Business; Bachelor of Arts/Science, University of Oregon",1
+"Jack Ma",48.4,China,e-commerce,26,56,"Hangzhou, China",China,Married,NULL,"Bachelor of Arts/Science, Hangzhou Teacher's Institute",1
+"Masayoshi Son",45.4,Japan,"internet, telecom",29,63,"Tokyo, Japan",Japan,Married,2,"Bachelor of Arts/Science, University of California, Berkeley",1
+"Michael Dell",45.1,"United States","computer hardware",30,56,"Austin, Texas","United States",Married,4,"Drop Out, The University of Texas at Austin",1
+"Tadashi Yanai & family",44.1,Japan,"fashion retail",31,72,"Tokyo, Japan",Japan,Married,2,"Bachelor of Arts/Science, Waseda University",1
+"FranÃ§ois Pinault & family",42.3,France,"luxury goods",32,84,"Paris, France",France,Married,3,"Drop Out, High School",1
+"Zhang Yiming",35.6,China,"social network",39,37,"Beijing, China",China,NULL,NULL,"Bachelor of Engineering, Nankai University",1
+"Li Ka-shing",33.7,"Hong Kong",diversified,43,92,"Hong Kong","Hong Kong",Widowed,2,"Drop Out, High School",1
+"William Lei Ding",33,China,"online games",45,49,"Hangzhou, China",China,NULL,NULL,"Bachelor of Arts/Science, University of Electronic Science and Technology of China",1
+"Len Blavatnik",32,"United States","music, chemicals",46,63,"London, United Kingdom","United States",Married,NULL,"Master of Science, Columbia University; Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, Moscow State University",1
+"Alexey Mordashov & family",29.1,Russia,"steel, investments",51,55,"Moscow, Russia",Russia,Married,7,"Bachelor of Arts/Science, Leningrad Institute of Economics; Master of Business Administration, University of Northumbria",1
+"Robin Zeng",28.4,"Hong Kong",batteries,52,52,"Ningde, China","Hong Kong",NULL,NULL,"Doctorate, Chinese Academy of Social Sciences",1
+"Hui Ka Yan",27.7,China,"real estate",53,62,"Shenzhen, China",China,Married,2,"Bachelor of Arts/Science, Wuhan U of  Science & Tec",1
+"Vladimir Potanin",27,Russia,metals,55,60,"Moscow, Russia",Russia,Married,7,"Bachelor of Arts/Science, Moscow Institute of International Relations",1
+"Dietrich Mateschitz",26.9,Austria,beverages,56,76,"Fuschl am See, Austria",Austria,Single,1,"Master of Business Administration, University of Vienna",1
+"Vladimir Lisin",26.2,Russia,"steel, transport",59,65,"Moscow, Russia",Russia,Married,3,"Doctorate, Russian Academy of Economics; Bachelor of Arts/Science, Siberian Metallurgical Institute",1
+"Wang Xing",26.1,China,e-commerce,60,42,"Beijing, China",China,NULL,NULL,"Graduate, Tsinghua University",1
+"Thomas Peterffy",25,"United States","discount brokerage",65,76,"Palm Beach, Florida","United States",Divorced,3,"Drop Out, New York University",1
+"Vagit Alekperov",24.9,Russia,oil,66,70,"Moscow, Russia",Russia,Married,1,"Bachelor of Science in Engineering, Azerbaijan Institute of Oil and Chemistry",1
+"Leonid Mikhelson",24.9,Russia,"gas, chemicals",66,65,"Moscow, Russia",Russia,Married,2,"Bachelor of Arts/Science, Kuybyshev Engineering and Construction Institute",1
+"Jim Simons",24.6,"United States","hedge funds",68,83,"East Setauket, New York","United States",Married,3,"Bachelor of Arts/Science, Massachusetts Institute of Technology; Doctorate, University of California, Berkeley",1
+"Jiang Rensheng & family",24.4,China,vaccines,69,67,"Chongqing, China",China,Married,1,"Associate in Arts/Science, Guilin Medical University",1
+"Shiv Nadar",23.5,India,"software services",71,75,"Delhi, India",India,Married,1,"Bachelor of Arts/Science, PSG College of Technology",1
+"Zhang Zhidong",23.4,China,"internet media",73,49,"Shenzhen, China",China,NULL,NULL,"Bachelor of Arts/Science, Shenzhen University; Master of Arts, South China University of Technology",1
+"Lei Jun",23,China,smartphones,75,51,"Beijing, China",China,Married,2,"Bachelor of Science in Engineering, Wuhan University",1
+"Richard Qiangdong Liu",22.4,China,e-commerce,77,47,"Beijing, China",China,Married,NULL,"Bachelor of Arts/Science, Renmin University of China",1
+"Gennady Timchenko",22,Russia,"oil, gas",78,68,"Moscow, Russia",Russia,Married,3,"Bachelor of Arts/Science, Leningrad Mechanical Institute",1
+"Stephen Schwarzman",21.9,"United States",investments,79,74,"New York, New York","United States",Married,3,"Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, Yale University",1
+"Li Xiting",21.5,Singapore,"medical devices",82,70,"Shenzhen, China",Singapore,NULL,NULL,"Bachelor of Science, University of Science and Technology of China",1
+"Pierre Omidyar",21.4,"United States",e-commerce,83,53,"Honolulu, Hawaii","United States",Married,3,"Bachelor of Arts/Science, Tufts University",1
+"Andrew Forrest",20.4,Australia,mining,87,59,"Perth, Australia",Australia,Married,3,"Bachelor of Arts/Science, University of Western Australia",1
+"Ray Dalio",20.3,"United States","hedge funds",88,71,"Greenwich, Connecticut","United States",Married,4,"Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, Long Island University",1
+"Li Shufu",19.7,China,automobiles,89,57,"Hangzhou, China",China,Married,NULL,"Master of Science, Yanshan University",1
+"Zhong Huijuan",19.7,China,pharmaceutical,89,60,"Shanghai, China",China,Married,NULL,"EMBA, Nanjing University",1
+"Xu Hang",19.5,"Hong Kong","medical devices",92,54,"Shenzhen, China","Hong Kong",NULL,NULL,"EMBA, Ceibs; Bachelor of Engineering, Tsinghua University; Master of Science in Engineering, Tsinghua University",1
+"Eric Schmidt",18.9,"United States","online services",96,66,"Atherton, California","United States",Married,2,"Bachelor of Arts/Science, Princeton University; Doctorate, University of California, Berkeley; Master of Science, University of California, Berkeley",1
+"Sun Piaoyang",18.9,China,pharmaceutical,96,62,"Lianyungang, China",China,Married,1,"Bachelor of Arts/Science, China Pharmaceutical University; Doctorate, Nanjing University",1
+"Alisher Usmanov",18.4,Russia,"steel, telecom, investments",99,67,"Moscow, Russia",Russia,Married,NULL,"Master, Finance Academy under the Government of the Russian Federation; Master of Laws, Moscow Institute of International Relations",1
+"Robert Pera",18.3,"United States","wireless networking gear",100,43,"San Jose, California","United States",Single,NULL,"Bachelor of Arts/Science, University of California, San Diego; Master of Science, University of California, San Diego",1
+"Wu Yajun",18.3,China,"real estate",100,57,"Beijing, China",China,Divorced,1,"Northwestern Polytechnical University",1
+"Chen Bang",17.9,China,hospitals,105,55,"Changsha, China",China,Married,NULL,"Master of Business Administration, Hunan University",1
+"Andrey Melnichenko",17.9,Russia,"coal, fertilizers",105,49,"Moscow, Russia",Russia,Married,2,"Master of Science, Plekhanov Russian University of Economics",1
+"Dustin Moskovitz",17.8,"United States","social network",107,36,"San Francisco, California","United States",Married,NULL,"Drop Out, Harvard University",1
+"Su Hua",17.8,China,"video streaming",107,39,"Beijing, China",China,NULL,NULL,"Bachelor of Science, Tsinghua University",1
+"Petr Kellner",17.5,Czechia,"finance, telecommunications",110,NULL,NULL,Czechia,NULL,4,"Bachelor of Arts/Science, University of Economics in Prague",1
+"Pavel Durov",17.2,Russia,"messaging app",112,36,"Dubai, United Arab Emirates",Russia,Single,2,"Master of Science, Saint Petersburg State University",1
+"Jorge Paulo Lemann & family",16.9,Brazil,beer,114,81,"Zurich, Switzerland",Brazil,Married,5,"Bachelor of Arts/Science, Harvard University",1
+"Wang Chuanfu",16.3,China,"batteries, automobiles",118,55,"Shenzhen, China",China,Married,NULL,"Master of Science, Beijing Non-Ferrous Research Institute; Bachelor of Arts/Science, Central South Industrial University of Technology",1
+"Steve Cohen",16,"United States","hedge funds",119,64,"Greenwich, Connecticut","United States",Married,7,"Bachelor of Arts/Science, University of Pennsylvania, The Wharton School",1
+"Ken Griffin",16,"United States","hedge funds",119,52,"Chicago, Illinois","United States",Divorced,3,"Bachelor of Arts/Science, Harvard University",1
+"Chen Zhiping",15.9,China,e-cigarettes,121,45,"Shenzhen, China",China,Married,NULL,"Master, China Europe International Business School; Bachelor of Arts/Economics, Tongji University",1
+"Ernest Garcia, II.",15.9,"United States","used cars",121,63,"Tempe, Arizona","United States",Married,NULL,"Bachelor of Science, Stanford University",1
+"Uday Kotak",15.9,India,banking,121,62,"Mumbai, India",India,Married,2,"Bachelor of Arts/Science, Bombay University; Master of Business Administration, University of Bombay",1
+"Carl Icahn",15.8,"United States",investments,124,85,"Indian Creek, Florida","United States",Married,2,"Drop Out, New York University; Bachelor of Arts/Science, Princeton University",1
+"Suleiman Kerimov & family",15.8,Russia,investments,124,55,"Moscow, Russia",Russia,Married,3,"Bachelor of Arts/Science, Dagestan State University",1
+"Thomas Frist, Jr. & family",15.7,"United States",hospitals,126,82,"Nashville, Tennessee","United States",Married,3,"Bachelor of Arts/Science, Vanderbilt University; Medical Doctor, Washington University",1
+"Mikhail Fridman",15.5,Russia,"oil, banking, telecom",128,57,"London, United Kingdom",Russia,Divorced,5,"Bachelor of Arts/Science, Moscow Institute of Steel and Alloys",1
+"Wei Jianjun & family",15.5,China,automobiles,128,57,"Baoding, China",China,Married,NULL,"Bachelor of Arts/Science, Hebei Province",1
+"Donald Bren",15.3,"United States","real estate",132,88,"Newport Beach, California","United States",Married,7,"Bachelor of Arts/Science, University of Washington",1
+"Eric Yuan & family",14.9,"United States","video conferencing",133,51,"Santa Clara, California","United States",Married,3,"Master of Engineering Management, China University of Mining and Technology; Bachelor of Engineering, Shandong Institute of Business and Technology",1
+"Wang Jianlin",14.8,China,"real estate",137,66,"Beijing, China",China,Married,1,"Liaoning University",1
+"Robin Li",14.7,China,"internet search",138,52,"Beijing, China",China,Married,4,"Bachelor of Arts/Science, Peking University; Master of Arts, University at Buffalo",1
+"Eduardo Saverin",14.6,Brazil,"social network",140,39,"Singapore, Singapore",Brazil,Married,1,"Bachelor of Arts/Science, Harvard University",1
+"Roman Abramovich",14.5,Russia,"steel, investments",142,54,"Moscow, Russia",Russia,Married,7,"Bachelor of Arts/Science, Moscow State Law Academy",1
+"David Tepper",14.5,"United States","hedge funds",142,63,"New Jersey","United States",Married,3,"Master of Business Administration, David A. Tepper School of Business; Bachelor of Arts/Science, University of Pittsburgh",1
+"Gong Hongjia & family",14.4,"Hong Kong","video surveillance",144,56,"Hong Kong, Hong Kong","Hong Kong",Married,2,"Bachelor of Arts/Science, Huazhong University of Science and Technology",1
+"Mike Cannon-Brookes",14.2,Australia,software,145,41,"Sydney, Australia",Australia,Married,2,"Bachelor of Arts/Science, University of New South Wales",1
+"John Menard, Jr.",14.2,"United States","home improvement stores",145,81,"Eau Claire, Wisconsin","United States",Married,6,"Bachelor of Arts/Science, University of Wisconsin, Eau Claire",1
+"Seo Jung-jin",14.2,"South Korea",biotech,145,63,"Seoul, South Korea","South Korea",Married,2,"Bachelor of Arts/Science, Konkuk University; Master of Science, Konkuk University",1
+"Liang Wengen",14.1,China,"construction equipment",148,64,"Changsha, China",China,Married,1,"Bachelor of Arts/Science, Central South University",1
+"Scott Farquhar",14,Australia,software,150,41,"Sydney, Australia",Australia,Married,2,"Bachelor of Arts/Science, University of New South Wales",1
+"Brian Chesky",13.7,"United States","online services",154,39,"San Francisco, California","United States",Single,NULL,"Bachelor of Arts/Science, Rhode Island School of Design",1
+"David Duffield",13.5,"United States","business software",156,80,"Incline Village, Nevada","United States",Married,10,"Bachelor of Engineering, Cornell University; Master of Business Administration, Samuel Curtis Johnson Graduate School of Management",1
+"Kim Jung-ju",13.3,"South Korea","online games",158,53,"Seoul, South Korea","South Korea",Married,2,"Doctorate, Korea Advanced Institute of Science and Technology; Master of Science, Korea Advanced Institute of Science and Technology; Bachelor of Arts/Science, Seoul National University",1
+"Zhang Bangxin",13.3,China,education,158,41,"Beijing, China",China,NULL,NULL,"EMBA, China Europe International Business School",1
+"Tatyana Bakalchuk",13,Russia,ecommerce,164,45,"Moscow region, Russia",Russia,Married,4,"Bachelor of Science, State University of Management",1
+"Michael Platt",13,"United Kingdom","hedge funds",164,53,"Geneva, Switzerland","United Kingdom",NULL,NULL,"Bachelor of Arts/Science, London School of Economics; Bachelor of Arts/Science, London School of Economics",1
+"Huang Shilin",12.9,China,batteries,166,54,"Ningde, China",China,NULL,NULL,"Bachelor of Technology, Hefei University of Technology",1
+"Dang Yanbao",12.7,China,coal,169,48,"Yinchuan, China",China,NULL,NULL,"Master of Business Administration, Peking University",1
+"Robert Kuok",12.6,Malaysia,"palm oil, shipping, property",171,97,"Hong Kong, Hong Kong",Malaysia,Married,8,"Bachelor of Arts/Science, Raffles College",1
+"Jack Dorsey",12.5,"United States","social network",173,44,"San Francisco, California","United States",Single,NULL,"Drop Out, New York University",1
+"Nathan Blecharczyk",12.4,"United States","internet service provider",177,37,"San Francisco, California","United States",Married,2,"Bachelor of Arts/Science, Harvard University",1
+"John Doerr",12.4,"United States","venture capital",177,69,"Woodside, California","United States",Married,2,"Master of Business Administration, Harvard University; Bachelor of Arts/Science, Rice University; Master of Science, Rice University",1
+"Joe Gebbia",12.4,"United States","internet service provider",177,39,"San Francisco, California","United States","In Relationship",NULL,"Bachelor of Arts/Science, Rhode Island School of Design",1
+"Forrest Li",12.4,Singapore,gaming,177,43,"Singapore, Singapore",Singapore,Married,NULL,"Bachelor of Engineering, Shanghai Jiaotong University; Master of Business Administration, Stanford Graduate School of Business",1
+"Yu Renrong",12.3,China,semiconductors,181,55,"Ningbo, China",China,NULL,NULL,"Bachelor of Science in Engineering, Tsinghua University",1
+"Gordon Moore",12.1,"United States","computer hardware",182,92,"Woodside, California","United States",Married,2,"Doctorate, California Institute of Technology; Bachelor of Arts/Science, University of California, Berkeley",1
+"Jeff Yass",12,"United States","trading, investments",184,62,"Haverford, Pennsylvania","United States",Married,4,"Bachelor of Arts/Economics, SUNY Binghamton",1
+"Bobby Murphy",11.9,"United States","social network",185,32,"Venice, California","United States",Single,NULL,"Bachelor of Arts/Science, Stanford University",1
+"Cen Junda",11.6,China,pharmaceutical,189,56,"Lianyungang, China",China,NULL,NULL,"Doctorate, Zhejiang University",1
+"Joseph Tsai",11.6,Canada,e-commerce,189,57,"Hong Kong, Hong Kong",Canada,Married,3,"Bachelor of Arts/Science, Yale University; Doctor of Jurisprudence, Yale University",1
+"Aliko Dangote",11.5,Nigeria,"cement, sugar",191,64,"Lagos, Nigeria",Nigeria,Divorced,3,"Bachelor of Arts/Science, Al-Azhar University",1
+"Marcel Herrmann Telles",11.5,Brazil,beer,191,71,"Sao Paulo, Brazil",Brazil,Married,2,"Bachelor of Arts/Science, Universidade Federal do Rio de Janeiro",1
+"Mikhail Prokhorov",11.4,Russia,investments,193,56,"Moscow, Russia",Russia,Single,NULL,"Bachelor of Arts/Science, Moscow Institute of Finance",1
+"Jorge Moll Filho & family",11.3,Brazil,hospitals,194,76,"Rio de Janeiro, Brazil",Brazil,Married,5,"Masters of Public Health, Universidade Federal do Rio de Janeiro",1
+"Viktor Rashnikov",11.2,Russia,steel,195,72,"Magnitogorsk, Russia",Russia,Married,2,"Bachelor of Science in Engineering, Magnitogorsk MiningÂ and Metallurgical Institute",1
+"Harry Triguboff",11.2,Australia,"real estate",195,88,"Sydney, Australia",Australia,Married,2,"Bachelor of Arts/Science, University of Leeds",1
+"Leonid Fedun & family",11.1,Russia,oil,197,65,"Moscow, Russia",Russia,Married,2,"Master of Science, Military Academy F.E.Dzerzhinsky",1
+"Evan Spiegel",11.1,"United States","social network",197,30,"Los Angeles, California","United States",Married,2,"Bachelor of Science, Stanford University",1
+"Luis Carlos Sarmiento",11,Colombia,banking,200,88,"Bogota, Colombia",Colombia,Married,5,"Bachelor of Arts/Science, National University of Colombia",1
+"Andreas Struengmann & family",11,Germany,pharmaceutical,200,71,"Tegernsee, Germany",Germany,Married,2,"Medical Doctor, University at Buffalo",1
+"Thomas Struengmann & family",11,Germany,pharmaceutical,200,71,"Tegernsee, Germany",Germany,Married,4,"Master of Business Administration, University of Augsburg; Master of Business Administration, University of Augsburg",1
+"Dilip Shanghvi",10.9,India,pharmaceutical,203,65,"Mumbai, India",India,Married,2,"Bachelor of Arts/Science, Calcutta University",1
+"Wang Laichun",10.7,China,"electronics components",208,53,"Shenzhen, China",China,Married,NULL,"EMBA, Tsinghua University",1
+"Chen Jianhua",10.6,China,chemicals,210,50,"Wujiang, China",China,Married,NULL,"Bachelor of Arts/Science, Nanjing Normal University",1
+"Leng Youbin",10.6,China,"infant formula",210,52,"Beijing, China",China,NULL,NULL,"Bachelor of Arts/Science, Northeast Agriculture University; EMBA, Peking University",1
+"Charles Schwab",10.6,"United States","discount brokerage",210,83,"Woodside, California","United States",Married,5,"Master of Business Administration, Stanford Graduate School of Business; Bachelor of Arts/Science, Stanford University",1
+"Sunil Mittal & family",10.5,India,telecom,213,63,"Delhi, India",India,Married,3,"Bachelor of Arts/Science, Punjab University",1
+"Melker Schorling & family",10.5,Sweden,investments,213,73,"Stockholm, Sweden",Sweden,Married,2,"Master of Business Administration, Gothenburg University",1
+"Cai Kui",10.4,China,"real estate",216,58,"Chengdu, China",China,Divorced,1,"Bachelor of Arts/Science, Nanjing University of Aeronautics & Astronautics",1
+"Qi Shi & family",10.4,China,"financial information",216,51,"Shanghai, China",China,NULL,NULL,"EMBA, Fudan University; Bachelor of Arts/Science, Shanghai Jiaotong University",1
+"Chase Coleman, III.",10.3,"United States",investments,219,45,"New York, New York","United States",Married,NULL,"Bachelor of Arts/Science, Williams College",1
+"Hui Wing Mau",10.3,"Hong Kong","real estate",219,70,"Hong Kong, Hong Kong","Hong Kong",Married,2,"Master of Business Administration, University of South Australia",1
+"Liu Hanyuan",10.3,China,agribusiness,219,57,"Chengdu, China",China,Married,NULL,"Bachelor of Arts/Science, Sichuan University",1
+"Larry Xiangdong Chen",10.2,China,education,223,49,"Beijing, China",China,NULL,NULL,"Ph.D, Renmin University of China",1
+"Dietmar Hopp & family",10.1,Germany,software,224,81,"Walldorf, Germany",Germany,Married,2,"Master of Science, University of Karlsruhe",1
+"German Khan",10.1,Russia,"oil, banking, telecom",224,59,"London, United Kingdom",Russia,Married,4,"Bachelor of Arts/Science, Moscow Institute of Steel and Alloys",1
+"Li Ge",10.1,"United States","pharmaceutical ingredients",224,54,"Shanghai, China","United States",Married,NULL,"Ph.D, Columbia University",1
+"Jan Koum",9.9,"United States",software,230,45,"Atherton, California","United States",Single,NULL,"Drop Out, San Jose State University",1
+"Iskander Makhmudov",9.7,Russia,"mining, metals, machinery",234,57,"Moscow, Russia",Russia,Married,1,"Bachelor of Arts/Science, Tashkent State University",1
+"Israel Englander",9.6,"United States","hedge funds",241,72,"New York, New York","United States",Married,3,"Bachelor of Arts/Science, New York University",1
+"Charles Ergen",9.6,"United States","satellite TV",241,68,"Denver, Colorado","United States",Married,5,"Bachelor of Arts/Science, University of Tennessee Knoxville; Master of Business Administration, Wake Forest University School of Business",1
+"David Geffen",9.5,"United States","movies, record labels",245,78,"Beverly Hills, California","United States",Single,NULL,"Drop Out, The University of Texas at Austin",1
+"Ding Shizhong & family",9.4,China,"sports apparel",247,50,"Quanzhou, China",China,Married,2,"EMBA, Xiamen University",1
+"Harold Hamm & family",9.4,"United States","oil & gas",247,75,"Oklahoma City, Oklahoma","United States",Divorced,5,"Diploma, High School",1
+"Kim Beom-su",9.3,"South Korea","online services",251,55,"Seoul, South Korea","South Korea",Married,2,"Bachelor of Science in Engineering, Seoul National University; Master of Science, Seoul National University",1
+"Sun Hongbin",9.3,"United States","real estate",251,58,"Tianjin, China","United States",NULL,NULL,"Master, Tsinghua University",1
+"David Sun",9.1,"United States","computer hardware",256,69,"Irvine, California","United States",Married,2,"Bachelor of Engineering, Tatung University",1
+"John Tu",9.1,"United States","computer hardware",256,79,"Rolling Hills, California","United States",Married,2,"Bachelor of Arts/Science, Technische UniversitÃ¤t Darmstadt",1
+"Viktor Vekselberg",9,Russia,"metals, energy",262,64,"Moscow, Russia",Russia,Married,2,"Bachelor of Arts/Science, Moscow State University of Railway Engineering",1
+"Jerry Jones",8.9,"United States","Dallas Cowboys",264,78,"Dallas, Texas","United States",Married,3,"Bachelor of Arts/Science, University of Arkansas; Master of Arts, University of Arkansas",1
+"Steven Rales",8.9,"United States",manufacturing,264,70,"Santa Barbara, California","United States",Married,3,"Law Degree, American University; Bachelor of Arts/Science, DePauw University",1
+"Sarath Ratanavadi",8.9,Thailand,energy,264,55,"Bangkok, Thailand",Thailand,Married,NULL,"Bachelor of Science in Engineering, Chulalongkorn University; Master of Science in Engineering, University of Southern California",1
+"David Cheriton",8.8,Canada,"online services",269,70,"Palo Alto, California",Canada,Divorced,4,"Bachelor of Arts/Science, University of British Columbia; Doctorate, University of Waterloo; Master of Science, University of Waterloo",1
+"Lin Bin",8.7,"United States",smartphones,274,53,"Shenzhen, China","United States",NULL,NULL,"Master, Drexel University",1
+"Liu Jincheng & family",8.7,China,"lithium batteries",274,56,"Huizhou, China",China,Married,NULL,"Doctorate, South China University of Technology; Bachelor of Arts/Science, University of Electronic Science and Technology of China; Master of Science, Wuhan University",1
+"Carlos Alberto Sicupira & family",8.7,Brazil,beer,274,73,"St. Gallen, Switzerland",Brazil,Married,3,"Bachelor of Arts/Science, Universidade Federal do Rio de Janeiro",1
+"Anthony von Mandl",8.7,Canada,"alcoholic beverages",274,NULL,"Vancouver, Canada",Canada,NULL,NULL,"Bachelor of Arts/Science, University of British Columbia",1
+"Leon Black",8.6,"United States","private equity",288,69,"New York, New York","United States",Married,4,"Bachelor of Arts/Science, Dartmouth College; Master of Business Administration, Harvard University",1
+"Andrei Skoch & family",8.6,Russia,steel,288,55,"Moscow, Russia",Russia,Single,10,"State Central Institute of Physical Culture",1
+"George Soros",8.6,"United States","hedge funds",288,90,"Katonah, New York","United States",Married,5,"Bachelor of Arts/Science, London School of Economics",1
+"Marc Benioff",8.4,"United States","business software",294,56,"San Francisco, California","United States",Married,2,"Bachelor of Arts/Science, University of Southern California",1
+"Kuldip Singh & Gurbachan Singh Dhingra",8.4,India,paints,294,NULL,"Delhi, India",India,Married,NULL,"Bachelor of Arts/Science, Delhi University",1
+"Pan Dong",8.3,Canada,"consumer goods",297,56,"Hong Kong, Hong Kong",Canada,Married,NULL,"Master of Business Administration, Lawrence Technological University; Bachelor of Science, Wuhan University; Master, Wuhan University",1
+"Hasso Plattner & family",8.3,Germany,software,297,77,"Heidelberg, Germany",Germany,Married,2,"Master of Science, University of Karlsruhe",1
+"Stanley Kroenke",8.2,"United States","sports, real estate",304,73,"Electra, Texas","United States",Married,2,"Master of Business Administration, Robert J. Trulaske, Sr. College of Business; Bachelor of Arts/Science, University of Missouri",1
+"Andreas von Bechtolsheim & family",8.2,Germany,"online services",304,65,"Palo Alto, California",Germany,Single,NULL,"Master of Science, Carnegie Mellon University",1
+"Diane Hendricks",8,"United States",roofing,308,74,"Afton, Wisconsin","United States",Widowed,7,"Diploma, High School",1
+"Shahid Khan",8,"United States","auto parts",308,70,"Naples, Florida","United States",Married,2,"Bachelor of Arts/Science, University of Illinois, Urbana-Champaign",1
+"Andrew Beal",7.9,"United States","banks, real estate",311,68,"Dallas, Texas","United States",Divorced,6,"Drop Out, Baylor University",1
+"Dmitry Bukhman",7.9,Russia,"online games",311,35,"London, United Kingdom",Russia,Married,3,"Master of Science, Vologda State Pedagogical University",1
+"Igor Bukhman",7.9,Russia,"online games",311,39,"London, United Kingdom",Russia,Married,3,"Master of Science, Vologda State Pedagogical University",1
+"Alexei Kuzmichev",7.8,Russia,"oil, banking, telecom",316,58,"London, United Kingdom",Russia,Married,3,"Bachelor of Arts/Science, Moscow Institute of Steel and Alloys",1
+"John Malone",7.8,"United States","cable television",316,80,"Elizabeth, Colorado","United States",Married,2,"Doctorate, Johns Hopkins University; Master of Science, Johns Hopkins University; Bachelor of Arts/Science, Yale University",1
+"Giorgio Armani",7.7,Italy,"luxury goods",323,86,"Milan, Italy",Italy,Single,NULL,"Drop Out, University of Piacenza",1
+"Simon Reuben",7.7,"United Kingdom","real estate, investments",323,80,"Monaco, Monaco","United Kingdom",Married,1,"Drop Out, Sir John Cass College, London",1
+"Alexander Abramov",7.6,Russia,"steel, mining",327,62,"Moscow, Russia",Russia,Married,3,"Bachelor of Arts/Science, Moscow Institute of Physics and Technology",1
+"Rinat Akhmetov",7.6,Ukraine,"steel, coal",327,54,"Donetsk, Ukraine",Ukraine,Married,2,"Bachelor of Arts/Science, Donetsk National University",1
+"Silvio Berlusconi & family",7.6,Italy,media,327,84,"Milan, Italy",Italy,Divorced,5,"Doctor of Jurisprudence, University of Milan",1
+"John Grayken",7.6,Ireland,"private equity",327,64,"London, United Kingdom",Ireland,Married,4,"Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, University of Pennsylvania",1
+"David Green & family",7.6,"United States",retail,327,79,"Oklahoma City, Oklahoma","United States",Married,3,"Diploma, High School",1
+"George Roberts",7.6,"United States","private equity",327,77,"Atherton, California","United States","Widowed, Remarried",3,"Bachelor of Arts/Science, Claremont McKenna College; Doctor of Jurisprudence, UC Hastings",1
+"Zhao Yan",7.6,China,biotech,327,54,"Beijing, China",China,NULL,NULL,"Master of Business Administration, Fordham University",1
+"Patrick Soon-Shiong",7.5,"United States",pharmaceutical,334,68,"Los Angeles, California","United States",Married,2,"Master of Science, University of British Columbia; Bachelor of Arts/Science, University of Witwatersrand; Medical Doctor, University of Witwatersrand",1
+"George Lucas",7.4,"United States","Star Wars",339,76,"San Anselmo, California","United States",Married,4,"Bachelor of Arts/Science, University of Southern California",1
+"Zhang Jindong",7.4,China,"appliance retailer",339,58,"Nanjing, China",China,Married,2,"Bachelor of Arts/Science, Nanjing Normal University",1
+"Henry Kravis",7.3,"United States","private equity",344,77,"New York, New York","United States",Married,2,"Bachelor of Arts/Science, Claremont McKenna College; Master of Business Administration, Columbia Business School",1
+"David Shaw",7.3,"United States","hedge funds",344,70,"New York, New York","United States",Married,3,"Doctorate, Stanford University; Bachelor of Arts/Science, University of California, San Diego",1
+"Rocco Commisso",7.2,"United States",telecom,352,71,"Saddle River, New Jersey","United States",Married,2,"Bachelor of Arts/Science, Columbia University; Master of Business Administration, Columbia University",1
+"Bernard Marcus",7.2,"United States","retail store",352,91,"Atlanta, Georgia","United States",Married,3,"Bachelor of Arts/Science, Rutgers University",1
+"Wang Zhenhua",7.2,China,"real estate",352,59,"Shanghai, China",China,NULL,NULL,"Master of Business Administration, Macau University",1
+"Carl Bennet",7.1,Sweden,investments,358,69,"Gothenberg, Sweden",Sweden,Married,1,"Master of Business Administration, University of Gothenburg",1
+"Ralph Lauren",7.1,"United States",apparel,358,81,"New York, New York","United States",Married,3,"Drop Out, City University of New York City College; Diploma, High School",1
+"Anthony Wood",7.1,"United States",Roku,358,55,"Palo Alto, California","United States",Married,3,"Bachelor of Science in Engineering, Texas A&M University",1
+"Gang Ye",7.1,Singapore,gaming,358,40,"Singapore, Singapore",Singapore,Married,2,"Bachelor of Science, Cornell University",1
+"Igor Altushkin",7,Russia,metals,369,50,"Yekaterinburg, Russia",Russia,Married,6,"Bachelor of Arts/Science, Ekaterinburg Institute of Economics",1
+"Alexandre Behring",7,Brazil,investments,369,54,"Greenwich, Connecticut",Brazil,Married,NULL,"EMBA, Harvard University",1
+"Gustaf Douglas",7,Sweden,investments,369,83,"Stockholm, Sweden",Sweden,Married,2,"Master of Business Administration, Harvard University",1
+"Terry Gou",7,Taiwan,electronics,369,70,"Taipei, Taiwan",Taiwan,Divorced,5,"Taipei University of Marine Technology",1
+"Paul Tudor Jones, II.",7,"United States","hedge funds",369,66,"Palm Beach, Florida","United States",Married,4,"Bachelor of Arts/Science, University of Virginia",1
+"Richard Kinder",7,"United States",pipelines,369,76,"Houston, Texas","United States",Married,1,"Bachelor of Arts/Science, University of Missouri; Doctor of Jurisprudence, University of Missouri",1
+"Stephen Ross",7,"United States","real estate",369,80,"New York, New York","United States",Married,4,"Master of Laws, New York University; Bachelor of Arts/Science, University of Michigan; Doctor of Jurisprudence, Wayne State University",1
+"Eli Broad",6.9,"United States",investments,380,NULL,NULL,"United States",NULL,2,"Broad College of Business; Bachelor of Arts/Science, Michigan State University",1
+"Jim Davis & family",6.9,"United States",sports,380,77,"Newton, Massachusetts","United States",Married,2,"Bachelor of Arts/Science, Middlebury College",1
+"Guo Guangchang",6.9,China,conglomerate,380,54,"Shanghai, China",China,Married,3,"Bachelor of Arts/Science, Fudan University; Master of Business Administration, Fudan University",1
+"Robert Kraft",6.9,"United States",sports,380,79,"Brookline, Massachusetts","United States",Widowed,4,"Bachelor of Arts/Science, Columbia University; Master of Business Administration, Harvard Business School",1
+"Aloys Wobben",6.8,Germany,"wind turbines",384,69,"Aurich, Germany",Germany,Married,1,"Bachelor of Arts/Science, U of Oldenburg",1
+"Kwon Hyuk-bin",6.7,"South Korea","online games",391,47,"Seoul, South Korea","South Korea",Married,2,"Bachelor of Arts/Science, Sogang University",1
+"Hiroshi Mikitani",6.7,Japan,"online retail",391,56,"Tokyo, Japan",Japan,Married,2,"Master of Business Administration, Harvard University",1
+"Dmitry Rybolovlev",6.7,Russia,fertilizer,391,54,"Monaco, Monaco",Russia,Divorced,2,"Medical Doctor, Perm Medical Institute",1
+"Reinhold Schmieding",6.7,"United States","medical devices",391,66,"Naples, Florida","United States",Married,2,"Bachelor of Arts/Science, Michigan State University",1
+"Bruce Kovner",6.6,"United States","hedge funds",400,76,"New York, New York","United States",Married,3,"Bachelor of Arts/Science, Harvard University",1
+"Wang Wenjing",6.6,China,"business software",400,56,"Beijing, China",China,Married,1,"Bachelor of Arts/Science, Jiangxi University of Finance & Economics",1
+"Brian Armstrong",6.5,"United States",cryptocurrency,404,38,"San Francisco, California","United States",NULL,NULL,"Bachelor of Arts/Economics, Rice University; Master of Arts/Science, Rice University",1
+"James Goodnight",6.5,"United States",software,404,78,"Cary, North Carolina","United States",Married,3,"Bachelor of Arts/Science, North Carolina State University; Doctorate, North Carolina State University; Master of Science, North Carolina State University",1
+"John Overdeck",6.5,"United States","hedge funds",404,51,"Millburn, New Jersey","United States",Married,3,"Bachelor of Arts/Science, Stanford University; Master of Science, Stanford University",1
+"Horst Julius Pudwill",6.5,Germany,manufacturing,404,76,"Hong Kong, Hong Kong",Germany,Married,1,"Master of Science in Engineering, Technical College in Flensburg",1
+"David Siegel",6.5,"United States","hedge funds",404,86,"Windermere, Florida","United States",Married,13,"Drop Out, University of Miami",1
+"Wang Yusuo & family",6.4,China,"natural gas distribution",418,57,"Langfang, China",China,Married,NULL,"Bachelor of Arts/Science, People's University of China; Doctorate, Tianjin University",1
+"Dennis Washington",6.4,"United States","construction, mining",418,86,"Missoula, Montana","United States",Married,2,"Diploma, High School",1
+"Andreas Halvorsen",6.3,Norway,"hedge funds",421,60,"Darien, Connecticut",Norway,Married,3,"Master of Business Administration, Stanford Graduate School of Business; Bachelor of Arts/Science, Williams College",1
+"Andrei Kozitsyn",6.3,Russia,metals,421,60,"Verkhniaya Pyshma, Russia",Russia,Married,1,"Bachelor of Science in Engineering, Ural Polytechnic Institute",1
+"Shi Yuzhu",6.3,China,"online games, investments",421,58,"Shanghai, China",China,Divorced,1,"Master of Science, Shenzhen University; Bachelor of Arts/Science, Zhejiang University",1
+"Arthur Blank",6.2,"United States","home furnishings",432,78,"Atlanta, Georgia","United States",Divorced,6,"Bachelor of Arts/Science, Babson College",1
+"Jiang Bin",6.2,China,"acoustic components",432,54,"Weifang, China",China,Married,1,"Bachelor of Arts/Science, Beijing University of Aeronautics and Astronautics; Master of Business Administration, Tsinghua University",1
+"Jason Jiang",6.2,China,advertising,432,48,"Shanghai, China",China,Married,NULL,"Bachelor of Arts/Science, Huadong Normal University; Bachelor of Arts/Science, Huadong Normal University",1
+"Mitchell Rales",6.2,"United States","manufacturing, investments",432,64,"Potomac, Maryland","United States",Married,2,"Bachelor of Arts/Science, Miami University of Ohio",1
+"Mike Adenuga",6.1,Nigeria,"telecom, oil",440,68,"Lagos, Nigeria",Nigeria,Married,7,"Master of Business Administration, Pace University",1
+"Charles Dolan & family",6.1,"United States","cable television",440,94,"Oyster Bay, New York","United States",Married,6,"Drop Out, John Carroll University",1
+"Marcos Galperin",6.1,Argentina,e-commerce,440,NULL,"Buenos Aires, Argentina",Argentina,NULL,NULL,"Master of Business Administration, Stanford Graduate School of Business; Bachelor of Arts/Science, University of Pennsylvania, The Wharton School",1
+"Huang Li",6.1,China,"imaging systems",440,57,"Wuhan, China",China,Married,NULL,"Master of Science, Huazhong University of Science and Technology",1
+"Li Wa",6.1,"Hong Kong","real estate",440,55,"Shenzhen, China","Hong Kong",NULL,NULL,"Bachelor of Arts/Science, South China University of Technology",1
+"Qian Dongqi & family",6.1,China,"household appliances",440,63,"Suzhou, China",China,Married,NULL,"Master of Philosophy, Nanjing University",1
+"Henry Samueli",6.1,"United States",semiconductors,440,66,"Newport Beach, California","United States",Married,3,"Bachelor of Arts/Science, University of California, Los Angeles; Doctorate, University of California, Los Angeles; Master of Science, University of California, Los Angeles",1
+"Les Wexner & family",6.1,"United States",retail,440,83,"New Albany, Ohio","United States",Married,4,"Bachelor of Arts/Science, Ohio State University",1
+"Robert Brockman",6,"United States",software,451,79,"Houston, Texas","United States",Married,1,"Bachelor of Business Administration, University of Florida",1
+"Dulce Pugliese de Godoy Bueno",6,Brazil,"hospitals, health care",451,73,"Sao Paulo, Brazil",Brazil,Divorced,1,"Doctorate, The University of Texas at Austin; Medical Doctor, Universidade Federal do Rio de Janeiro",1
+"Daniel Dines",6,Romania,software,451,49,"New York, New York",Romania,Married,1,"Bachelor of Science, University of Bucharest; Master of Science, University of Bucharest",1
+"Judy Faulkner",6,"United States","health IT",451,77,"Madison, Wisconsin","United States",Married,3,"Bachelor of Arts/Science, Dickinson College; Master of Science, University of Wisconsin",1
+"Frits Goldschmeding",6,Netherlands,"temp agency",451,87,"Amsterdam, Netherlands",Netherlands,Married,3,"Doctorate, Free University of Amsterdam",1
+"Andrei Guriev & family",6,Russia,fertilizers,451,61,"Moscow, Russia",Russia,Married,2,"Master, Saint Petersburg Mining University; Bachelor of Arts/Science, State Central Institute of Physical Culture",1
+"Jeff Skoll",6,"United States",e-commerce,451,56,"Los Angeles, California","United States",Single,NULL,"Master of Business Administration, Stanford Graduate School of Business; Bachelor of Arts/Science, University of Toronto",1
+"Robert F. Smith",6,"United States","private equity",451,58,"Austin, Texas","United States",Married,7,"Master of Business Administration, Columbia University; Bachelor of Arts/Science, Cornell University",1
+"John A. Sobrato & family",6,"United States","real estate",451,81,"Atherton, California","United States",Married,3,"Bachelor of Arts/Science, Santa Clara University",1
+"Ronald Wanek",6,"United States",furniture,451,79,"Saint Petersburg, Florida","United States",Married,3,"High School Graduate, High School",1
+"Hansjoerg Wyss",6,Switzerland,"medical devices",451,86,"Wilson, Wyoming",Switzerland,Divorced,1,"Master of Business Administration, Harvard University; Master of Science, Swiss Federal Institute of Technology",1
+"Chen Fashu",5.9,China,investments,472,60,"Fuzhou, China",China,Married,4,"China Europe International Business School",1
+"Christopher Hohn",5.9,"United Kingdom","hedge funds",472,54,"London, United Kingdom","United Kingdom",Divorced,NULL,"Master of Business Administration, Harvard Business School",1
+"Chan Laiwa & family",5.8,China,"real estate",476,80,"Beijing, China",China,Married,3,"Doctorate, Savannah College of Art and Design",1
+"Ananda Krishnan",5.8,Malaysia,"telecoms, media, oil-services",476,83,"Kuala Lumpur, Malaysia",Malaysia,Married,3,"Master of Business Administration, Harvard University; Bachelor of Arts/Science, Melbourne University",1
+"Douglas Leone",5.8,"United States","venture capital",476,63,"Atherton, California","United States",Married,4,"Master of Science, Columbia University; Bachelor of Arts/Science, Cornell University; Master of Business Administration, MIT Sloan School of Management",1
+"Meg Whitman",5.8,"United States",e-commerce,476,64,"Los Angeles, California","United States",Married,2,"Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, Princeton University",1
+"Neil Bluhm",5.7,"United States","real estate",486,83,"Chicago, Illinois","United States",Divorced,3,"Doctor of Jurisprudence, Northwestern University; Bachelor of Arts/Science, University of Illinois, Urbana-Champaign",1
+"Andrew Currie",5.7,"United Kingdom",chemicals,486,65,"London, United Kingdom","United Kingdom",NULL,NULL,"Bachelor of Arts/Science, Cambridge University",1
+"Tom Gores",5.7,"United States","private equity",486,56,"Beverly Hills, California","United States",Married,3,"Bachelor of Arts/Science, Michigan State University",1
+"Michael Moritz",5.7,"United States","venture capital",486,66,"San Francisco, California","United States",Married,2,"Bachelor of Arts/Science, Christ Church, Oxford University; Master of Business Administration, University of Pennsylvania, The Wharton School",1
+"John Reece",5.7,"United Kingdom",chemicals,486,64,"London, United Kingdom","United Kingdom",NULL,NULL,"Bachelor of Arts/Science, Cambridge University",1
+"Teh Hong Piow",5.7,Malaysia,banking,486,91,"Kuala Lumpur, Malaysia",Malaysia,Married,4,"Bachelor of Arts/Science, University of Malaya",1
+"Jack Dangermond",5.6,"United States","mapping software",496,75,"Redlands, California","United States",Married,NULL,"Bachelor of Arts/Science, California State Polytechnical University; Master of Science, Harvard University; Master of Science, University of Minnesota",1
+"Stanley Druckenmiller",5.6,"United States","hedge funds",496,67,"New York, New York","United States",Married,NULL,"Bachelor of Arts/Science, Bowdoin College",1
+"Jian Jun",5.6,China,"biomedical products",496,57,"Beijing, China",China,NULL,NULL,"Master of Business Administration, Tsinghua University",1
+"Ken Fisher",5.5,"United States","money management",502,70,"Camas, Washington","United States",Married,3,"Bachelor of Arts/Science, Humboldt State University",1
+"Ivan Glasenberg",5.5,Switzerland,mining,502,64,"Ruschlikon, Switzerland",Switzerland,Married,2,"Master of Business Administration, Marshall School of Business; Bachelor of Arts/Science, University of Witwatersrand",1
+"Karel Komarek",5.5,Czechia,"oil and gas, IT, lotteries",502,52,"Verbier, Switzerland",Czechia,Married,4,"Diploma, Hahnemann Medical College",1
+"Mu Rongjun",5.5,China,e-commerce,502,41,"Beijing, China",China,NULL,NULL,"Bachelor of Engineering, Tsinghua University; Master, Tsinghua University",1
+"J. Christopher Reyes",5.5,"United States","food distribution",502,67,"Hobe Sound, Florida","United States",Married,4,"Bachelor of Arts/Science, University of Maryland",1
+"Jude Reyes",5.5,"United States","food distribution",502,65,"Palm Beach, Florida","United States",Married,3,"Bachelor of Arts/Science, Wofford College",1
+"An Kang",5.4,China,pharmaceutical,520,72,"Xinxiang, China",China,Married,NULL,"Bachelor of Arts/Science, Henan Normal University",1
+"Henry Nicholas, III.",5.4,"United States",semiconductors,520,61,"Newport Coast, California","United States",Divorced,3,"Bachelor of Arts/Science, University of California, Los Angeles; Doctorate, University of California, Los Angeles; Master of Science, University of California, Los Angeles",1
+"Terrence Pegula",5.4,"United States","natural gas",520,70,"Boca Raton, Florida","United States",Married,5,"Bachelor of Science in Engineering, Pennsylvania State University",1
+"Pyotr Aven",5.3,Russia,"oil, banking, telecom",529,66,"Moscow, Russia",Russia,Married,3,"Ph.D, Moscow State University",1
+"Kapil & Rahul Bhatia",5.3,India,airlines,529,NULL,"Delhi, India",India,NULL,NULL,"Bachelor of Science in Engineering, University of Waterloo",1
+"Barry Lam",5.3,Taiwan,electronics,529,72,"Taipei, Taiwan",Taiwan,Married,2,"Bachelor of Arts/Science, National Taiwan University",1
+"Shen Guojun",5.3,China,retail,529,58,"Beijing, China",China,Married,NULL,"Master of Arts, Zhongnan University of Economics and Law",1
+"Sam Zell",5.3,"United States","real estate, private equity",529,79,"Chicago, Illinois","United States",Married,3,"Bachelor of Arts/Science, University of Michigan; Doctor of Jurisprudence, University of Michigan",1
+"John Brown",5.2,"United States","medical equipment",539,86,"Atlanta, Georgia","United States",Married,2,"Bachelor of Science in Engineering, Auburn University",1
+"Joe Mansueto",5.2,"United States","investment research",539,64,"Chicago, Illinois","United States",Married,3,"Bachelor of Arts/Science, University of Chicago",1
+"Neil Shen",5.2,China,"venture capital",539,53,"Hong Kong, China",China,Married,NULL,"Bachelor of Arts/Science, Shanghai Jiaotong University; Master of Arts, Yale University",1
+"David Velez",5.2,Colombia,fintech,539,39,"Sao Paulo, Brazil",Colombia,Married,NULL,"Master of Business Administration, Stanford Graduate School of Business; Bachelor of Science, Stanford University",1
+"Pierre Chen",5.1,Taiwan,electronics,550,64,"Taipei, Taiwan",Taiwan,Divorced,3,"Bachelor of Arts/Science, National Cheng Kung University",1
+"Reed Hastings",5.1,"United States","online media",550,60,"Santa Cruz, California","United States",Married,2,"Bachelor of Arts/Science, Bowdoin College; Master of Science, Stanford University",1
+"Bernard Broermann",5,Germany,hospitals,561,77,"Koenigstein, Germany",Germany,Married,3,"Master of Business Administration, Harvard University",1
+"Jason Chang",5,Singapore,electronics,561,77,"Taipei, Taiwan",Singapore,Married,3,"Bachelor of Arts/Science, National Taiwan University",1
+"Joshua Harris",5,"United States","private equity",561,56,"New York, New York","United States",Married,5,"Master of Business Administration, Harvard University; Bachelor of Arts/Science, University of Pennsylvania, The Wharton School",1
+"Lin Xiucheng & family",5,China,electronics,561,65,"Xiamen, China",China,Married,4,"Bachelor of Arts/Science, Xiamen University",1
+"Walter Scott, Jr. & family",5,"United States","utilities, telecom",561,89,"Omaha, Nebraska","United States",Widowed,6,"Bachelor of Arts/Science, Colorado State University",1
+"Charles Simonyi",5,"United States",software,561,72,"Medina, Washington","United States",Married,2,"Doctorate, Stanford University; Bachelor of Arts/Science, University of California, Berkeley",1
+"Kate Wang",5,China,e-cigarettes,561,39,"Beijing, China",China,NULL,NULL,"Master of Business Administration, Columbia Business School; Bachelor of Science, Xi'an Jiaotong University",1
+"Stephen Bisciotti",4.9,"United States","staffing, Baltimore Ravens",574,61,"Millersville, Maryland","United States",Married,2,"Bachelor of Arts/Science, Salisbury State University",1
+"Lin Li",4.9,China,investments,574,58,"Shenzhen, China",China,Married,1,"Chinese Academy of Social Sciences; Bachelor of Arts/Science, Hubei University of Technology",1
+"Mark Scheinberg",4.9,Canada,"online gambling",574,47,"Isle of Man, United Kingdom",Canada,Single,NULL,"Drop Out, Fanshawe College",1
+"Howard Schultz",4.9,"United States",Starbucks,574,67,"Seattle, Washington","United States",Married,2,"Bachelor of Arts/Science, Northern Michigan University",1
+"Yasumitsu Shigeta",4.9,Japan,"mobile phone retailer",574,56,"Tokyo, Japan",Japan,Married,3,"Drop Out, Nihon University",1
+"Thomas Siebel",4.9,"United States","business software",574,68,"Woodside, California","United States",Married,4,"Bachelor of Arts/Science, University of Illinois, Urbana-Champaign; Master of Business Administration, University of Illinois, Urbana-Champaign; Master of Science, University of Illinois, Urbana-Champaign",1
+"Peter Thiel",4.9,"United States","social network",574,53,"Los Angeles, California","United States",Single,NULL,"Bachelor of Arts/Science, Stanford University; Doctor of Jurisprudence, Stanford University",1
+"Chip Wilson",4.9,Canada,"sports apparel",574,64,"Vancouver, Canada",Canada,Married,5,"Bachelor of Arts/Science, University of Calgary",1
+"Richard Branson",4.8,"United Kingdom",airlines,589,70,"Necker Island, British Virgin Islands","United Kingdom",Married,2,"Drop Out, High School",1
+"Huang Yi",4.8,"Hong Kong","car dealerships",589,59,"Beijing, China","Hong Kong",Married,NULL,"Bachelor of Arts/Science, Xiamen University",1
+"Ted Lerner & family",4.8,"United States","real estate",589,95,"Chevy Chase, Maryland","United States",Married,3,"Associate in Arts/Science, George Washington University; LLB, George Washington University",1
+"Lin Shu-hong",4.8,Taiwan,petrochemicals,589,92,"Taipei, Taiwan",Taiwan,Married,4,"National Taipei University of Technology",1
+"Yuri Milner",4.8,Israel,"tech investments",589,59,"Los Altos, California",Israel,Married,3,"Bachelor of Arts/Science, Moscow State University; Drop Out, University of Pennsylvania, The Wharton School",1
+"Chairul Tanjung",4.8,Indonesia,diversified,589,58,"Jakarta, Indonesia",Indonesia,Married,2,"Medical Doctor, University of Indonesia",1
+"Alan Trefler",4.8,"United States",software,589,65,"Brookline, Massachusetts","United States",Married,NULL,"Associate in Arts/Science, Dartmouth College",1
+"Radovan Vitek",4.8,Czechia,"real estate",589,50,"Crans Montana, Switzerland",Czechia,Married,4,"Law Degree, University of West Bohemia",1
+"Frank Wang",4.8,China,drones,589,40,"Shenzhen, China",China,Married,NULL,"Bachelor of Arts/Science, Hong Kong University of Science and Technology; Master of Science, Hong Kong University of Science and Technology",1
+"Wang Zhendong",4.8,China,education,589,44,"Beijing, China",China,NULL,NULL,"Bachelor of Arts/Science, Peking University",1
+"Nathan Kirsh",4.7,"Eswatini (Swaziland)","retail, real estate",608,89,"Ezulwini, Eswatini (Swaziland)","Eswatini (Swaziland)",Married,3,"Bachelor of Arts/Science, University of Witwatersrand",1
+"Ken Langone",4.7,"United States",investments,608,85,"Sands Point, New York","United States",Married,3,"Bachelor of Arts/Science, Bucknell University; Master of Business Administration, Leonard N. Stern School of Business",1
+"Michael Pieper",4.7,Switzerland,"kitchen appliances",608,75,"Lucerne, Switzerland",Switzerland,Married,2,"Master of Business Administration, St Gallen University",1
+"Richard Schulze",4.7,"United States","Best Buy",608,80,"Bonita Springs, Florida","United States","Widowed, Remarried",10,"Diploma, High School",1
+"Oleg Tinkov",4.7,Russia,banking,608,53,"Moscow, Russia",Russia,Married,3,"Diploma, University of California, Berkeley",1
+"Mark Walter",4.7,"United States",finance,608,60,"Chicago, Illinois","United States",Married,1,"Bachelor of Arts/Science, Creighton University; Doctor of Jurisprudence, Northwestern University",1
+"Patrizio Bertelli",4.6,Italy,"luxury goods",622,75,"Milan, Italy",Italy,Married,2,"Master of Business Administration, University of Florence",1
+"Bert Beveridge",4.6,"United States",vodka,622,59,"Austin, Texas","United States",Married,3,"Bachelor of Arts/Science, University of Texas at Austin",1
+"Chen Lip Keong",4.6,Malaysia,"casinos, property, energy",622,73,"Phnom Penh, Cambodia",Malaysia,Married,3,"Medical Doctor, University of Malaya",1
+"Dong Fan",4.6,China,"medical devices",622,NULL,"Zhuhai, China",China,NULL,NULL,"Bachelor of Arts/Science, Shanghai University of Finance and Economics; Master of Business Administration, Sun Yat-sen University",1
+"Tilman Fertitta",4.6,"United States","Houston Rockets, entertainment",622,63,"Houston, Texas","United States",Married,4,"Drop Out, Texas Tech University; Drop Out, University of Houston",1
+"Peter Gassner",4.6,"United States",software,622,56,"Pleasanton, California","United States",Married,2,"Bachelor of Science, Oregon State University",1
+"Denis O'Brien",4.6,Ireland,telecom,622,63,"Dublin, Ireland",Ireland,Married,4,"Master of Business Administration, Carroll School of Management",1
+"Ron Baron",4.5,"United States","money management",638,77,"New York, New York","United States",Married,2,"Bachelor of Arts/Science, Bucknell University",1
+"Andre Esteves",4.5,Brazil,banking,638,52,"Sao paulo, Brazil",Brazil,Married,3,"Bachelor of Arts/Science, Universidade Federal do Rio de Janeiro",1
+"Jonathan Gray",4.5,"United States",investments,638,51,"New York, New York","United States",Married,NULL,"Bachelor of Arts/Science, University of Pennsylvania, The Wharton School",1
+"Hu Baifan",4.5,China,pharmaceutical,638,58,"Shaoxing, China",China,NULL,NULL,"Bachelor of Arts/Science, Shaoxing University; Master of Business Administration, Zhejiang University",1
+"Viatcheslav Kantor",4.5,Russia,"fertilizer, real estate",638,67,"London, United Kingdom",Russia,Married,5,"Ph.D, Moscow Aviation University",1
+"Min Kao & family",4.5,"United States","navigation equipment",638,72,"Leawood, Kansas","United States",Married,2,"Bachelor of Arts/Science, National Taiwan University; Doctorate, University of Tennessee Knoxville; Master of Science, University of Tennessee Knoxville",1
+"Rudolf Maag",4.5,Switzerland,"medical devices",638,75,"Binningen, Switzerland",Switzerland,Married,2,"Master of Business Administration, INSEAD",1
+"Sami Mnaymneh",4.5,"United States","private equity",638,59,"Miami Beach, Florida","United States",NULL,NULL,"Bachelor of Arts/Economics, Columbia University; Master of Business Administration, Harvard Business School; Doctor of Jurisprudence, Harvard University",1
+"Igor Olenicoff",4.5,"United States","real estate",638,78,"Lighthouse Point, Florida","United States",Married,2,"Bachelor of Arts/Science, University of Southern California; Master of Business Administration, University of Southern California; Master of Science, University of Southern California",1
+"Sergei Popov",4.5,Russia,banking,638,49,"Moscow, Russia",Russia,Married,2,"Bachelor of Arts/Science, Ural State Technical University",1
+"Julian Robertson, Jr.",4.5,"United States","hedge funds",638,88,"Locust Valley, New York","United States",Widowed,3,"Bachelor of Arts/Science, University of North Carolina",1
+"Zhu Baoguo & family",4.5,China,pharmaceutical,638,59,"Shenzhen, China",China,Married,NULL,"Bachelor of Arts/Science, Henan Normal University",1
+"Orlando Bravo",4.4,"United States","private equity",655,50,"Miami Beach, Florida","United States",Married,3,"Bachelor of Arts/Science, Brown University; Master of Business Administration, Stanford Graduate School of Business; Doctor of Jurisprudence, Stanford University",1
+"Garrett Camp",4.4,Canada,Uber,655,42,"San Francisco, California",Canada,"In Relationship",NULL,"Master of Science, University of Calgary",1
+"Mark Cuban",4.4,"United States","online media",655,62,"Dallas, Texas","United States",Married,3,"Bachelor of Arts/Science, Indiana University",1
+"Michael Minhong Yu",4.4,China,education,655,59,"Beijing, China",China,Married,2,"Bachelor of Arts/Science, Peking University",1
+"StÃ©phane Bancel",4.3,France,biotech,665,48,"Boston, Massachusetts",France,NULL,NULL,"Master of Science in Engineering, Ecole Centrale Paris; Master of Business Administration, Harvard University; Master of Science in Engineering, University of Minnesota",1
+"Rakesh Jhunjhunwala",4.3,India,investments,665,60,"Mumbai, India",India,Married,3,"B.Com, Bombay University; Chartered Accountant, The Institute of Chartered Accountants of India",1
+"Eric Lefkofsky",4.3,"United States",Groupon,665,51,"Glencoe, Illinois","United States",Married,3,"Bachelor of Arts/Science, University of Michigan; Doctor of Jurisprudence, University of Michigan",1
+"Antony Ressler",4.3,"United States",finance,665,59,"Los Angeles, California","United States",Married,3,"Master of Business Administration, Columbia Business School; Bachelor of Arts/Science, Georgetown University",1
+"Paul Singer",4.3,"United States","hedge funds",665,76,"New York, New York","United States","In Relationship",NULL,"Doctor of Jurisprudence, Harvard University; Bachelor of Arts/Science, University of Rochester",1
+"Steven Udvar-Hazy",4.3,"United States","aircraft leasing",665,75,"Beverly Hills, California","United States",Married,4,"Bachelor of Arts/Science, University of California, Los Angeles",1
+"Takao Yasuda",4.3,Japan,retail,665,72,"Singapore, Singapore",Japan,Married,1,"Bachelor of Arts/Science, Keio University",1
+"Ye Chenghai & family",4.3,"Hong Kong",pharmaceutical,665,77,"Hong Kong, Hong Kong","Hong Kong",Married,2,"Bachelor of Arts/Science, Renmin University of China",1
+"Rick Caruso",4.2,"United States","real estate",680,62,"Los Angeles, California","United States",Married,4,"Doctor of Jurisprudence, Pepperdine University; Bachelor of Arts/Science, University of Southern California",1
+"Scott Cook",4.2,"United States",software,680,68,"Woodside, California","United States",Married,3,"Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, University of Southern California",1
+"Barry Diller",4.2,"United States","online media",680,79,"New York, New York","United States",Married,NULL,"Drop Out, University of California, Los Angeles",1
+"Fu Liquan & family",4.2,China,"surveillance equipment",680,53,"Hangzhou, China",China,Married,1,"Bachelor of Arts/Science, Zhejiang Shuren University; EMBA, Zhejiang University",1
+"Tom Golisano",4.2,"United States","payroll services",680,79,"Naples, Florida","United States",Married,2,"Associate in Arts/Science, SUNY Tech Alfred",1
+"Martin Lau",4.2,"Hong Kong",e-commerce,680,48,"Hong Kong, Hong Kong","Hong Kong",NULL,NULL,"Master of Business Administration, Kellogg School of Management; Master of Science in Engineering, Stanford University; Bachelor of Science in Engineering, University of Michigan",1
+"Li Li",4.2,China,healthcare,680,57,"Shenzhen, China",China,Married,NULL,"Bachelor of Arts/Science, Sichuan University",1
+"Ken Xie",4.2,"United States",cybersecurity,680,58,"Los Altos Hills, California","United States",Married,NULL,"Master of Science, Stanford University; Bachelor of Science, Tsinghua University; Master of Science, Tsinghua University",1
+"Xue Hua",4.2,China,agribusiness,680,NULL,"Guangzhou, China",China,NULL,NULL,"Bachelor of Arts/Science, Huazhong Agricultural University",1
+"Steven Meng Yang & family",4.2,China,electronics,680,39,"Changsha, China",China,Married,NULL,"Bachelor of Arts/Science, Peking University; Masters of Science in Technology, The University of Texas, Austin",1
+"David Bonderman",4.1,"United States","private equity",705,78,"Fort Worth, Texas","United States",Married,5,"Doctor of Jurisprudence, Harvard University; Bachelor of Arts/Science, University of Washington",1
+"Matthew Calkins",4.1,"United States",software,705,48,"Rosslyn, Virginia","United States",Divorced,2,"Bachelor of Arts/Economics, Dartmouth College",1
+"Daniel Kretinsky",4.1,Czechia,"energy, investments",705,45,"Prague, Czechia",Czechia,"In Relationship",1,"Law Degree, Masaryk University",1
+"John Morris",4.1,"United States","sporting goods retail",705,73,"Springfield, Missouri","United States",Married,4,"Bachelor of Arts/Science, Drury University",1
+"Gabe Newell",4.1,"United States",videogames,705,58,"Seattle, Washington","United States",Divorced,2,"Drop Out, Harvard University",1
+"Du Jiangtao & family",4,China,chemicals,727,51,"Beijing, China",China,Married,NULL,"Master of Arts, Beijing Institute of Technology",1
+"Igor Kesaev",4,Russia,"tobacco distribution, retail",727,54,"Moscow, Russia",Russia,Married,3,"Bachelor of Arts/Science, Moscow Institute of International Relations",1
+"Koon Poh Keong",4,Malaysia,aluminum,727,60,"Petaling Jaya, Malaysia",Malaysia,Married,NULL,"Bachelor of Engineering, University of Oklahoma",1
+"Paul Xiaoming Lee & family",4,"United States",packaging,727,63,"Yuxi, China","United States",Married,NULL,"Master of Science, University of Massachusetts",1
+"Kiran Mazumdar-Shaw",4,India,biopharmaceutical,727,68,"Bangalore, India",India,Married,NULL,"Bachelor of Arts/Science, Bangalore University; Master of Science, Melbourne University",1
+"Masahiro Noda",4,Japan,software,727,82,"Tokyo, Japan",Japan,Married,NULL,"Bachelor of Arts/Economics, Kansai University",1
+"Trevor Rees-Jones",4,"United States","oil & gas",727,69,"Dallas, Texas","United States",Married,2,"Bachelor of Arts/Science, Dartmouth College; Doctor of Jurisprudence, Southern Methodist University",1
+"Ira Rennert",4,"United States",investments,727,86,"New York, New York","United States",Married,3,"Bachelor of Arts/Science, Brooklyn College; Master of Business Administration, Leonard N. Stern School of Business",1
+"Marc Rowan",4,"United States","private equity",727,58,"New York, New York","United States",Married,NULL,"Bachelor of Arts/Science, University of Pennsylvania; Master of Business Administration, University of Pennsylvania, The Wharton School",1
+"Ye Xiaoping",4,China,pharmaceutical,727,58,"Hangzhou, China",China,NULL,NULL,"Ph.D, Oxford University",1
+"Zhou Hongyi",4,China,"security software",727,50,"Beijing, China",China,Married,NULL,"Master of Science, Xi'an Jiaotong University",1
+"Du Weimin",3.9,China,vaccines,752,57,"Shenzhen, China",China,Married,NULL,"Master of Business Administration, Jinan University",1
+"Rakesh Gangwal",3.9,"United States",airline,752,67,"Miami, Florida","United States",Married,1,"Bachelor of Science in Engineering, Indian Institute of Technology; Master of Business Administration, University of Pennsylvania, The Wharton School",1
+"Jeff Greene",3.9,"United States","real estate, investments",752,66,"Palm Beach, Florida","United States",Married,3,"Master of Business Administration, Harvard University; Bachelor of Arts/Science, Johns Hopkins University",1
+"Johnelle Hunt",3.9,"United States",trucking,752,89,"Fayetteville, Arkansas","United States",Widowed,2,"Drop Out, University of Central Arkansas",1
+"Jin Baofang",3.9,China,"solar energy",752,68,"Xingtai, China",China,Married,NULL,"Associate in Arts/Science, Hebei Broadcast and Television University",1
+"Stephen Mandel, Jr.",3.9,"United States","hedge funds",752,65,"Greenwich, Connecticut","United States",Married,3,"Bachelor of Arts/Science, Dartmouth College; Master of Business Administration, Harvard University; Diploma, Phillips Academy Exeter",1
+"Gilles Martin",3.9,France,"laboratory services",752,57,"Nantes, France",France,Married,NULL,"Bachelor of Arts/Science, Ecole centrale de Paris; Master, Syracuse University; Ph.D, Syracuse University",1
+"Masahiro Miki",3.9,Japan,shoes,752,65,"Tokyo, Japan",Japan,Married,NULL,"Bachelor of Arts/Science, Toho Gakuen tanki University",1
+"Ben Silbermann",3.9,"United States","social network",752,38,"San Francisco, California","United States",Married,2,"Bachelor of Arts/Science, Yale University",1
+"Yi Zheng",3.9,China,software,752,50,"Hangzhou, China",China,NULL,NULL,"Bachelor of Arts/Science, Zhejiang University",1
+"Daniel D'Aniello",3.8,"United States","private equity",775,74,"Vienna, Virginia","United States",Married,2,"Master of Business Administration, Harvard University; Bachelor of Arts/Science, Syracuse University",1
+"Oleg Deripaska",3.8,Russia,"aluminum, utilities",775,53,"Moscow, Russia",Russia,Divorced,2,"Bachelor of Arts/Science, Moscow State University",1
+"Sergey Dmitriev",3.8,Russia,"computer software",775,55,"Prague, Czechia",Russia,NULL,NULL,"Master of Science, Saint Petersburg State University",1
+"Feng Hailiang",3.8,China,"copper, education",775,60,"Zhuji, China",China,Married,2,"Master of Business Administration, Zhejiang University",1
+"Gao Dekang & family",3.8,China,apparel,775,69,"Changshu, China",China,Married,3,"EMBA, Phoenix International University",1
+"Sergei Gordeev",3.8,Russia,"real estate",775,48,"Moscow, Russia",Russia,Single,NULL,"Bachelor of Arts/Science, Togliatti Academy of Management",1
+"Amos Hostetter, Jr.",3.8,"United States","cable television",775,84,"Boston, Massachusetts","United States",Married,3,"Bachelor of Arts/Science, Amherst College; Master of Business Administration, Harvard University",1
+"Qiu Jianping & family",3.8,China,"hand tools",775,59,"Hangzhou, China",China,Married,NULL,"Master of Science, Xi'an Jiaotong University",1
+"Donald Sterling",3.8,"United States","real estate",775,87,"Beverly Hills, California","United States",Married,3,"Bachelor of Arts/Science, California State Los Angeles; Doctor of Jurisprudence, Southwestern Law School",1
+"Don Vultaggio & family",3.8,"United States",beverages,775,69,"Port Washington, New York","United States",Married,2,"High School Graduate, High School",1
+"Zhang Jin",3.8,China,commodities,775,49,"Guangzhou, China",China,NULL,NULL,"Master of Arts, Hong Kong Polytechnic University; EMBA, Peking University",1
+"Marian Ilitch",3.7,"United States","Little Caesars",807,88,"Bingham Farms, Michigan","United States",Widowed,7,"Diploma, High School; High School Graduate, High School",1
+"Kong Jian Min",3.7,China,"real estate",807,53,"Guangzhou, China",China,NULL,NULL,"Bachelor of Arts/Science, Jinan University",1
+"Li Yongxin & family",3.7,China,education,807,45,"Beijing, China",China,Married,NULL,"Bachelor of Arts/Science, Peking University",1
+"Michael Milken",3.7,"United States",investments,807,74,"Los Angeles, California","United States",Married,3,"Bachelor of Arts/Science, University of California, Berkeley; Master of Business Administration, University of Pennsylvania, The Wharton School",1
+"Ronald Perelman",3.7,"United States","leveraged buyouts",807,78,"New York, New York","United States",Married,8,"Bachelor of Arts/Science, University of Pennsylvania; Master of Business Administration, University of Pennsylvania, The Wharton School",1
+"J. Joe Ricketts & family",3.7,"United States","electronic trading",807,79,"Little Jackson Hole, Wyoming","United States",Married,4,"Bachelor of Arts/Science, Creighton University",1
+"Jeff Rothschild",3.7,"United States","social network",807,66,"Palo Alto, California","United States",Married,3,"Bachelor of Arts/Science, Vanderbilt University; Master of Science, Vanderbilt University",1
+"David Rubenstein",3.7,"United States","private equity",807,71,"Bethesda, Maryland","United States",Divorced,3,"Bachelor of Arts/Science, Duke University; Doctor of Jurisprudence, University of Chicago",1
+"Steven Spielberg",3.7,"United States",movies,807,74,"Pacific Palisades, California","United States",Married,7,"Bachelor of Arts/Science, California State Long Beach",1
+"Barry Sternlicht",3.7,"United States","private equity",807,60,"Miami, Florida","United States",Married,3,"Bachelor of Arts/Science, Brown University",1
+"Mark Stevens",3.7,"United States","venture capital",807,61,"Steamboat Springs, Colorado","United States",Married,3,"Master of Business Administration, Harvard University; Bachelor of Arts/Science, University of Southern California; Master of Science, University of Southern California",1
+"David Steward",3.7,"United States","IT provider",807,69,"St. Louis, Missouri","United States",Married,NULL,"Bachelor of Arts/Science, Central Missouri State University",1
+"Vincent Viola",3.7,"United States","electronic trading",807,65,"New York, New York","United States",Married,3,"Doctor of Jurisprudence, New York Law School; Bachelor of Arts/Science, United States Military Academy",1
+"Wang Roger",3.7,"United States",retail,807,72,"Nanjing, China","United States",Married,2,"Bachelor of Arts/Science, Chinese Culture University; Master of Business Administration, Southeastern Louisiana University",1
+"Russ Weiner",3.7,"United States","energy drinks",807,51,"Delray Beach, Florida","United States",Single,NULL,"Bachelor of Arts/Science, San Diego State University",1
+"Herbert Wertheim",3.7,"United States",investments,807,81,"Coral Gables, Florida","United States",Married,NULL,"Associate in Arts/Science, Brevard Community College; Doctorate, Southern College of Optometry",1
+"Leonid Boguslavsky",3.6,Russia,"venture capital",831,69,"Moscow, Russia",Russia,Married,4,"Master of Science, Moscow Institute for Transport Engineering",1
+"Steve Conine",3.6,"United States","online retail",831,48,"Boston, Massachusetts","United States",Married,3,"Bachelor of Science in Engineering, Cornell University",1
+"Daryl Katz",3.6,Canada,pharmacies,831,59,"Edmonton, Canada",Canada,Married,2,"Bachelor of Arts/Science, University of Alberta; Doctor of Jurisprudence, University of Alberta",1
+"Daniel Och",3.6,"United States","hedge funds",831,60,"Miami Beach, Florida","United States",Married,3,"Bachelor of Arts/Science, University of Pennsylvania, The Wharton School",1
+"Rodger Riney & family",3.6,"United States","discount brokerage",831,75,"St. Louis, Missouri","United States",Married,3,"Bachelor of Arts/Science, University of Missouri; Master of Business Administration, University of Missouri",1
+"Niraj Shah",3.6,"United States","online retail",831,47,"Boston, Massachusetts","United States",Married,2,"Bachelor of Science in Engineering, Cornell University",1
+"Michael Tojner",3.6,Austria,"batteries, investments",831,55,"Vienna, Austria",Austria,NULL,NULL,"Master of Business Administration, University of Vienna; Master of Laws, University of Vienna",1
+"Ty Warner",3.6,"United States","real estate, plush toys",831,76,"Oak Brook, Illinois","United States",Single,NULL,"Drop Out, Kalamazoo College",1
+"Zhang Hongwei",3.6,China,"oil, banking",831,66,"Beijing, China",China,Married,3,"Bachelor of Arts/Science, Harbin Engineering University; Master of Science, Harbin Institute of Technology",1
+"Andrej Babis",3.5,Czechia,agriculture,859,66,"Prague, Czechia",Czechia,Married,4,"Master, University of Economics in Bratislava (UEB)",1
+"Chuchat Petaumpai & Daonapa Petampai",3.5,Thailand,"motorcycle loans",859,67,"Bangkok, Thailand",Thailand,Married,2,"Bachelor of Arts/Economics, Oklahoma State University",1
+"David Filo",3.5,"United States","internet service provider",859,55,"Palo Alto, California","United States",Married,1,"Master of Science, Stanford University; Bachelor of Arts/Science, Tulane University",1
+"Sergei Galitsky",3.5,Russia,retail,859,53,"Krasnodar, Russia",Russia,Married,1,"Bachelor of Arts/Science, Kuban State University",1
+"Lim Wee Chai",3.5,Malaysia,"rubber gloves",859,63,"Kuala Lumpur, Malaysia",Malaysia,Married,2,"Master of Business Administration, Sul Ross State University; Bachelor of Arts/Science, University of Malaya",1
+"Daniel Loeb",3.5,"United States","hedge funds",859,59,"New York, New York","United States",Married,NULL,"Bachelor of Arts/Science, Columbia University",1
+"Jim McKelvey",3.5,"United States","mobile payments",859,55,"St. Louis, Missouri","United States",NULL,NULL,"Bachelor of Arts/Economics, Washington University in St. Louis; Bachelor of Science, Washington University in St. Louis",1
+"Apoorva Mehta",3.5,Canada,"grocery delivery service",859,34,"San Francisco, California",Canada,Single,NULL,"Bachelor of Arts/Science, University of Waterloo",1
+"N.R. Narayana Murthy",3.5,India,"software services",859,74,"Bangalore, India",India,Married,2,"Master of Science, Indian Institute of Technology",1
+"John Paulson",3.5,"United States","hedge funds",859,65,"New York, New York","United States",Married,2,"Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, New York University",1
+"Michael Rubin",3.5,"United States","online retail",859,48,"Bryn Mawr, Pennsylvania","United States",Divorced,1,"Drop Out, Villanova University",1
+"Thomas Secunda",3.5,"United States","Bloomberg LP",859,66,"Croton-on-Hudson, New York","United States",Married,2,"Bachelor of Arts/Science, SUNY Binghamton",1
+"Vivek Chaand Sehgal",3.5,Australia,"auto parts",859,64,"Delhi, India",Australia,Married,2,"Bachelor of Arts/Science, Delhi University",1
+"Romesh T. Wadhwani",3.5,"United States",software,859,73,"Palo Alto, California","United States",Married,1,"Doctorate, Carnegie Mellon University; Master of Science, Carnegie Mellon University; Bachelor of Arts/Science, Indian Institute of Technology, Bombay",1
+"William Conway, Jr.",3.4,"United States","private equity",891,71,"McLean, Virginia","United States",Married,1,"Bachelor of Arts/Science, Dartmouth College",1
+"Jim Davis",3.4,"United States","staffing & recruiting",891,77,"Newton, Massachusetts","United States",Married,2,"Bachelor of Arts/Science, Middlebury College",1
+"Ennio Doris & family",3.4,Italy,"financial services",891,80,"Tombolo, Italy",Italy,Married,2,"Diploma, High School",1
+"Alexander Frolov",3.4,Russia,"mining, steel",891,56,"Moscow, Russia",Russia,Married,1,"Doctorate, Moscow Institute of Physics and Technology",1
+"Viktor Kharitonin",3.4,Russia,pharmaceutical,891,48,"Moscow, Russia",Russia,Married,2,"Bachelor of Arts/Science, Novosibirsk State University",1
+"Steven Klinsky",3.4,"United States",investments,891,64,"New York, New York","United States",NULL,NULL,"Master of Business Administration, Harvard Business School; Doctor of Jurisprudence, Harvard Law School; Bachelor of Arts/Economics, University of Michigan, Ann Arbor",1
+"Chris Larsen",3.4,"United States",cryptocurrency,891,60,"San Francisco, California","United States",Married,2,"Bachelor of Arts/Science, San Francisco State University; Master of Business Administration, Stanford Graduate School of Business",1
+"Arturo Moreno",3.4,"United States","billboards, Anaheim Angels",891,74,"Phoenix, Arizona","United States",Married,3,"Bachelor of Arts/Science, University of Arizona",1
+"God Nisanov",3.4,Russia,"real estate",891,49,"Moscow, Russia",Russia,Married,3,"Diploma, Baku Institute of Law",1
+"Benjamin Zhengmin Pan & family",3.4,China,electronics,891,51,"Shenzhen, China",China,Married,NULL,"Jiangsu Province Wujin Teacher School",1
+"Jay Paul",3.4,"United States","real estate",891,73,"San Francisco, California","United States",Married,NULL,"Bachelor of Arts/Science, Boston University",1
+"Patrick Ryan",3.4,"United States",insurance,891,83,"Winnetka, Illinois","United States",Married,3,"Bachelor of Arts/Science, Northwestern University",1
+"Frank VanderSloot",3.4,"United States","nutrition, wellness products",891,72,"Idaho Falls, Idaho","United States",Married,14,"Bachelor of Arts/Science, Brigham Young University",1
+"Kelcy Warren",3.4,"United States",pipelines,891,65,"Dallas, Texas","United States",Married,1,"Bachelor of Arts/Science, University of Texas Arlington",1
+"Vladimir Yevtushenkov",3.4,Russia,"telecom, investments",891,72,"Moscow, Russia",Russia,Married,2,"Bachelor of Arts/Science, Mendeleyev Chemical Engin; Master of Science, Moscow State University",1
+"Somphote Ahunai",3.3,Thailand,"renewable energy",925,53,"Bangkok, Thailand",Thailand,Married,3,"Master of Business Administration, Joseph M. Katz Graduate School of Business",1
+"John Arnold",3.3,"United States","hedge funds",925,47,"Houston, Texas","United States",Married,2,"Bachelor of Arts/Science, Vanderbilt University",1
+"Neal Blue & family",3.3,"United States",defense,925,86,"San Diego, California","United States",Widowed,NULL,"Bachelor of Arts/Science, Yale University",1
+"Joseph Edelman",3.3,"United States","hedge funds",925,65,"New York, New York","United States",Married,NULL,"Master of Business Administration, New York University; Bachelor of Arts/Science, University of California, San Diego",1
+"Senapathy Gopalakrishnan",3.3,India,"software services",925,66,"Bangalore, India",India,Married,1,"Master of Science, Indian Institute of Technology",1
+"B. Wayne Hughes",3.3,"United States","self storage",925,87,"Lexington, Kentucky","United States",Divorced,2,"Bachelor of Arts/Science, University of Southern California",1
+"Samvel Karapetyan",3.3,Russia,"real estate",925,55,"Moscow, Russia",Russia,Married,3,"Bachelor of Arts/Science, Yerevan Polytechnic Institute",1
+"Jim Koch",3.3,"United States",beer,925,71,"Newton, Massachusetts","United States",Married,4,"Bachelor of Arts/Science, Harvard University; Doctor of Jurisprudence, Harvard University; Master of Business Administration, Harvard University",1
+"Yuri Kovalchuk",3.3,Russia,"banking, insurance, media",925,69,"St. Petersburg, Russia",Russia,Married,1,"Doctorate, St Petersburg State University",1
+"Qi Xiangdong",3.3,China,software,925,50,"Beijing, China",China,Married,NULL,"Master of Business Administration, Beijing University of Science and Technology; Bachelor of Arts/Science, Changchun College of Posts and Telecommunications",1
+"Tahir & family",3.3,Indonesia,diversified,925,69,"Jakarta, Indonesia",Indonesia,Married,4,"Master of Business Administration, Golden Gate University; Bachelor of Arts/Science, Nan Yang University",1
+"Lucio Tan",3.3,Philippines,diversified,925,86,"Manila, Philippines",Philippines,Married,6,"Bachelor of Arts/Science, Far Eastern University",1
+"Zhang Xin & Pan Shiyi",3.3,China,"real estate",925,55,"Beijing, China",China,Married,2,"Master of Arts, Cambridge University; Bachelor of Arts/Science, University of Sussex",1
+"John Collison",3.2,Ireland,"payments software",956,30,"San Francisco, California",Ireland,Single,NULL,"Drop Out, Harvard University",1
+"Patrick Collison",3.2,Ireland,"payment software",956,32,"San Francisco, California",Ireland,Engaged,NULL,"Drop Out, Massachusetts Institute of Technology",1
+"Jack Cowin",3.2,Australia,"fast food",956,78,"Sydney, Australia",Australia,Married,4,"Bachelor of Arts/Science, University of Western Ontario",1
+"Archie Aldis Emmerson & family",3.2,"United States","timberland, lumber mills",956,92,"Redding, California","United States",Married,3,"Diploma, High School",1
+"Juan Carlos Escotet",3.2,Venezuela,banking,956,61,"A CoruÃ±a, Spain",Venezuela,Married,4,"Master, University of Miami",1
+"Don Hankey",3.2,"United States","auto loans",956,77,"Malibu, California","United States",Married,4,"Bachelor of Arts/Science, University of Southern California",1
+"He Zhaoxi",3.2,China,software,956,47,"Shenzhen, China",China,Married,NULL,"Bachelor of Engineering, Huazhong University of Science and Technology",1
+"Thai Lee",3.2,"United States","IT provider",956,62,"Austin, Texas","United States",Divorced,2,"Bachelor of Arts/Science, Amherst College; Master of Business Administration, Harvard Business School",1
+"Mikhail Lomtadze",3.2,Georgia,fintech,956,45,"Almaty, Kazakhstan",Georgia,Single,NULL,"Master of Business Administration, Harvard Business School",1
+"John Sall",3.2,"United States",software,956,73,"Cary, North Carolina","United States",Married,4,"Bachelor of Arts/Science, Beloit College; Master of Arts, Northern Illinois University",1
+"Steve Wynn",3.2,"United States","casinos, hotels",956,79,"Las Vegas, Nevada","United States",Married,2,"Bachelor of Arts/Science, University of Pennsylvania",1
+"Martin Ebner",3.1,Switzerland,investments,986,75,"Wilen, Switzerland",Switzerland,Married,NULL,"Doctorate, University of Florida; Bachelor of Arts/Science, University of Zurich",1
+"Artem Khachatryan",3.1,Russia,retail,986,46,"Moscow, Russia",Russia,NULL,NULL,"Master of Science, Moscow State Mining University",1
+"Li Zhongchu",3.1,China,software,986,57,"Beijing, China",China,Married,NULL,"Bachelor of Arts/Science, Wuhan University",1
+"Sergey Lomakin",3.1,Russia,retail,986,47,"Moscow, Russia",Russia,Married,5,"Master of Science, Moscow State Mining University",1
+"Herb Simon",3.1,"United States","real estate",986,86,"Indianapolis, Indiana","United States",Married,8,"Bachelor of Arts/Science, City College of New York",1
+"Jerry Speyer",3.1,"United States","real estate",986,80,"New York, New York","United States",Married,4,"Master of Business Administration, Columbia Business School; Bachelor of Arts/Science, Columbia University",1
+"Koos Bekker",3,"South Africa","media, investments",1008,68,"Cape Town, South Africa","South Africa",Married,2,"Master of Business Administration, Columbia Business School; LLB, University of Witwatersrand",1
+"Ben Chestnut",3,"United States","email marketing",1008,46,"Atlanta, Georgia","United States",Married,2,"Bachelor of Arts/Science, Georgia Institute of Technology",1
+"Philippe Foriel-Destezet",3,France,"employment agency",1008,85,"London, United Kingdom",France,Married,4,"Master of Business Administration, HEC Paris",1
+"Gan Zhongru",3,China,pharmaceutical,1008,72,"Beijing, China",China,NULL,NULL,"Ph.D, Michigan State University",1
+"Alec Gores",3,"United States","private equity",1008,68,"Beverly Hills, California","United States",Married,6,"Bachelor of Arts/Science, Western Michigan University",1
+"George Kurtz",3,"United States","security software",1008,50,"Paradise Valley, Arizona","United States",Married,2,"Bachelor of Science, Seton Hall University",1
+"Joseph Liemandt",3,"United States",software,1008,52,"Austin, Texas","United States",Single,NULL,"Drop Out, Stanford University",1
+"Haim Saban",3,"United States","TV network, investments",1008,76,"Beverly Hills, California","United States",Married,4,"Diploma, High School",1
+"Eddy Kusnadi Sariaatmadja",3,Indonesia,"media, tech",1008,67,"Jakarta, Indonesia",Indonesia,Married,4,"Bachelor of Engineering, University of New South Wales; Master of Science in Engineering, University of New South Wales",1
+"Andrew Tan",3,Philippines,diversified,1008,71,"Manila, Philippines",Philippines,Married,4,"Bachelor of Arts/Science, University of the East",1
+"Wang Changtian",3,China,"TV, movie production",1008,56,"Beijing, China",China,Married,NULL,"Bachelor of Arts/Science, Fudan University",1
+"Cameron Winklevoss",3,"United States",cryptocurrency,1008,39,"New York, New York","United States",NULL,NULL,"Bachelor of Arts/Economics, Harvard University",1
+"Tyler Winklevoss",3,"United States",cryptocurrency,1008,39,"New York, New York","United States",NULL,NULL,"Bachelor of Arts/Economics, Harvard University",1
+"Zhang Lei",3,China,investments,1008,48,"Hong Kong, Hong Kong",China,Married,2,"Bachelor of Arts/Economics, Renmin University of China; Master of Business Administration, The Yale School of Management; Master of Arts, Yale University",1
+"Ben Ashkenazy",2.9,"United States","real estate",1064,51,"New York, New York","United States",Married,3,"Drop Out, Adelphi University",1
+"Sanjeev Bikhchandani",2.9,India,Internet,1064,57,"Delhi, India",India,Married,2,"Master of Business Administration, Indian Institute of Management, Ahmedabad; Bachelor of Arts/Economics, St Stephen's College (India)",1
+"Bob Gaglardi",2.9,Canada,hotels,1064,80,"Vancouver, Canada",Canada,Married,4,"Bachelor of Engineering, Letourneau College",1
+"Osman Kibar",2.9,"United States",biotech,1064,50,"La Jolla, California","United States",Married,4,"Bachelor of Arts/Science, California Institute of Technology; Bachelor of Arts/Science, Pomona College; Master of Science, University of California, San Diego; Ph.D, University of California, San Diego",1
+"Kim Taek-jin",2.9,"South Korea","online games",1064,54,"Seoul, South Korea","South Korea",Married,4,"Bachelor of Arts/Science, Seoul National University; Master of Science, Seoul National University",1
+"Pablo Legorreta",2.9,"United States",investments,1064,57,"Sag Harbor, New York","United States",Married,2,"Bachelor of Science in Engineering, Universidad Iberoamericana",1
+"Liang Yunchao",2.9,China,"nutritional supplements",1064,52,"Guangzhou, China",China,Married,2,"Master of Business Administration, Sun Yat-sen University; Bachelor of Arts/Science, Zhongnan University of Economics and Law",1
+"Farhad Moshiri",2.9,"United Kingdom",diversified,1064,65,"Monaco, Monaco","United Kingdom",Separated,2,"Bachelor of Arts/Science, University of London",1
+"Matt Moulding",2.9,"United Kingdom",e-commerce,1064,49,"Cheshire, United Kingdom","United Kingdom",NULL,NULL,"Bachelor of Arts/Economics, Nottingham University",1
+"Alexander Nesis",2.9,Russia,"metals, banking, fertilizers",1064,58,"Moscow, Russia",Russia,Married,5,"Bachelor of Arts/Science, Leningrad Technological Institute",1
+"Lucy Peng",2.9,China,e-commerce,1064,48,"Hangzhou, China",China,NULL,NULL,"Bachelor of Arts/Science, Zhejiang Gongshang University",1
+"Sebastian PiÃ±era & family",2.9,Chile,investments,1064,71,"Santiago, Chile",Chile,Married,4,"Doctorate, Harvard University",1
+"Alexander Ponomarenko",2.9,Russia,"real estate, airport",1064,56,"Moscow, Russia",Russia,Married,3,"Master of Science, Russian State Academy of Management; Bachelor of Arts/Science, Simferopol State University",1
+"Chad Richison",2.9,"United States","payroll processing",1064,50,"Edmond, Oklahoma","United States",Married,4,"Bachelor of Arts/Science, University of Central Oklahoma",1
+"Arkady Rotenberg",2.9,Russia,"construction, pipes, banking",1064,69,"Moscow, Russia",Russia,Divorced,5,"Bachelor of Arts/Science, Leningrad Institute of Physical Culture",1
+"Paul Sciarra",2.9,"United States","social network",1064,40,"San Francisco, California","United States",Married,NULL,"Bachelor of Arts/Science, Yale University",1
+"Alexander Skorobogatko",2.9,Russia,"real estate, airport",1064,53,"Moscow, Russia",Russia,Divorced,3,"Master of Science, Plekhanov Russian University of Economics",1
+"Jeff Sutton",2.9,"United States","real estate",1064,61,"New York, New York","United States",Married,5,"Bachelor of Arts/Science, University of Pennsylvania, The Wharton School",1
+"Glen Taylor",2.9,"United States",printing,1064,80,"Mankato, Minnesota","United States",Married,5,"Bachelor of Arts/Science, Minnesota State University",1
+"Jon Yarbrough",2.9,"United States","video games",1064,63,"Franklin, Tennessee","United States",Married,2,"Bachelor of Arts/Science, Tennessee Technological University",1
+"William Ackman",2.8,"United States","hedge funds",1111,54,"New York, New York","United States",Married,3,"Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, Harvard University",1
+"Aneel Bhusri",2.8,"United States","business software",1111,55,"San Francisco, California","United States",Married,1,"Bachelor of Arts/Science, Brown University; Master of Business Administration, Stanford Graduate School of Business",1
+"Norman Braman",2.8,"United States","art, car dealerships",1111,88,"Miami, Florida","United States",Married,2,"Bachelor of Arts/Science, Temple University",1
+"John Catsimatidis",2.8,"United States","oil, real estate",1111,72,"New York, New York","United States",Married,2,"Drop Out, New York University",1
+"Morris Chang",2.8,Taiwan,semiconductors,1111,89,"Hsinchu, Taiwan",Taiwan,Married,1,"Bachelor of Arts/Science, Massachusetts Institute of Technology; Master of Science, Massachusetts Institute of Technology; Ph.D, Stanford University",1
+"James Clark",2.8,"United States","software, investments",1111,77,"Palm Beach, Florida","United States",Married,4,"Bachelor of Arts/Science, University of New Orleans; Master of Science, University of New Orleans; Ph.D, University of Utah",1
+"Doris Fisher",2.8,"United States","fashion retail",1111,89,"San Francisco, California","United States",Widowed,3,"Bachelor of Arts/Science, Stanford University",1
+"Gary Friedman",2.8,"United States","Furniture retail",1111,63,"Belvedere, California","United States","In Relationship",2,"Drop Out, Santa Rosa Junior College",1
+"Valentin Gapontsev & family",2.8,"United States",lasers,1111,82,"Worcester, Massachusetts","United States",Married,1,"Bachelor of Science in Engineering, Lviv Polytechnic National University; Ph.D, Moscow Institute of Physics and Technology",1
+"David Gottesman",2.8,"United States",investments,1111,95,"Rye, New York","United States",Married,3,"Master of Business Administration, Harvard University; Bachelor of Arts/Science, Trinity College Connecticut",1
+"Alan Howard",2.8,"United Kingdom","hedge funds",1111,57,"Geneva, Switzerland","United Kingdom",Married,4,"Master of Science, Imperial College London",1
+"Travis Kalanick",2.8,"United States","software, investments",1111,44,"Los Angeles, California","United States",Single,NULL,"Drop Out, University of California, Los Angeles",1
+"Timur Kulibaev",2.8,Kazakhstan,banking,1111,54,"Almaty, Kazakhstan",Kazakhstan,Married,3,"Bachelor of Arts/Science, Moscow State University",1
+"Li Liufa & family",2.8,China,"steel, diversified",1111,63,"Ruzhou, China",China,Married,NULL,"EMBA, Peking University",1
+"Li Sze Lim",2.8,"Hong Kong","real estate",1111,64,"Guangzhou, China","Hong Kong",Married,1,"Chinese University of Hong Kong",1
+"Li Xiaohua & family",2.8,China,packaging,1111,59,"Yuxi, China",China,Married,NULL,"Master of Science, University of Massachusetts",1
+"Liu Ming Hui",2.8,China,"natural gas distribution",1111,58,"Hong Kong, Hong Kong",China,NULL,NULL,"Master of Arts, Renmin University of China",1
+"Rudy Ma",2.8,Taiwan,finance,1111,80,Taiwan,Taiwan,Married,2,"EMBA, National Chengchi University; National Taiwan University",1
+"T. Denny Sanford",2.8,"United States","banking, credit cards",1111,85,"Sioux Falls, South Dakota","United States",Divorced,2,"Bachelor of Arts/Science, University of Minnesota",1
+"Konstantin Strukov",2.8,Russia,"gold, coal mining",1111,62,"Chelyabinsk, Russia",Russia,Married,2,"Master of Science, Magnitogorsk MiningÂ and Metallurgical Institute",1
+"Tony Xu",2.8,"United States","food delivery service",1111,36,"San Francisco, California","United States",NULL,NULL,"Master of Business Administration, Stanford Graduate School of Business; Bachelor of Arts/Science, University of California, Berkeley",1
+"Timothy Boyle",2.7,"United States",sportwear,1174,71,"Portland, Oregon","United States",Married,2,"Bachelor of Arts/Science, University of Oregon",1
+"John Paul DeJoria",2.7,"United States","hair products, tequila",1174,77,"Austin, Texas","United States",Married,6,"Diploma, High School",1
+"Mitchell Goldhar",2.7,Canada,"real estate",1174,59,"North York, Canada",Canada,Single,NULL,"Bachelor of Arts/Science, York University",1
+"Victor Jacobsson",2.7,Sweden,fintech,1174,39,"Stockholm, Sweden",Sweden,NULL,NULL,"Master of Science, Stockholm School of Economics",1
+"James Jannard",2.7,"United States",sunglasses,1174,71,"San Juan Islands, Washington","United States",Married,4,"Drop Out, University of Southern California",1
+"Vinod Khosla",2.7,"United States","venture capital",1174,66,"Portola Valley, California","United States",Married,4,"Master of Science, Carnegie Mellon University; Bachelor of Arts/Science, Indian Institute of Technology; Master of Business Administration, Stanford Graduate School of Business",1
+"Valentin Kipyatkov",2.7,Russia,"computer software",1174,44,"Prague, Czechia",Russia,Married,1,"Master of Science, Saint Petersburg State University",1
+"Lu Zhiqiang",2.7,China,"real estate",1174,68,"Beijing, China",China,Married,NULL,"Master of Arts, Fudan University",1
+"Sean Parker",2.7,"United States","social network",1174,41,"Los Angeles, California","United States",Married,2,"Diploma, High School",1
+"Richard Peery",2.7,"United States","real estate",1174,82,"Palo Alto, California","United States",Married,4,"Bachelor of Arts/Science, Brigham Young University",1
+"Tsai Ming-kai",2.7,Taiwan,semiconductors,1174,71,"Hsinchu, Taiwan",Taiwan,Married,2,"Bachelor of Engineering, National Taiwan University; Master of Science in Engineering, University of Cincinnati",1
+"Oprah Winfrey",2.7,"United States","TV shows",1174,67,"Montecito, California","United States","In Relationship",NULL,"Bachelor of Arts/Science, Tennessee State University",1
+"Mortimer Zuckerman",2.7,"United States","real estate, media",1174,83,"New York, New York","United States",Divorced,2,"LLM, Harvard University; Bachelor of Arts/Science, McGill University; Master of Business Administration, University of Pennsylvania, The Wharton School",1
+"Brian Acton",2.6,"United States",software,1205,49,"Palo Alto, California","United States",Married,1,"Bachelor of Arts/Science, Stanford University",1
+"Guilherme Benchimol",2.6,Brazil,"financial services",1205,44,"Rio de Janeiro, Brazil",Brazil,Single,2,"Bachelor of Arts/Economics, Universidade Federal do Rio de Janeiro",1
+"Cai Dongchen",2.6,China,pharmaceutical,1205,68,"Luancheng, China",China,NULL,NULL,"Master, Chinese Academy of Social Sciences; Master of Business Administration, Nankai University",1
+"Bruce Flatt",2.6,Canada,"money management",1205,55,"Toronto, Canada",Canada,Married,NULL,"B.Com, University of Manitoba",1
+"Anthony Hsieh",2.6,"United States","mortgage lender",1205,56,"Newport Beach, California","United States",Divorced,NULL,"Bachelor of Business Administration, California State Fullerton",1
+"Brad Kelley",2.6,"United States",tobacco,1205,64,"Franklin, Tennessee","United States",Married,3,"Diploma, High School; Drop Out, Western Kentucky University",1
+"K.C. Liu",2.6,Taiwan,manufacturing,1205,67,"Taipei, Taiwan",Taiwan,Married,2,"Bachelor of Engineering, National Chiao Tung University",1
+"Kalanithi Maran",2.6,India,media,1205,55,"Chennai, India",India,Married,1,"Master of Business Administration, University of Scranton",1
+"C. Dean Metropoulos",2.6,"United States",investments,1205,75,"Palm Beach, Florida","United States",Married,2,"Bachelor of Arts/Science, Babson College; Master of Business Administration, Babson College",1
+"Alexey Repik",2.6,Russia,pharmaceutical,1205,41,"Moscow, Russia",Russia,Married,3,"Master of Science, The National Research University Higher School of Economics",1
+"Steven Sarowitz",2.6,"United States","payroll software",1205,55,"Highland Park, Illinois","United States",Married,NULL,"Bachelor of Arts/Science, University of Illinois, Urbana-Champaign",1
+"Yuri Shefler",2.6,Russia,alcohol,1205,53,"Geneva, Switzerland",Russia,Married,4,"Bachelor of Arts/Science, Plekhanov Russian University of Economics",1
+"Shum Chiu Hung & family",2.6,China,"real estate",1205,NULL,"Guangzhou, China",China,Married,NULL,"EMBA, Fudan University",1
+"Stephen Smith",2.6,Canada,"finance and investments",1205,69,"Toronto, Canada",Canada,Married,3,"Bachelor of Science in Engineering, Queens University",1
+"Dan Snyder",2.6,"United States","Washington Redskins",1205,56,"Potomac, Maryland","United States",Married,3,"Drop Out, University of Maryland",1
+"Evan Williams",2.6,"United States","social network",1205,49,"San Francisco, California","United States",Married,2,"Drop Out, University of Nebraska Lincoln",1
+"Wu Guangming",2.6,China,"medical equipment",1205,59,"Danyang, China",China,Married,1,"EMBA, China Europe International Business School",1
+"Charles Zegar",2.6,"United States","Bloomberg LP",1205,73,"New York, New York","United States",Married,NULL,"Bachelor of Arts/Science, Long Island University; Master of Science, New York University",1
+"John Arrillaga",2.5,"United States","real estate",1249,84,"Portola Valley, California","United States","Widowed, Remarried",2,"Bachelor of Arts/Science, Stanford University",1
+"William Berkley",2.5,"United States",insurance,1249,74,"Coconut Grove, Florida","United States",Married,3,"Master of Business Administration, Harvard University; Bachelor of Arts/Science, New York University",1
+"Andrei Bokarev",2.5,Russia,"metals, mining",1249,54,"Moscow, Russia",Russia,Married,1,"Bachelor of Arts/Science, Finance Academy under the Government of the Russian Federation",1
+"Jim Breyer",2.5,"United States","venture capital",1249,59,"Austin, Texas","United States",Married,3,"Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, Stanford University",1
+"Leon G. Cooperman",2.5,"United States","hedge funds",1249,78,"Boca Raton, Florida","United States",Married,2,"Master of Business Administration, Columbia Business School; Bachelor of Arts/Science, Hunter College",1
+"Gerald Ford",2.5,"United States",banking,1249,76,"Dallas, Texas","United States",Married,6,"Bachelor of Arts/Science, Southern Methodist University; Doctor of Jurisprudence, Southern Methodist University",1
+"Phillip Frost",2.5,"United States",pharmaceutical,1249,84,"Miami Beach, Florida","United States",Married,NULL,"Bachelor of Arts/Science, University of Pennsylvania; Medical Doctor, Yeshiva U Albert Einstein College of Medicine",1
+"Mikhail Gutseriev",2.5,Russia,"oil, real estate",1249,63,"Moscow, Russia",Russia,Married,2,"Bachelor of Arts/Science, Kazakh Technological Institute",1
+"Hans-Werner Hector",2.5,Germany,SAP,1249,81,"Weinheim, Germany",Germany,Married,NULL,"Master of Science, University of Saarland",1
+"Lee Hae-jin",2.5,"South Korea",Internet,1249,53,"Seoul, South Korea","South Korea",Married,2,"Master of Science, Korea Advanced Institute of Science and Technology; Bachelor of Arts/Science, Seoul National University",1
+"Mohamed Mansour",2.5,Egypt,diversified,1249,73,"Cairo, Egypt",Egypt,Married,2,"Master of Business Administration, Auburn University",1
+"Najib Mikati",2.5,Lebanon,telecom,1249,65,"Beirut, Lebanon",Lebanon,Married,3,"Bachelor of Arts/Science, American University of Beirut, Lebanon; Master of Business Administration, American University of Beirut, Lebanon",1
+"Taha Mikati",2.5,Lebanon,telecom,1249,76,"Beirut, Lebanon",Lebanon,Married,3,"Bachelor of Arts/Science, American University of Beirut, Lebanon",1
+"Jerry Ng",2.5,Indonesia,banking,1249,56,"Jakarta, Indonesia",Indonesia,NULL,NULL,"Bachelor of Business Administration, University of Washington",1
+"Nandan Nilekani",2.5,India,"software services",1249,65,"Bangalore, India",India,Married,2,"Bachelor of Arts/Science, Indian Institute of Technology",1
+"Victor Pinchuk",2.5,Ukraine,"steel pipes, diversified",1249,60,"Kiev, Ukraine",Ukraine,Married,4,"Doctorate, Dniepropetrovsk Metallurgical Institute",1
+"Matthew Prince",2.5,"United States",cybersecurity,1249,46,"Park City, Utah","United States",Married,NULL,"Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, Trinity College Connecticut; Doctor of Jurisprudence, University of Chicago",1
+"Rodney Sacks",2.5,"United States","energy drinks",1249,71,"Laguna Beach, California","United States",NULL,NULL,"Law Degree, University of Witwatersrand",1
+"Kavitark Ram Shriram",2.5,"United States","venture capital",1249,64,"Menlo Park, California","United States",Married,2,"Bachelor of Arts/Science, University of Madras",1
+"AndrÃ© Street",2.5,Brazil,fintech,1249,37,Brazil,Brazil,Married,NULL,"Bachelor of Arts/Economics, Fundacao Getulio Vargas; Certificate, Harvard Business School",1
+"David Chen",2.4,Singapore,"online games",1299,40,"Singapore, Singapore",Singapore,NULL,NULL,"Bachelor of Science, National University of Singapore",1
+"Dai Lizhong",2.4,China,"medical testing",1299,52,"Changsha, China",China,NULL,NULL,"Master of Science, Peking University; Ph.D, Princeton University",1
+"Chetan Dube",2.4,"United States",technology,1299,55,"New York, New York","United States",NULL,NULL,"Bachelor of Science, Indian Institute of Technology Delhi",1
+"Stephen Feinberg",2.4,"United States","private equity",1299,61,"New York, New York","United States",Married,3,"Bachelor of Arts/Science, Princeton University",1
+"Gao Jifan & family",2.4,China,"solar equipment",1299,56,"Changzhou, China",China,Married,NULL,"Master of Science, Jilin University; Bachelor of Science, Nanjing University",1
+"Geng Jianming",2.4,China,"real estate",1299,58,"Langfang, China",China,Married,1,"Master of Business Administration, Nanyang Technology University; Bachelor of Arts/Science, North China Institute of Astronautic Engineering",1
+"Donald Horton",2.4,"United States",homebuilding,1299,71,"Fort Worth, Texas","United States",Married,2,"Bachelor of Arts/Science, University of Central Arkansas",1
+"Gail Miller",2.4,"United States","car dealerships",1299,77,"Salt Lake City, Utah","United States",Married,5,"Drop Out, University of Utah",1
+"Robert Miller",2.4,"United Kingdom",retail,1299,75,"Montreal, Canada",Canada,Divorced,2,"Bachelor of Arts/Science, Rider University",1
+"Vadim Moshkovich",2.4,Russia,"agriculture, land",1299,54,"Moscow, Russia",Russia,Married,3,"Bachelor of Arts/Science, Moscow Institute of Radioengineering, Electronics and Automation",1
+"Gregorio Perez Companc & family",2.4,Argentina,"oil & gas",1299,85,"Buenos Aires, Argentina",Argentina,Married,7,"Drop Out, High School",1
+"Dmitry Pumpyansky",2.4,Russia,"steel pipes",1299,57,"Yekaterinburg, Russia",Russia,Married,1,"Master of Science, Ural State Technical University",1
+"Austin Russell",2.4,"United States","sensor technology",1299,26,"Los Altos, California","United States",Single,NULL,"Drop Out, Stanford University",1
+"Hussain Sajwani",2.4,"United Arab Emirates","real estate",1299,68,"Dubai, United Arab Emirates","United Arab Emirates",Married,4,"Bachelor of Arts/Science, University of Washington",1
+"Jean Salata",2.4,Chile,finance,1299,55,"Hong Kong, Hong Kong",Chile,Married,NULL,"Bachelor of Business Administration, University of Pennsylvania, The Wharton School",1
+"Alice Schwartz",2.4,"United States",biotech,1299,94,"El Cerrito, California","United States",Widowed,2,"Bachelor of Arts/Science, University of California, Berkeley",1
+"William Stone",2.4,"United States",software,1299,66,"Naples, Florida","United States",Married,3,"Bachelor of Arts/Science, Marquette University",1
+"Roman Trotsenko",2.4,Russia,"transport, engineering, real estate",1299,50,"Moscow, Russia",Russia,Married,2,"Master of Laws, Moscow State University",1
+"Xiong Shaoming",2.4,China,e-cigarettes,1299,50,"Shenzhen, China",China,NULL,NULL,"Bachelor of Science, Wuhan University of Technology",1
+"Zhang Zhixiang",2.4,China,steel,1299,54,"Beijing, China",China,NULL,NULL,"Doctorate, Zhejiang University of Technology",1
+"Carlos Ardila LÃ¼lle",2.3,Colombia,"soft drinks, diversified",1362,90,"Bogota, Colombia",Colombia,Married,NULL,"Bachelor of Engineering, Universidad Nacional de Colombia",1
+"Chen Zhisong",2.3,China,"communication equipment",1362,55,"Xiamen, China",China,NULL,NULL,"Bachelor of Arts/Science, Xiamen University",1
+"Jim Coulter",2.3,"United States","private equity",1362,61,"San Francisco, California","United States",Married,3,"Bachelor of Arts/Science, Dartmouth College; Master of Business Administration, Stanford University",1
+"Noam Gottesman",2.3,"United States","hedge funds",1362,59,"New York, New York","United States",Married,4,"Bachelor of Arts/Science, Columbia University",1
+"Joseph Grendys",2.3,"United States","poultry processing",1362,59,"Chicago, Illinois","United States",Single,NULL,"Bachelor of Arts/Science, Loyola University Chicago",1
+"David Hains",2.3,Australia,Investments,1362,90,"Melbourne, Australia",Australia,Widowed,5,"Bachelor of Science in Engineering, University of Melbourne",1
+"Michael Hintze",2.3,Australia,investment,1362,67,"London, United Kingdom",Australia,Married,4,"Master of Business Administration, Harvard Business School; Master of Science, University of New South Wales; Bachelor of Arts/Science, University of Sydney",1
+"Jared Isaacman",2.3,"United States","payment processing",1362,38,"Easton, Pennsylvania","United States",Married,NULL,"Bachelor of Arts/Science, Embry-Riddle Aeronautical University",1
+"Jiang Weiping & family",2.3,China,chemicals,1362,66,"Chengdu, China",China,Married,NULL,"Bachelor of Science in Engineering, Xihua University",1
+"Jim Kavanaugh",2.3,"United States","IT provider",1362,58,"St. Louis, Missouri","United States",NULL,NULL,"Bachelor of Arts/Science, St. Louis University",1
+"Eiichi Kuriwada",2.3,Japan,"package delivery",1362,74,"Osaka, Japan",Japan,Married,3,"High School Graduate, Arai High School",1
+"Lai Jianfa",2.3,China,"express delivery",1362,NULL,"Shanghai, China",China,NULL,NULL,"Master of Business Administration, Fudan University",1
+"Lam Kong",2.3,China,pharmaceutical,1362,56,"Hong Kong, Hong Kong",China,NULL,NULL,"Bachelor of Arts/Science, Guangdong Medical College",1
+"Alexander Mamut",2.3,Russia,investments,1362,61,"Moscow, Russia",Russia,Widowed,5,"LLB, Moscow State University",1
+"Daniel Mate",2.3,Spain,"mining, commodities",1362,57,"Kanton Schwyz, Switzerland",Spain,Married,2,"Bachelor of Arts/Science, Universidad Comercial de Deusto; Law Degree, Universidad Comercial de Deusto",1
+"Clayton Mathile",2.3,"United States","pet food",1362,80,"Brookville, Ohio","United States",Married,5,"Bachelor of Arts/Science, Ohio Northern University",1
+"Aristotelis Mistakidis",2.3,Greece,"mining, commodities",1362,59,"Zug, Switzerland",Greece,Married,1,"Bachelor of Arts/Science, London School of Economics",1
+"Andrew Paradise",2.3,"United States","online games",1362,39,"San Francisco, California","United States",NULL,NULL,"Bachelor of Arts/Science, University of Massachusetts",1
+"Michael Saylor",2.3,"United States",cryptocurrency,1362,56,"Vienna, Virginia","United States",Single,NULL,"Bachelor of Arts/Science, Massachusetts Institute of Technology",1
+"Vijay Shekhar Sharma",2.3,India,"financial technology",1362,42,"Delhi, India",India,Married,1,"Bachelor of Science in Engineering, Delhi University",1
+"Sun Huaiqing & family",2.3,China,cosmetics,1362,51,"Guangzhou, China",China,Married,NULL,"EMBA, Guanghua School of Management",1
+"Arkady Volozh",2.3,Russia,"search engine",1362,57,"Moscow, Russia",Russia,Married,3,"Master of Science, Gubkin Russian State University of Oil and Gas",1
+"Lang Walker",2.3,Australia,"real estate",1362,75,"Sydney, Australia",Australia,Married,3,"Diploma, High School",1
+"Wu Zhongyi",2.3,China,electronics,1362,47,"Xiamen, China",China,NULL,NULL,"Bachelor of Arts/Science, Shenzhen University",1
+"Elaine Wynn",2.3,"United States","casinos, hotels",1362,79,"Las Vegas, Nevada","United States",Divorced,2,"Bachelor of Arts/Science, George Washington University",1
+"Jerry Yang",2.3,"United States","internet service provider",1362,52,"Los Altos Hills, California","United States",Married,2,"Bachelor of Arts/Science, Stanford University; Master of Science, Stanford University",1
+"Kostyantin Zhevago",2.3,Ukraine,mining,1362,47,"Kiev, Ukraine",Ukraine,Married,2,"Bachelor of Arts/Science, Kiev State Economic University",1
+"Ramon Ang",2.2,Philippines,Diversified,1444,67,"Manila, Philippines",Philippines,Married,8,"Bachelor of Engineering, Far Eastern University",1
+"Bill Austin",2.2,"United States","hearing aids",1444,79,"Brownsville, Texas","United States",Married,NULL,"High School Graduate, High School",1
+"Richard Barton",2.2,"United States",Zillow,1444,53,"Seattle, Washington","United States",Married,3,"Bachelor of Science, Stanford University",1
+"Thor Bjorgolfsson",2.2,Iceland,investments,1444,54,"London, United Kingdom",Iceland,Married,3,"Bachelor of Arts/Science, New York University",1
+"Bruce Cheng",2.2,Taiwan,electronics,1444,85,"Taipei, Taiwan",Taiwan,Married,2,"Bachelor of Arts/Science, National Cheng Kung University",1
+"Chin Jong Hwa",2.2,Taiwan,"auto parts",1444,62,"Taoyuan, Taiwan",Taiwan,Married,2,"Diploma, China University of Technology",1
+"K. Dinesh",2.2,India,"software services",1444,66,"Bangalore, India",India,Married,2,"Master of Science, Bangalore University",1
+"Serge Godin",2.2,Canada,"information technology",1444,71,"Westmount, Canada",Canada,Married,2,"Master of Business Administration, Laval University",1
+"Jeffrey Gundlach",2.2,"United States",investments,1444,62,"Los Angeles, California","United States",Divorced,NULL,"Bachelor of Arts/Science, Dartmouth College",1
+"Huang Guanlin",2.2,China,"textiles, apparel",1444,56,"Ningbo, China",China,NULL,NULL,"Bachelor of Engineering, Zhejiang University of Technology",1
+"Huang Wei",2.2,China,"real estate",1444,61,"Hangzhou, China",China,Married,NULL,"Wenzhou Normal College",1
+"Randal J. Kirk",2.2,"United States",pharmaceutical,1444,67,"Manalapan, Florida","United States",Married,3,"Bachelor of Arts/Science, Radford; Doctor of Jurisprudence, University of Virginia",1
+"Leo Koguan",2.2,"United States","IT provider",1444,66,"Sugar Land, Texas","United States",Divorced,2,"Master, Columbia University; Law Degree, New York Law School",1
+"Jeff Lawson",2.2,"United States",software,1444,43,"San Francisco, California","United States",Married,2,"Bachelor of Arts/Science, University of Michigan",1
+"Max Levchin",2.2,"United States",fintech,1444,45,"San Francisco, California","United States",Married,2,"Bachelor of Science, University of Illinois Urbana Champaign",1
+"Liang Xinjun",2.2,China,conglomerate,1444,53,"Shanghai, China",China,Married,1,"Bachelor of Arts/Science, Fudan University; Bachelor of Arts/Science, Fudan University",1
+"Scott Lin",2.2,Taiwan,"optical components",1444,88,"Taichung, Taiwan",Taiwan,Married,2,"Bachelor of Arts/Science, National Chung Hsing University",1
+"Mao Zhongwu",2.2,China,manufacturing,1444,58,"Changsha, China",China,Married,NULL,"Bachelor of Arts/Science, National University of Singapore",1
+"Rubens Menin Teixeira de Souza",2.2,Brazil,"home building, banking",1444,65,"Belo Horizonte, Brazil",Brazil,Married,3,"Bachelor of Arts/Science, Universidade Federal de Minas Gerais",1
+"Bob Parsons",2.2,"United States","web hosting",1444,70,"Scottsdale, Arizona","United States",Married,NULL,"Bachelor of Arts/Science, University of Baltimore",1
+"John Phillips",2.2,Canada,investments,1444,70,"Toronto, Canada",Canada,Married,NULL,"Law Degree, University of Toronto; Bachelor of Arts/Science, University of Toronto (Trinity College)",1
+"Phillip T. (Terry) Ragon",2.2,"United States","health IT",1444,71,"Boston, Massachusetts","United States",Married,NULL,"Bachelor of Arts/Science, Massachusetts Institute of Technology",1
+"Vlad Shmunis",2.2,"United States","cloud technology",1444,60,"San Francisco, California","United States",Married,NULL,"Bachelor of Science, San Francisco State University; Master of Science, San Francisco State University",1
+"Alberto Siccardi & family",2.2,Switzerland,"medical devices",1444,77,"Lugano, Switzerland",Switzerland,Married,3,"Master of Business Administration, SDA Bocconi School of Management; Bachelor of Science, University of Turin",1
+"Sebastian Siemiatkowski",2.2,Sweden,fintech,1444,39,"Stockholm, Sweden",Sweden,NULL,NULL,"Master of Science, Stockholm School of Economics",1
+"Dean Solon",2.2,"United States","solar systems",1444,56,"Gallatin, Tennessee","United States",Married,NULL,"Drop Out, Purdue University",1
+"Timothy Springer",2.2,"United States",biotech,1444,73,"Chestnut Hill, Massachusetts","United States",Married,NULL,"Ph.D, Harvard University; Bachelor of Science, University of California, Berkeley",1
+"David Walentas",2.2,"United States","real estate",1444,82,"New York, New York","United States",Widowed,1,"Bachelor of Arts/Science, University of Virginia",1
+"Wu Lanlan & family",2.2,China,packaging,1444,47,"Shenzhen, China",China,Married,2,"Master of Business Administration, Tongji University",1
+"Wu Yiling",2.2,China,pharmaceutical,1444,71,"Shijiazhuang, China",China,Married,2,"Medical Doctor, Hebei Medical University; Medical Doctor, Nanjing University of Chinese Medicine",1
+"Xiang Wenbo",2.2,China,manufacturing,1444,58,"Changsha, China",China,Married,1,"Master of Science, Dalian University of Technology",1
+"Xie Liangzhi & family",2.2,China,biotech,1444,55,"Beijing, China",China,Married,NULL,"Ph.D, Massachusetts Institute of Technology",1
+"Andrew & Peggy Cherng",2.1,"United States",restaurants,1517,NULL,"Las Vegas, Nevada","United States",Married,NULL,"Master of Arts, University of Missouri; Ph.D, University of Missouri",1
+"Ray Davis",2.1,"United States",pipelines,1517,79,"Dallas, Texas","United States",Married,3,"Master of Business Administration, LeTourneau University's School of Business",1
+"Gong Yingying",2.1,China,"health IT",1517,36,"Beijing, China",China,Married,NULL,"Bachelor of Arts/Economics, London School of Economics & Political Science",1
+"Hong Feng",2.1,China,smartphones,1517,44,"Beijing, China",China,NULL,NULL,"Master of Science, Purdue University; Bachelor of Science in Engineering, Shanghai Jiaotong University",1
+"Alexander Karp",2.1,"United States","software firm",1517,53,"Palo Alto, California","United States",Single,NULL,"Bachelor of Arts/Science, Haverford College; Doctor of Jurisprudence, Stanford University",1
+"Bruce Karsh",2.1,"United States","private equity",1517,65,"Los Angeles, California","United States",Married,3,"Bachelor of Arts/Science, Duke University; Doctor of Jurisprudence, University of Virginia",1
+"Philippe Laffont",2.1,"United States","hedge fund",1517,53,"New York, New York","United States",Married,NULL,"Master of Science, Massachusetts Institute of Technology",1
+"Henry Laufer",2.1,"United States","hedge funds",1517,75,"Lake Worth, Florida","United States",Married,NULL,"Bachelor of Arts/Science, City College of New York; Doctorate, Princeton University",1
+"Mark Leonard & family",2.1,Canada,software,1517,65,"Toronto, Canada",Canada,NULL,NULL,"Master of Business Administration, The University of Western Ontario - Richard Ivey School of Business; Bachelor of Arts/Science, University of Guelph",1
+"Lin Yinsun",2.1,China,agribusiness,1517,57,"Shanghai, China",China,NULL,NULL,"EMBA, China Europe International Business School",1
+"Liu Zhongtian & family",2.1,China,"aluminum products",1517,57,"Liaoyang, China",China,Married,NULL,"Diploma, Liaoning Radio and TV University",1
+"Daniel Lubetzky",2.1,"United States","snack bars",1517,52,"New York, New York","United States",Married,4,"Bachelor of Arts/Science, Trinity University of San Antonio",1
+"Igor Makarov",2.1,Russia,investments,1517,59,"Miami, Florida",Russia,Married,2,"Bachelor of Arts/Science, Turkmen State University",1
+"Howard Marks",2.1,"United States","private equity",1517,75,"New York, New York","United States",Married,2,"Bachelor of Arts/Science, University of Pennsylvania, The Wharton School",1
+"Vincent McMahon",2.1,"United States",entertainment,1517,75,"Greenwich, Connecticut","United States",Married,2,"Bachelor of Arts/Science, East Carolina University",1
+"David Murdock",2.1,"United States","Dole, real estate",1517,98,"Ventura, California","United States",Widowed,3,"Drop Out, High School",1
+"Roger Penske",2.1,"United States",cars,1517,84,"Birmingham, Michigan","United States",Married,5,"Drop Out, Lehigh University",1
+"Phil Ruffin",2.1,"United States","casinos, real estate",1517,86,"Las Vegas, Nevada","United States",Married,5,"Drop Out, Wichita State University",1
+"Jeffrey Talpins",2.1,"United States","hedge fund",1517,46,"Larchmont, New York","United States",Married,NULL,"Bachelor of Arts/Science, Yale University",1
+"Timur Turlov",2.1,Russia,"stock brokerage",1517,33,"Almaty, Kazakhstan",Russia,Married,6,"Bachelor of Science, Moscow State Technical University",1
+"Sandro Veronesi & family",2.1,Italy,fashion,1517,61,"Milan, Italy",Italy,Married,NULL,"Bachelor of Arts/Science, University of Verona",1
+"Wang Chou-hsiong",2.1,Taiwan,footwear,1517,80,"Yunlin, Taiwan",Taiwan,Married,2,"Master of Arts/Science, National Central University; Bachelor of Business Administration, National Taiwan University",1
+"Michael Xie",2.1,"United States",cybersecurity,1517,52,"Los Altos Hills, California","United States",Married,NULL,"Master of Science, Tsinghua University; Master of Science, University of Manitoba",1
+"S. Daniel Abraham",2,"United States",Slim-Fast,1580,96,"Palm Beach, Florida","United States",Married,6,"Diploma, High School",1
+"George Argyros & family",2,"United States","real estate, investments",1580,84,"Newport Beach, California","United States",Married,3,"Bachelor of Arts/Science, Chapman University",1
+"Glenn Dubin",2,"United States","hedge funds",1580,64,"New York, New York","United States",Married,3,"Bachelor of Arts/Science, SUNY Stony Brook",1
+"Andy Fang",2,"United States","food delivery app",1580,28,"MONTE VISTA, California","United States",NULL,NULL,"Bachelor of Arts/Science, Stanford University",1
+"Yasuhiro Fukushima",2,Japan,"video games",1580,73,"Tokyo, Japan",Japan,Married,NULL,"Bachelor of Arts/Science, Nihon University",1
+"Jeffery Hildebrand",2,"United States",oil,1580,62,"Houston, Texas","United States",Married,3,"Bachelor of Arts/Science, The University of Texas at Austin; Master of Science, The University of Texas at Austin",1
+"J. Tomilson Hill",2,"United States",investments,1580,72,"New York, New York","United States",Married,2,"Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, Harvard University",1
+"Orion Hindawi",2,"United States",software,1580,41,"Seattle, Washington","United States",Married,2,"Drop Out, University of California, Berkeley",1
+"Reid Hoffman",2,"United States","social network",1580,53,"Palo Alto, California","United States",Married,NULL,"Master of Science, Oxford University; Bachelor of Arts/Science, Stanford University",1
+"George Joseph",2,"United States",insurance,1580,99,"Los Angeles, California","United States",Married,5,"Bachelor of Arts/Science, Harvard University",1
+"Sergei Kolesnikov",2,Russia,"building materials",1580,49,"Moscow, Russia",Russia,Married,4,"Master of Science, Moscow Institute of Physics and Technology",1
+"Thomas Lee",2,"United States","private equity",1580,77,"New York, New York","United States",Married,5,"Bachelor of Arts/Science, Harvard University",1
+"Robert Miller",2,Canada,"electronics components",1580,75,"Montreal, Canada",Canada,Divorced,2,"Bachelor of Arts/Science, Rider University",1
+"Charles Munger",2,"United States",finance,1580,97,"Los Angeles, California","United States",Widowed,8,"Doctor of Jurisprudence, Harvard University; Drop Out, University of Michigan",1
+"Jonathan Nelson",2,"United States","private equity",1580,64,"Providence, Rhode Island","United States","Widowed, Remarried",3,"Bachelor of Arts/Science, Brown University; Master of Business Administration, Harvard University",1
+"Kevin Plank",2,"United States","Under Armour",1580,48,"Lutherville-Timonium, Maryland","United States",Married,2,"Master of Business Administration, Robert H. Smith School of Business; Bachelor of Arts/Science, University of Maryland",1
+"Igor Rybakov",2,Russia,"building materials",1580,48,"Moscow, Russia",Russia,Married,4,"Master of Science, Moscow Institute of Physics and Technology",1
+"Mikhail Shelkov",2,Russia,titanium,1580,52,"Moscow, Russia",Russia,NULL,NULL,"Master of Science, Moscow Institute of Physics and Technology",1
+"Thaksin Shinawatra",2,Thailand,investments,1580,71,"Dubai, United Arab Emirates",Thailand,Divorced,3,"Master of Science, Eastern Kentucky University",1
+"Alexander Svetakov",2,Russia,"real estate",1580,53,"Moscow, Russia",Russia,Divorced,4,"Bachelor of Science in Engineering, Moscow Institute of Electronic Technology",1
+"Stanley Tang",2,"United States","food delivery app",1580,28,"San Francisco, California","United States",NULL,NULL,"Bachelor of Arts/Science, Stanford University",1
+"Tang Xiuguo",2,China,manufacturing,1580,57,"Changsha, China",China,Married,1,"Bachelor of Arts/Science, Central South University",1
+"Wu Kai",2,China,batteries,1580,53,"Ningde, China",China,NULL,NULL,"Ph.D, Shanghai Jiao Tong University",1
+"Xue Xiangdong & family",2,China,software,1580,62,"Beijing, China",China,Married,NULL,"Bachelor of Arts/Science, Hunan University",1
+"Yan Zhi",2,China,"real estate",1580,48,"Wuhan, China",China,Married,NULL,"Master of Business Administration, Wuhan University",1
+"William Young",2,"United States",plastics,1580,80,"Ypsilanti, Michigan","United States",Married,4,"Bachelor of Science in Engineering, University of Detroit Mercy",1
+"Noubar Afeyan",1.9,"United States",biotech,1664,58,"Lexington, Massachusetts","United States",Married,NULL,"Ph.D, Massachusetts Institute of Technology; Bachelor of Science, McGill Univeristy",1
+"Joao Alves de Queiroz Filho",1.9,Brazil,pharmaceutical,1664,68,"SÃ£o Paulo, Brazil",Brazil,Divorced,3,"Bachelor of Arts/Science, Faculdade Dom Pedro II",1
+"Chen Tei-fu",1.9,Taiwan,"herbal products",1664,73,"Los Angeles, California",Taiwan,Married,5,"Drop Out, Brigham Young University; Bachelor of Arts/Science, Kaohsiung Medical University",1
+"Thierry Cruanes",1.9,"United States",software,1664,53,"San Mateo, California","United States",Married,2,"Master of Science, UniversitÃ© de Caen Normandie; Ph.D, University Paris VI - Pierre et Marie Curie",1
+"Benoit Dageville",1.9,"United States",software,1664,54,"San Carlos, California","United States",Married,2,"Bachelor of Science, UniversitÃ© de Paris VI; Master of Science, UniversitÃ© de Paris VI; Ph.D, UniversitÃ© de Paris VI",1
+"James Dinan",1.9,"United States","hedge funds",1664,61,"North Salem, New York","United States",Married,3,"Master of Business Administration, Harvard University; Bachelor of Arts/Science, University of Pennsylvania, The Wharton School",1
+"Fred Ehrsam",1.9,"United States","cryptocurrency exchange",1664,32,"Miami, Florida","United States",NULL,NULL,"Bachelor of Science, Duke Univeristy",1
+"Gao Yu",1.9,China,"information technology",1664,NULL,"Shenzhen, China",China,NULL,NULL,"Bachelor of Commerce, Renmin University of China",1
+"Roberto Hernandez Ramirez",1.9,Mexico,banking,1664,79,"Mexico City, Mexico",Mexico,Married,3,"Bachelor of Arts/Science, Ibero-American University",1
+"Hamilton James",1.9,"United States",investments,1664,69,"New York, New York","United States",Married,3,"Bachelor of Arts/Science, Harvard University; Master of Business Administration, Harvard University",1
+"Michael Kim",1.9,"United States","private equity",1664,57,"Seoul, South Korea","United States",Married,2,"Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, Haverford College",1
+"Li Guangyu",1.9,China,education,1664,57,"Zhengzhou, China",China,Married,NULL,"Master of Business Administration, Peking University",1
+"Olivier Pomel",1.9,France,"cloud computing",1664,44,"New York, New York",France,Married,NULL,"Master, Ecole centrale de Paris",1
+"Larry Robbins",1.9,"United States","hedge funds",1664,51,"Alpine, New Jersey","United States",Married,4,"Bachelor of Arts/Science, University of Pennsylvania, The Wharton School",1
+"Christopher Rokos",1.9,"United Kingdom","hedge fund",1664,50,"London, United Kingdom","United Kingdom",NULL,NULL,"Bachelor of Arts/Science, Oxford University; Master, Oxford University",1
+"Frank Slootman",1.9,"United States",software,1664,62,"Pleasanton, California","United States",Married,2,"Bachelor of Science, Erasmus University Rotterdam, The Netherlands; Master of Science, Erasmus University Rotterdam, The Netherlands",1
+"Sergio Stevanato",1.9,Italy,"medical packaging",1664,78,"Venice, Italy",Italy,Married,2,"Law Degree, University of Ferrara",1
+"Kevin Systrom",1.9,"United States","social network",1664,37,"San Francisco, California","United States",Married,1,"Bachelor of Arts/Science, Stanford University",1
+"Patrizio Vinciarelli",1.9,"United States","electronic components",1664,74,"Boston, Massachusetts","United States",Divorced,NULL,"Ph.D, La Sapienza University of Rome",1
+"Todd Wagner",1.9,"United States","online media",1664,60,"Dallas, Texas","United States",Married,1,"Bachelor of Arts/Science, Indiana University; Doctor of Jurisprudence, University of Virginia",1
+"Stephen Winn",1.9,"United States","real estate services",1664,74,"Dallas, Texas","United States",Married,NULL,"Master of Science, Stanford University; Bachelor of Arts/Science, The University of Texas at Austin",1
+"Gordon Wu",1.9,"Hong Kong","real estate",1664,85,"Hong Kong, Hong Kong","Hong Kong",Married,4,"Bachelor of Arts/Science, Princeton University; Master, Princeton University",1
+"Zhu Xingliang",1.9,China,construction,1664,62,"Suzhou, China",China,Married,1,"Bachelor of Arts/Science, Suzhou University of Science and Technology",1
+"Leslie Alexander",1.8,"United States","sports team",1750,77,"Houston, Texas","United States",Divorced,1,"Bachelor of Arts/Science, New York University; Doctor of Jurisprudence, Western State University College of Law",1
+"Roman Avdeev",1.8,Russia,"banking, development",1750,53,"Moscow, Russia",Russia,Married,23,"Bachelor of Science in Engineering, Moscow International University of Business and Information Technologies",1
+"Vladimir Bogdanov",1.8,Russia,oil,1750,69,"Surgut, Russia",Russia,Married,1,"Bachelor of Arts/Science, Tyumen Industrial Institute",1
+"David Booth",1.8,"United States","mutual funds",1750,75,"Austin, Texas","United States",Married,NULL,"Bachelor of Arts/Science, University of Kansas; Master of Science, University of Kansas",1
+"Jamie Dimon",1.8,"United States",banking,1750,65,"New York, New York","United States",Married,3,"Master of Business Administration, Harvard Business School",1
+"Robert Duggan",1.8,"United States",pharmaceutical,1750,77,"Clearwater, Florida","United States",Married,8,"Drop Out, University of California, Los Angeles; Drop Out, University of California, Santa Barbara",1
+"Anthony Eisen",1.8,Australia,fintech,1750,49,"Melbourne, Australia",Australia,NULL,NULL,"Bachelor of Commerce, University of New South Wales",1
+"Mario Gabelli",1.8,"United States","money management",1750,79,"Greenwich, Connecticut","United States",Married,4,"Master of Business Administration, Columbia Business School; Bachelor of Arts/Science, Fordham University",1
+"Reinold Geiger",1.8,Austria,"beauty products",1750,73,"Geneva, Switzerland",Austria,Married,NULL,"Master of Business Administration, INSEAD",1
+"Ali Ghodsi",1.8,Sweden,"data analytics",1750,42,"San Francisco, California",Sweden,Married,NULL,"Ph.D, KTH Royal Institute of Technology; Master of Business Administration, Mid Sweden University; Master of Science in Engineering, Mid Sweden University",1
+"Carl Hansen",1.8,Canada,biotech,1750,47,"Vancouver, Canada",Canada,NULL,NULL,"Ph.D, California Institute of Technology; Bachelor of Arts/Science, University of British Columbia",1
+"Brian Higgins",1.8,"United States","hedge funds",1750,56,"New York, New York","United States",NULL,NULL,"Bachelor of Arts/Science, Villanova University",1
+"Drew Houston",1.8,"United States","cloud storage service",1750,38,"San Francisco, California","United States",Single,NULL,"Bachelor of Arts/Science, Massachusetts Institute of Technology",1
+"Stephen Jarislowsky",1.8,Canada,"money management",1750,95,"Montreal, Canada",Canada,Married,3,"Bachelor of Arts/Science, Cornell University; Master of Business Administration, Harvard University; Master of Arts, The University of Chicago",1
+"Dmitry Kamenshchik",1.8,Russia,airport,1750,53,"Moscow, Russia",Russia,Single,NULL,"Bachelor of Arts/Science, Moscow State University",1
+"Ihor Kolomoyskyy",1.8,Ukraine,"banking, investments",1750,58,"Kiev, Ukraine",Ukraine,Married,2,"Master of Science, Dniepropetrovsk Metallurgical Institute",1
+"Marc Lasry",1.8,"United States","hedge funds",1750,60,"New York, New York","United States",Married,5,"Bachelor of Arts/Science, Clark University; Doctor of Jurisprudence, New York Law School",1
+"Lei Jufang",1.8,China,pharmaceutical,1750,68,"Lanzhou, China",China,Married,1,"Bachelor of Arts/Science, Xi'an Jiaotong University",1
+"Romano Minozzi",1.8,Italy,"utilities, diversified",1750,86,"Spilamberto, Italy",Italy,NULL,1,"Bachelor of Commerce, University of Bologna",1
+"Nick Molnar",1.8,Australia,fintech,1750,30,"Sydney, Australia",Australia,Married,NULL,"Bachelor of Commerce, University of Sydney",1
+"John Oyler",1.8,"United States",biotech,1750,53,China,"United States",Married,NULL,"Bachelor of Arts/Science, Massachusetts Institute of Technology; Master of Business Administration, Stanford Graduate School of Business",1
+"Husnu Ozyegin",1.8,Turkey,"finance, diversified",1750,76,"Istanbul, Turkey",Turkey,Married,2,"Master of Business Administration, Harvard University; Bachelor of Arts/Science, Oregon State University",1
+"Tor Peterson",1.8,"United States",commodities,1750,56,"Zug, Switzerland","United States",Single,NULL,"Bachelor of Arts/Science, Duke University",1
+"Leonard Schleifer",1.8,"United States",pharmaceutical,1750,68,"Tarrytown, New York","United States",Married,3,"Bachelor of Arts/Science, Cornell University; Medical Doctor, University of Virginia; Ph.D, University of Virginia",1
+"Shi Yifeng",1.8,China,"medical cosmetics",1750,47,"Beijing, China",China,NULL,NULL,"Master of Business Administration, Tsinghua University",1
+"Sergei Studennikov",1.8,Russia,"liquor stores, supermarkets",1750,54,"Moscow, Russia",Russia,NULL,NULL,"Bachelor of Technology, Satka Mining and Ceramics College",1
+"Sun Guangxin",1.8,China,diversified,1750,58,"Urumqi, China",China,Married,2,"Master of Arts, Chinese Academy of Social Sciences; EMBA, Tianjin University",1
+"Henry Swieca",1.8,"United States","hedge funds",1750,63,"New York, New York","United States",Married,4,"Master of Business Administration, Columbia Business School; Bachelor of Arts/Science, SUNY Stony Brook",1
+"Torbjorn Tornqvist",1.8,Sweden,"oil trading",1750,67,"Geneva, Switzerland",Sweden,NULL,NULL,"Graduate, Stockholm University",1
+"Wei Lidong & family",1.8,China,software,1750,45,"Shanghai, China",China,NULL,NULL,"Bachelor of Arts/Science, Zhejiang University",1
+"Kanye West",1.8,"United States","music, sneakers",1750,43,"Los Angeles, California","United States",Divorced,4,"Drop Out, Chicago State University",1
+"Marc Andreessen",1.7,"United States","venture capital investing",1833,49,"Atherton, California","United States",Married,1,"Bachelor of Arts/Science, University of Illinois, Urbana-Champaign",1
+"Vasily Anisimov",1.7,Russia,"real estate",1833,69,"Moscow, Russia",Russia,Divorced,4,"Bachelor of Arts/Science, Alma-Ata Institute of National Economy",1
+"Peter Buck",1.7,"United States","Subway sandwich shops",1833,90,"Danbury, Connecticut","United States",Widowed,1,"Bachelor of Arts/Science, Bowdoin College; Doctorate, Columbia University; Master of Arts, Columbia University",1
+"Stewart Butterfield",1.7,Canada,"messaging software",1833,48,"Aspen, Colorado",Canada,Married,NULL,"Master of Philosophy, University of Cambridge; Bachelor of Arts/Science, University of Victoria",1
+"Tony Chen",1.7,Taiwan,electronics,1833,71,"Taichung, Taiwan",Taiwan,Married,NULL,"Bachelor of Arts/Science, National Cheng Kung University",1
+"Henry Engelhardt",1.7,"United States",insurance,1833,63,"Cardiff, United Kingdom","United States",Married,4,"Master of Business Administration, INSEAD; Bachelor of Arts/Science, University of Michigan",1
+"Paul Foster",1.7,"United States","oil refining",1833,63,"El Paso, Texas","United States",Married,2,"Bachelor of Arts/Science, Baylor University",1
+"Robert Friedland",1.7,"United States",mining,1833,70,"Singapore, Singapore","United States",Married,3,"Bachelor of Arts/Science, Reed College",1
+"G. Gnanalingam",1.7,Malaysia,ports,1833,76,"Kuala Lumpur, Malaysia",Malaysia,Married,3,"Master, Harvard Business School; Bachelor of Arts/Science, University of Malaya",1
+"Said Gutseriev",1.7,Russia,"oil, retail",1833,33,"Moscow, Russia",Russia,Married,1,"Bachelor of Science, University of Oxford; Master, University of Plymouth (UK)",1
+"Patrick Hanrahan",1.7,"United States",software,1833,65,"Portola Valley, California","United States",NULL,NULL,"Bachelor of Science, University of Wisconsin Madison; Ph.D, University of Wisconsin Madison",1
+"Anurang Jain",1.7,India,"auto parts",1833,59,"Aurangabad, India",India,Married,2,"Master of Business Administration, University of Pittsburgh",1
+"Sergei Katsiev",1.7,Russia,"retail, wholesale",1833,63,"Moscow, Russia",Russia,Married,2,"Bachelor of Arts/Science, Moscow Institute of International Relations",1
+"Kim Sang-yeol",1.7,"South Korea",construction,1833,60,"Seoul, South Korea","South Korea",Married,2,"Bachelor of Arts/Science, Chosun University",1
+"Kagemasa Kozuki",1.7,Japan,"video games",1833,80,"Tokyo, Japan",Japan,Married,2,"Bachelor of Arts/Science, Kansai University",1
+"Edward Lampert",1.7,"United States","convinience stores",1833,58,"Miami Beach, Florida","United States",Married,3,"Bachelor of Arts/Science, Yale University",1
+"Lee Joon-ho",1.7,"South Korea","online games",1833,56,"Seoul, South Korea","South Korea",Married,2,"Doctorate, Korea Advanced Institute of Science and Technology; Master of Science, Korea Advanced Institute of Science and Technology; Bachelor of Arts/Science, Seoul National University",1
+"Jimmy John Liautaud",1.7,"United States","sandwich chain",1833,57,"Key Largo, Florida","United States",Married,3,"High School Graduate, High School",1
+"Todd McKinnon",1.7,"United States",software,1833,49,"San Francisco, California","United States",Married,2,"Bachelor of Science, Brigham Young University; Master of Science, California Polytechnic State University",1
+"Shalom Meckenzie",1.7,Israel,â,1833,44,"Bat-Yam, Israel",Israel,Married,4,"Diploma, High School",1
+"Gary Michelson",1.7,"United States","medical patents",1833,72,"Los Angeles, California","United States",Married,1,"Medical Doctor, Hahnemann Medical College; Bachelor of Arts/Science, Temple University",1
+"Jorge Perez",1.7,"United States","real estate",1833,71,"Miami, Florida","United States",Married,4,"Bachelor of Arts/Science, CW Post College; Master of Science, University of Michigan",1
+"Megdet Rahimkulov & family",1.7,Russia,investments,1833,75,"Moscow, Russia",Russia,Married,3,"Bachelor of Arts/Science, State University of Management",1
+"Jerry Reinsdorf",1.7,"United States","sports teams",1833,85,"Chicago, Illinois","United States",Married,4,"Bachelor of Arts/Science, George Washington University; Law Degree, Northwestern University",1
+"Sheryl Sandberg",1.7,"United States","social network",1833,51,"Menlo Park, California","United States",Engaged,2,"Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, Harvard University",1
+"Ivan Savvidis",1.7,Russia,agribusiness,1833,62,"Rostov-on-Don, Russia",Russia,Married,2,"Master of Science, Rostov Institute of National Economy",1
+"Shao Genhuo",1.7,China,agribusiness,1833,55,"Beijing, China",China,Married,2,"Doctorate, China Agricultural University; Bachelor of Arts/Science, Zhejiang University",1
+"Rajju Shroff",1.7,India,agrochemicals,1833,87,"Mumbai, India",India,Married,3,"Bachelor of Arts/Science, Bombay University",1
+"Peter Szulczewski",1.7,Canada,e-commerce,1833,39,"San Francisco, California",Canada,Single,NULL,"Bachelor of Arts/Science, University of Waterloo",1
+"Pavel Tykac",1.7,Czechia,"coal mines",1833,56,"Prague, Czechia",Czechia,Married,4,"Master, Czech Technical University, Prague",1
+"Rufino Vigil Gonzalez",1.7,Mexico,steel,1833,72,"Mexico City, Mexico",Mexico,Married,4,"Bachelor of Arts/Science, Universidad Iberoamericana",1
+"Zhang Guiping & family",1.7,China,"real estate",1833,69,"Nanjing, China",China,Married,1,"Bachelor of Arts/Science, South East University",1
+"Chen Yung-tai",1.6,Taiwan,"real estate",1931,85,"Taipei, Taiwan",Taiwan,Married,6,"Bachelor of Arts/Science, National Chung Hsing University",1
+"Ding Lieming & family",1.6,China,pharmaceutical,1931,57,"Hangzhou, China",China,Married,NULL,"Doctorate, University of Arkansas",1
+"Henrik Fisker",1.6,"United States","electric vehicles",1931,57,"Los Angeles, California","United States",NULL,NULL,"Bachelor of Arts/Science, Art Center College of Design",1
+"Stefano Gabbana",1.6,Italy,"luxury goods",1931,58,"Milan, Italy",Italy,Single,NULL,"Bachelor of Arts/Science, Istituto Superiore di Industrie Artistiche",1
+"Geeta Gupta-Fisker",1.6,"United Kingdom","electric vehicles",1931,46,"Los Angeles, California","United Kingdom",Married,NULL,"Ph.D, Cambridge University; Bachelor of Arts/Science, Delhi University; Master of Science, University of Kent",1
+"Niranjan Hiranandani",1.6,India,"real estate",1931,71,"Mumbai, India",India,Married,2,"Bachelor of Arts/Science, University of Bombay",1
+"Ho Hung Anh",1.6,Vietnam,"consumer products, banking",1931,50,"Hanoi, Vietnam",Vietnam,Married,3,"Bachelor of Engineering, Kiev Polytechnic Institute",1
+"Michael Jordan",1.6,"United States","Charlotte Hornets, endorsements",1931,58,"Jupiter, Florida","United States",Married,5,"Bachelor of Arts/Science, University of North Carolina, Chapel Hill",1
+"Alexander Klyachin",1.6,Russia,"real estate",1931,53,"Moscow, Russia",Russia,Married,2,"Bachelor of Arts/Science, Moscow State University",1
+"Robert Langer",1.6,"United States",biotech,1931,72,"Boston, Massachusetts","United States",Married,3,"Bachelor of Engineering, Cornell University; Doctorate, Massachusetts Institute of Technology",1
+"Michael Lee-Chin",1.6,Canada,"mutual funds",1931,70,"Burlington, Canada",Canada,Divorced,5,"Bachelor of Arts/Science, McMaster University",1
+"Li Li",1.6,China,pharmaceutical,1931,57,"Shenzhen, China",China,Married,NULL,"Bachelor of Arts/Science, Sichuan University",1
+"David Mindus",1.6,Sweden,"real estate",1931,49,"Stockholm, Sweden",Sweden,Married,1,"Master of Laws, Stockholm University",1
+"David Paul",1.6,"United States","medical devices",1931,54,"Audubon, Pennsylvania","United States",Married,NULL,"Master of Science, Temple University; Bachelor of Arts/Science, University of Madras",1
+"Nelson Peltz",1.6,"United States",investments,1931,78,"Bedford, New York","United States",Married,10,"Drop Out, University of Pennsylvania, The Wharton School",1
+"Petro Poroshenko",1.6,Ukraine,confectionery,1931,55,"Kiev, Ukraine",Ukraine,Married,4,"Bachelor of Arts/Science, Kiev State University",1
+"Subhash Runwal",1.6,India,"real estate",1931,77,"Mumbai, India",India,Married,3,"Chartered Accountant, Institute of Chartered Accountants of India; B.Com, Pune University",1
+"Bhadresh Shah",1.6,India,engineering,1931,69,"Ahmedabad, India",India,Married,2,"Bachelor of Science in Engineering, Indian Institute of Technology",1
+"Leonid Simanovsky",1.6,Russia,investments,1931,71,"Moscow, Russia",Russia,Married,1,"Bachelor of Arts/Science, Kuibyshev Planning Institute",1
+"Sun Weijie",1.6,China,"oilfield equipment",1931,57,"Yantai, China",China,Married,1,"Bachelor of Arts/Science, Shandong Institute of Business and Technology",1
+"Shigefumi Wada",1.6,Japan,software,1931,68,"Nakano, Tokyo, Japan",Japan,Married,2,"Bachelor of Arts/Science, Rikkyo University",1
+"Yang Erzhu",1.6,China,"real estate",1931,70,"Foshan, China",China,NULL,NULL,"Bachelor of Arts/Science, Jinan University",1
+"David Zalik",1.6,"United States","financial technology",1931,47,"Atlanta, Georgia","United States",Married,3,"Drop Out, Auburn University",1
+"Zhang Keqiang",1.6,China,"real estate",1931,61,"Guangzhou, China",China,NULL,NULL,"Master of Business Administration, Murdoch University; Master of Business Administration, Murdoch University",1
+"Alex Beard",1.5,"United Kingdom","mining, commodities",2035,53,"London, United Kingdom","United Kingdom",Married,NULL,"Master of Science, Oxford University",1
+"Ron Burkle",1.5,"United States","supermarkets, investments",2035,68,"London, United Kingdom","United States",Divorced,3,"Diploma, High School",1
+"Steve Case",1.5,"United States",software,2035,62,"McLean, Virginia","United States",Married,5,"Bachelor of Arts/Science, Williams College",1
+"Safra Catz",1.5,"United States",software,2035,59,"Redwood City, California","United States",Married,2,"Doctor of Jurisprudence, University of Pennsylvania; Bachelor of Arts/Science, University of Pennsylvania, The Wharton School",1
+"Chen Baohua",1.5,China,pharmaceutical,2035,59,"Linhai, China",China,NULL,NULL,"Bachelor of Science, Zhejiang University of Technology",1
+"Chen Xiaohui",1.5,China,"information technology",2035,50,"Shenzhen, China",China,NULL,NULL,"Master of Business Administration, China Europe International Business School; Bachelor of Arts/Science, Xi'an Jiaotong University",1
+"Alberto Cortina",1.5,Spain,investments,2035,75,"Madrid, Spain",Spain,Married,4,"Doctor of Jurisprudence, Universidad Complutense de Madrid",1
+"Bharat Desai",1.5,"United States","IT consulting",2035,68,"Fisher Island, Florida","United States",Married,2,"Bachelor of Arts/Science, Indian Institute of Technology, Bombay; Master of Business Administration, University of Michigan, Stephen M. Ross School of Business",1
+"John Farber",1.5,"United States",chemicals,2035,95,"New York, New York","United States",Married,1,"Ph.D, Polytechnic Institute",1
+"Gary Fegel",1.5,Switzerland,"commodities, investments",2035,47,"Zurich, Switzerland",Switzerland,Married,3,"Master of Business Administration, University of St. Gallen",1
+"John Foley",1.5,"United States",sports,2035,50,"New York, New York","United States",Married,2,"Bachelor of Science in Engineering, Georgia Tech; Master of Business Administration, Harvard Business School",1
+"Geng Diangen",1.5,China,Internet,2035,64,"Beijing, China",China,Married,NULL,"Master of Business Administration, University Of Texas At Arlington",1
+"Alan Gerry",1.5,"United States","cable television",2035,92,"Liberty, New York","United States",Married,3,"Drop Out, High School",1
+"Bill Gross",1.5,"United States",investments,2035,77,"Laguna Beach, California","United States",Divorced,3,"Master of Business Administration, Anderson School of Management; Bachelor of Arts/Science, Duke University",1
+"Ke Xiping & family",1.5,China,investments,2035,60,"Xiamen, China",China,Married,NULL,"Xiamen University",1
+"Kim Jun-ki",1.5,"South Korea",diversified,2035,76,"Seoul, South Korea","South Korea",Married,3,"Bachelor of Arts/Economics, Korea University",1
+"Seth Klarman",1.5,"United States",investments,2035,64,"Chestnut Hill, Massachusetts","United States",Married,NULL,"Bachelor of Arts/Science, Cornell University; Master of Business Administration, Harvard University",1
+"Pyotr Kondrashev",1.5,Russia,investments,2035,71,"Wien, Austria",Russia,Married,2,"Bachelor of Science in Engineering, Magnitogorsk MiningÂ and Metallurgical Institute",1
+"James Leininger",1.5,"United States","medical products",2035,76,"San Antonio, Texas","United States",Married,4,"Bachelor of Arts/Science, Indiana University; Medical Doctor, Indiana University",1
+"Vladimir Litvinenko",1.5,Russia,"chemical industry",2035,65,"Saint Petersburg, Russia",Russia,Married,1,"Master of Science, Saint Petersburg Mining University",1
+"Youssef Mansour",1.5,Egypt,diversified,2035,75,"Cairo, Egypt",Egypt,Married,5,"Master of Business Administration, Auburn University; Bachelor of Science in Engineering, North Carolina State University",1
+"George Marcus",1.5,"United States","real estate",2035,79,"Los Altos Hills, California","United States",NULL,NULL,"Bachelor of Arts/Economics, San Francisco State",1
+"Strive Masiyiwa",1.5,Zimbabwe,telecom,2035,60,"London, United Kingdom",Zimbabwe,Married,6,"Bachelor of Engineering, University of Wales",1
+"Billy Joe (Red) McCombs",1.5,"United States","real estate, oil, cars, sports",2035,93,"San Antonio, Texas","United States",Married,3,"Drop Out, The University of Texas at Austin",1
+"Marius Nacht",1.5,Israel,software,2035,55,"Tel Aviv, Israel",Israel,Married,NULL,"Bachelor of Arts/Science, Hebrew University, Jerusalem",1
+"Mark Pincus",1.5,"United States","online games",2035,55,"San Francisco, California","United States",Divorced,3,"Master of Business Administration, Harvard University; Bachelor of Arts/Science, University of Pennsylvania",1
+"Michael Polsky",1.5,"United States","Electric power",2035,72,"Chicago, Illinois","United States",Married,4,"Master of Business Administration, University of Chicago Booth School of Business",1
+"Ren Jinsheng & family",1.5,China,pharmaceutical,2035,58,"Nanjing, China",China,NULL,NULL,"Master of Business Administration, Nanjing Normal University; Diploma, Nanjing University of Chinese Medicine",1
+"Matthew Roszak",1.5,"United States",cryptocurrency,2035,48,"Chicago, Illinois","United States",Married,NULL,"Bachelor of Arts/Economics, Lake Forest College",1
+"Vinod Saraf",1.5,India,chemicals,2035,68,"Mumbai, India",India,Married,2,"Master of Business Administration, Birla Institute of Technology and Science (BITS) - Pilani",1
+"Basudeo Singh",1.5,India,pharmaceutical,2035,80,"Mumbai, India",India,Married,3,"Master of Arts, Patna University",1
+"Ryan Smith",1.5,"United States","cloud computing",2035,42,"Provo, Utah","United States",Married,5,"Bachelor of Science, Brigham Young University",1
+"August Troendle",1.5,"United States","pharmaceutical services",2035,65,"Cincinnati, Ohio","United States",NULL,NULL,"Medical Doctor, University of Maryland",1
+"Kenny Troutt",1.5,"United States",telecom,2035,73,"Dallas, Texas","United States",Married,3,"Bachelor of Arts/Science, Southern Illinois University",1
+"John Van Lieshout",1.5,Australia,"real estate",2035,75,"Brisbane, Australia",Australia,Married,3,"Diploma, High School",1
+"Wang Huiwen",1.5,China,e-commerce,2035,43,"Dalian, China",China,NULL,NULL,"Bachelor of Science in Engineering, Tsinghua University",1
+"Jane Yan & family",1.5,China,software,2035,51,"Beijing, China",China,Married,NULL,"Bachelor of Arts/Science, Fudan University; Doctorate in Pedagogical Sciences, University of Pennsylvania",1
+"Yuan Zhimin & family",1.5,China,plastics,2035,60,"Guangzhou, China",China,Married,2,"Master of Science, Bejing Insitute of Technology",1
+"Alberto Alcocer",1.4,Spain,investments,2141,78,"Madrid, Spain",Spain,Married,5,"Doctor of Jurisprudence, Universidad Complutense de Madrid",1
+"Mori Arkin",1.4,Israel,pharmaceutical,2141,68,"Herzliya Pituach, Israel",Israel,Married,3,"Bachelor of Arts/Science, Tel Aviv University",1
+"Clifford Asness",1.4,"United States","money management",2141,54,"Greenwich, Connecticut","United States",Married,4,"Doctorate, University of Chicago; Master of Business Administration, University of Chicago; Bachelor of Arts/Science, University of Pennsylvania; Bachelor of Arts/Science, University of Pennsylvania, The Wharton School",1
+"Louis Bacon",1.4,"United States","hedge funds",2141,64,"Oyster Bay, New York","United States",Married,7,"Master of Business Administration, Columbia Business School; Bachelor of Arts/Science, Middlebury College",1
+"Zadik Bino & family",1.4,Israel,"banking, oil",2141,77,"Tel Aviv, Israel",Israel,Married,3,"Diploma, High School",1
+"Fernando Chico Pardo",1.4,Mexico,"airport management",2141,69,"Mexico City, Mexico",Mexico,Married,3,"Master of Business Administration, Kellogg School of Management; Bachelor of Business Administration, Universidad Iberoamericana",1
+"Jim Crane",1.4,"United States","logistics, baseball",2141,67,"Houston, Texas","United States",Married,3,"Bachelor of Arts/Science, Central Missouri State University",1
+"Darwin Deason",1.4,"United States",software,2141,80,"Dallas, Texas","United States",Divorced,3,"Diploma, High School",1
+"Thomas Duff",1.4,"United States","tires, diversified",2141,64,"Hattiesburg, Mississippi","United States",Divorced,2,"Bachelor of Arts/Science, University of Southern Mississippi",1
+"Keith Dunleavy & family",1.4,"United States","health IT",2141,51,"Annapolis, Maryland","United States",Married,4,"Bachelor of Arts/Science, Dartmouth College; Medical Doctor, Harvard University",1
+"Lloyd Frink",1.4,"United States","real estate",2141,56,"Seattle, Washington","United States",Married,2,"Bachelor of Arts/Science, Stanford University",1
+"Gao Yunfeng",1.4,China,"industrial lasers",2141,54,"Shenzhen, China",China,NULL,NULL,"Master of Business Administration, Peking University",1
+"Jitse Groen",1.4,Netherlands,"food delivery service",2141,42,Netherlands,Netherlands,NULL,NULL,"Bachelor of Business Administration, University of Twente",1
+"Richard Hayne",1.4,"United States",textiles,2141,73,"Philadelphia, Pennsylvania","United States",Married,NULL,"Bachelor of Arts/Science, Lehigh University",1
+"Huang Hongyun & family",1.4,China,"real estate",2141,54,"Chongqing, China",China,Married,2,"EMBA, Chongqing Universtiy",1
+"Archie Hwang",1.4,Taiwan,semiconductors,2141,68,"Taipei, Taiwan",Taiwan,Married,NULL,"Bachelor of Arts/Science, National Chiao Tung University",1
+"Scott Kapnick",1.4,"United States","private equity",2141,62,"Naples, Florida","United States",NULL,NULL,"Doctor of Jurisprudence, The University of Chicago; Master of Business Administration, The University of Chicago; Bachelor of Arts/Economics, Williams College",1
+"Sidney Kimmel",1.4,"United States",retail,2141,93,"New York, New York","United States",Married,NULL,"Drop Out, Temple University",1
+"Andrei Kosogov",1.4,Russia,Banking,2141,60,"Moscow, Russia",Russia,Married,3,"Bachelor of Science in Engineering, Moscow Power Engineering Institute",1
+"Guilherme Peirao Leal",1.4,Brazil,cosmetics,2141,71,"Sao Paulo, Brazil",Brazil,Divorced,5,"Bachelor of Arts/Science, Universidade de Sao Paulo",1
+"Anatoly Lomakin",1.4,Russia,investments,2141,68,"Moscow, Russia",Russia,Married,2,"Bachelor of Arts/Science, Moscow Institute of International Relations",1
+"Terence (Terry) Matthews",1.4,Canada,telecom,2141,78,"Ottawa, Canada",Canada,Married,4,"Doctorate, Carleton College; Bachelor of Arts/Science, University of Wales",1
+"Trevor Milton",1.4,"United States","electric vehicles",2141,39,"Phoenix, Arizona","United States",Married,NULL,"Drop Out, Utah Valley University",1
+"Kerr Neilson",1.4,Australia,Investments,2141,71,"Sydney, Australia",Australia,Divorced,2,"Bachelor of Arts/Science, University of Cape Town",1
+"Vadim Novinsky",1.4,Ukraine,steel,2141,57,"Kiev, Ukraine",Ukraine,Married,3,"Bachelor of Arts/Science, Academy of Civil Aviation (Leningrad)",1
+"John Ocampo",1.4,"United States",semiconductors,2141,62,"Los Altos, California","United States",Married,3,"Bachelor of Engineering, Santa Clara University",1
+"Jonathan Oringer",1.4,"United States","stock photos",2141,47,"Miami Beach, Florida","United States",Single,NULL,"Master of Science, Columbia University; Bachelor of Arts/Science, SUNY Stony Brook",1
+"Oliver Samwer",1.4,Germany,"tech investments",2141,47,"Munich, Germany",Germany,Married,3,"Bachelor of Arts/Science, WHU - Otto Beisheim School of Management",1
+"Martin Selig",1.4,"United States","real estate",2141,83,"Seattle, Washington","United States",Married,3,"Bachelor of Arts/Science, University of Washington",1
+"Airat Shaimiev",1.4,Russia,"refinery, chemicals",2141,59,"Kazan, Russia",Russia,NULL,NULL,"Bachelor of Arts/Science, Moscow Power Engineering Institute, Kazan",1
+"Michael Spencer",1.4,"United Kingdom","stock exchange",2141,65,"London, Suffolk, United Kingdom","United Kingdom",Married,3,"Bachelor of Arts/Science, Oxford University",1
+"Edward Stack",1.4,"United States",sport,2141,66,"Sewickley, Pennsylvania","United States",Married,NULL,"Bachelor of Arts/Science, St. John Fisher College",1
+"Thomas Steyer",1.4,"United States","hedge funds",2141,63,"San Francisco, California","United States",Separated,4,"Master of Business Administration, Stanford University; Bachelor of Arts/Science, Yale University",1
+"Jim Thompson",1.4,"United States",logistics,2141,81,"Hong Kong, Hong Kong","United States",Married,2,"Bachelor of Arts/Science, San Jose State University",1
+"Jayshree Ullal",1.4,"United States","computer networking",2141,60,"Saratoga, California","United States",Married,2,"Bachelor of Arts/Science, San Francisco State University; Master of Science, Santa Clara University",1
+"Wang Mingwang",1.4,China,"electronics components",2141,54,"Shenzhen, China",China,Married,NULL,"EMBA, Sun Yat-sen University",1
+"Alfred West, Jr.",1.4,"United States","money management",2141,78,"Paoli, Pennsylvania","United States",Married,3,"Bachelor of Arts/Science, Georgia Institute of Technology; Master of Business Administration, University of Pennsylvania, The Wharton School",1
+"Shusheng Zheng",1.4,China,telecom,2141,55,"Hangzhou, China",China,NULL,NULL,"Doctorate, Zhejiang University",1
+"Sanjay Agarwal",1.3,India,banking,2263,50,"Jaipur, India",India,Married,2,"Chartered Accountant, Institute of Chartered Accountants of India",1
+"Achal Bakeri",1.3,India,"air coolers",2263,61,"Ahmedabad, India",India,Married,2,"Master of Business Administration, Marshall School of Business",1
+"Elena Baturina",1.3,Russia,"investments, real estate",2263,58,"London, United Kingdom",Russia,Widowed,2,"Bachelor of Arts/Science, State University of Management",1
+"Oleg Boyko",1.3,Russia,diversified,2263,56,"Lipperswil, Switzerland",Russia,Single,NULL,"Master of Science, Moscow Aviation University; Master of Business Administration, Russian National Academy of National Economy and Public Administration",1
+"Chris Britt",1.3,"United States",fintech,2263,48,"San Francisco, California","United States",NULL,NULL,"Bachelor of Arts/Science, Tulane University",1
+"Chuck Bundrant",1.3,"United States",fishing,2263,79,"Seattle, Washington","United States",Married,3,"Drop Out, Middle Tennessee State University",1
+"Chang Pyung-soon",1.3,"South Korea","educational services",2263,70,"Seoul, South Korea","South Korea",Married,2,"Bachelor of Arts/Science, Yonsei University",1
+"Jeffrey Cheah",1.3,Malaysia,property,2263,76,"Kuala Lumpur, Malaysia",Malaysia,Married,3,"Bachelor of Arts/Science, Victoria University",1
+"Turgay Ciner",1.3,Turkey,diversified,2263,65,"Istanbul, Turkey",Turkey,Married,1,"Bachelor of Arts/Science, Istanbul Academy",1
+"Tim Cook",1.3,"United States","technology telecom",2263,60,"Cupertino, California","United States",NULL,NULL,"Master of Business Administration, Fuqua School of Business",1
+"Egon Durban",1.3,"United States","private equity",2263,47,"Atherton, California","United States",Married,3,"Bachelor of Science, Georgetown University",1
+"Feng Chenhui",1.3,"United States",Electronics,2263,55,"Wuxi, China","United States",NULL,NULL,"Master, Tsinghua University",1
+"John Goff",1.3,"United States","real estate",2263,66,"Fort Worth, Texas","United States",Married,NULL,"Chartered Accountant, University of Texas",1
+"Michael Krasny",1.3,"United States",retail,2263,67,"Highland Park, Illinois","United States",Married,1,"Bachelor of Arts/Science, University of Illinois, Urbana-Champaign",1
+"Igor Kudryashkin",1.3,Russia,metallurgy,2263,59,"Moscow, Russia",Russia,Married,1,"Ph.D, Moscow Institute of Steel and Alloys",1
+"Li Tan",1.3,China,pharmaceutical,2263,56,"Shenzhen, China",China,Married,NULL,"Bachelor of Arts/Science, Sichuan University",1
+"Bob Muglia",1.3,"United States",software,2263,61,"Mercer Island, Washington","United States",Married,1,"Bachelor of Science, University of Michigan",1
+"Stefan Pierer",1.3,Austria,automotive,2263,64,"Wels, Austria",Austria,NULL,NULL,"Bachelor of Arts/Science, Montan University",1
+"Thomas Sandell",1.3,Sweden,"hedge funds",2263,60,"London, United Kingdom",Sweden,Married,1,"Master of Business Administration, Columbia Business School; Bachelor of Arts/Science, Uppsala University",1
+"Ilya Scherbovich",1.3,Russia,investments,2263,46,"Moscow, Russia",Russia,Married,2,"Master of Science, Plekhanov Russian University of Economics",1
+"Gerald Schwartz",1.3,Canada,finance,2263,79,"Toronto, Canada",Canada,Married,4,"Master of Business Administration, Harvard University",1
+"Anatoly Sedykh",1.3,Russia,"steel pipes",2263,56,"Moscow, Russia",Russia,Married,2,"Bachelor of Science in Engineering, Moscow Institute of Steel and Alloys",1
+"Radik Shaimiev",1.3,Russia,"refinery, chemicals",2263,56,"Kazan, Russia",Russia,Married,2,"Bachelor of Arts/Science, Kazan Institute of Civil Engineering",1
+"Jared Smith",1.3,"United States","cloud computing",2263,46,"Provo, Utah","United States",NULL,NULL,"Bachelor of Science, London School of Economics",1
+"Tang Zhuang",1.3,"United States",electronics,2263,48,"Wuxi, China","United States",NULL,NULL,"Bachelor of Arts/Science, Peking University; Doctorate, Univeristy of Illinois at Urbana-Champaign",1
+"Farris Wilks",1.3,"United States","natural gas",2263,69,"Cisco, Texas","United States",Married,11,"Diploma, High School",1
+"Whitney Wolfe Herd",1.3,"United States","dating app",2263,31,"Austin, Texas","United States",Married,1,"Bachelor of Arts/Science, Southern Methodist University",1
+"Xia Shudong",1.3,China,"IT service",2263,48,"Beijing, China",China,NULL,NULL,"Doctorate, Beijing University",1
+"Yang Keng",1.3,China,"real estate",2263,60,"Chengdu, China",China,Married,NULL,"Bachelor of Arts/Science, Sichuan University",1
+"Patrick Zalupski",1.3,"United States",homebuilding,2263,40,"Jacksonville, Florida","United States",Married,2,"Bachelor of Science, Stetson University",1
+"Zhou Chengjian",1.3,China,"fashion retail",2263,56,"Shanghai, China",China,Married,1,"EMBA, Zhejiang University",1
+"Zhu Tao",1.3,China,pharmaceutical,2263,48,"Tianjin, China",China,NULL,NULL,"Doctorate in Pedagogical Sciences, Carnegie Mellon University; Doctorate, The University of Pittsburgh; Master of Science, Tsinghua University",1
+"Aras Agalarov",1.2,Russia,"real estate",2378,65,"Moscow, Russia",Russia,Married,2,"Bachelor of Arts/Science, Baku Polytechnical Instit",1
+"Syed Mokhtar AlBukhary",1.2,Malaysia,"engineering, energy, construction",2378,69,"Kuala Lumpur, Malaysia",Malaysia,Married,5,"Drop Out, High School",1
+"Thomas Bailey",1.2,"United States","money management",2378,84,"Aspen, Colorado","United States",Divorced,2,"Bachelor of Arts/Science, Michigan State University; Master of Business Administration, University of Western Ontario",1
+"Sachin Bansal",1.2,India,flipkart,2378,39,"Bangalore, India",India,Married,1,"Bachelor of Science in Engineering, Indian Institute of Technology",1
+"Christian Bertermann",1.2,Germany,"used car sales",2378,37,"Berlin, Germany",Germany,NULL,NULL,"Bachelor of Business Administration, University of Manheim",1
+"Chen Tianqiao",1.2,China,"online games",2378,47,"Atherton, California",China,Married,2,"Bachelor of Arts/Science, Fudan University",1
+"Ronald Clarke",1.2,"United States","payments technology",2378,65,"Duluth, Georgia","United States",Married,2,"Bachelor of Arts/Science, Colby College; Master of Business Administration, Cornell University",1
+"Deng Hui & family",1.2,"United States",software,2378,59,"Hangzhou, China","United States",Married,NULL,"Ph.D, Washington University in St. Louis",1
+"Wesley Edens",1.2,"United States",investments,2378,59,"New York, New York","United States",Married,4,"Bachelor of Arts/Science, Oregon State University",1
+"Gleb Fetisov",1.2,Russia,investments,2378,54,"Moscow, Russia",Russia,Married,3,"Doctorate, Moscow State University",1
+"J. Christopher Flowers",1.2,"United States",investments,2378,63,"New York, New York","United States",Married,2,"Bachelor of Arts/Science, Harvard University",1
+"Premchand Godha",1.2,India,pharmaceutical,2378,74,"Mumbai, India",India,Married,2,"Chartered Accountant, Institute of Chartered Accountants of India; Bachelor of Commerce, University of Rajasthan",1
+"Lawrence Golub",1.2,"United States","private equity",2378,61,"New York, New York","United States",NULL,NULL,"Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, Harvard College; Doctor of Jurisprudence, Harvard Law School",1
+"Ryan Graves",1.2,"United States",uber,2378,37,"Kauai, Hawaii","United States",Married,4,"Bachelor of Arts/Science, Miami University of Ohio",1
+"Eugene Kaspersky",1.2,Russia,software,2378,55,"Moscow, Russia",Russia,Divorced,4,"Bachelor of Arts/Science, Institute of Cryptography, Telecommunications and Computer Science (FSB Academy)",1
+"Kim Jung-woong",1.2,"South Korea",cosmetics,2378,46,"Seoul, South Korea","South Korea",Married,1,"Associate in Arts/Science, Daelim University",1
+"Hakan Koc",1.2,Germany,"online car sales",2378,36,"Berlin, Germany",Germany,NULL,NULL,"Bachelor of Law, Bucerius Law School",1
+"Andrei Komarov",1.2,Russia,manufacturing,2378,54,"Moscow, Russia",Russia,Married,6,"Bachelor of Arts/Science, Moscow Institute of Chemical Engineering",1
+"Joe Lacob",1.2,"United States",sport,2378,65,"Atherton, California","United States",Married,4,"Master of Business Administration, Stanford University; Masters of Public Health, UCLA; Bachelor of Arts/Science, University of California, Irvine",1
+"Liu Gexin & family",1.2,China,pharmaceutical,2378,69,"Chengdu, China",China,Married,1,"Medical Doctor, Chongqing Universtiy",1
+"Frederic Luddy",1.2,"United States",software,2378,66,"San Diego, California","United States",Single,1,"Drop Out, Indiana University",1
+"Bill Malhotra",1.2,Canada,"real estate",2378,71,"Ottawa, Canada",Canada,Married,2,"Bachelor of Engineering, Birla Institute of Technology and Science (BITS) - Pilani",1
+"Muneaki Masuda",1.2,Japan,retail,2378,70,"Osaka, Japan",Japan,Married,2,"Bachelor of Arts/Science, Doshisha University",1
+"Andrei Molchanov",1.2,Russia,"construction materials",2378,49,"Moscow, Russia",Russia,Married,6,"Masters of Public Administration, Russian State Academy of Management; Bachelor of Arts/Science, St Petersburg State University",1
+"Simon Nixon",1.2,"United Kingdom","price comparison website",2378,53,"St. Brelade, Jersey, United Kingdom","United Kingdom",Single,NULL,"Drop Out, Nottingham University",1
+"Roberto Ongpin",1.2,Philippines,diversified,2378,84,"Manila, Philippines",Philippines,Married,4,"Master of Business Administration, Harvard University",1
+"Eren Ozmen",1.2,"United States",aerospace,2378,62,"Reno, Nevada","United States",Married,2,"Master of Business Administration, University of Nevada at Reno",1
+"Chamath Palihapitiya",1.2,"United States",â,2378,44,"Atherton, California","United States","In Relationship",3,"Bachelor of Engineering, University of Waterloo",1
+"Rao Wei & family",1.2,China,pharmaceutical,2378,56,"Shenzhen, China",China,NULL,NULL,"Doctorate, Wuhan University of Technology",1
+"Andrei Rappoport",1.2,Russia,investments,2378,57,"Moscow, Russia",Russia,Married,2,"Bachelor of Arts/Science, Donetsk National University",1
+"Boris Rotenberg",1.2,Russia,"construction, pipes, chemicals",2378,64,"Moscow, Russia",Russia,Married,5,"Bachelor of Arts/Science, Leningrad Institute of Physical Culture",1
+"Chris Sacca",1.2,"United States","venture capital investing",2378,45,"Truckee, California","United States",Married,2,"Bachelor of Arts/Science, Georgetown University; Doctor of Jurisprudence, Georgetown University",1
+"Alexander Samwer",1.2,Germany,"tech investments",2378,46,"Munich, Germany",Germany,Married,1,"Master of Business Administration, Harvard Business School; Master of Arts, Oxford University",1
+"Marc Samwer",1.2,Germany,"tech investments",2378,50,"Munich, Germany",Germany,Married,2,"LLM, University of Cologne",1
+"James Scapa",1.2,"United States",software,2378,64,"Atherton, California","United States",Married,4,"Bachelor of Arts/Science, Columbia University; Master of Business Administration, University of Michigan",1
+"Albert Shigaboutdinov",1.2,Russia,"refinery, chemicals",2378,68,"Kazan, Russia",Russia,Married,2,"Bachelor of Arts/Science, Kazan State Technical University",1
+"Mike Speiser",1.2,"United States",software,2378,50,"San Francisco, California","United States",Single,NULL,"Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, University of Arizona",1
+"Michael Steinhardt",1.2,"United States","hedge funds",2378,80,"Mount Kisco, New York","United States",Married,NULL,"University of Pennsylvania",1
+"Nik Storonsky",1.2,"United Kingdom",fintech,2378,36,"London, United Kingdom","United Kingdom",Married,2,"Master of Science, Moscow Institute of Physics and Technology",1
+"Sergei Sudarikov",1.2,Russia,"finance, development",2378,49,"Moscow, Russia",Russia,Married,3,"Master of Science, Moscow State University",1
+"Rustem Sulteev",1.2,Russia,"refinery, chemicals",2378,67,"Kazan, Russia",Russia,Married,2,"Bachelor of Arts/Science, Kazan Institute of Civil Engineering",1
+"Nutchamai Thanombooncharoen",1.2,Thailand,"energy drinks",2378,59,"Bangkok, Thailand",Thailand,Married,2,"Bachelor of Arts/Economics, Silpakorn University; Master of Arts, Thammasat University",1
+"Robert Toll",1.2,"United States","home building",2378,80,"Miami Beach, Florida","United States",Married,5,"Bachelor of Arts/Science, Cornell University; LLB, University of Pennsylvania",1
+"Wang Jianyi",1.2,China,"fiber optic cables",2378,58,"Hangzhou, China",China,Married,NULL,"Associate in Arts/Science, Zhejiang University of Technology",1
+"Wang Qunbin",1.2,China,conglomerate,2378,NULL,"Shanghai, China",China,NULL,NULL,"Bachelor of Arts/Science, Fudan University",1
+"Wang Ren-sheng",1.2,Taiwan,retail,2378,89,"Zhengzhou, China",Taiwan,Married,3,"National Taitung University",1
+"Allan Wong",1.2,"Hong Kong",electronics,2378,71,"Hong Kong, Hong Kong","Hong Kong",Widowed,2,"Bachelor of Science in Engineering, University of Hong Kong; Master of Science, University of Wisconsin",1
+"Wu Li-gann",1.2,Taiwan,"electronic components",2378,80,"Kaohsiung, Taiwan",Taiwan,Married,NULL,"Bachelor of Arts/Science, Tunghai University",1
+"Yuan Jiandong & family",1.2,China,pharmaceutical,2378,NULL,"Suzhou, China",China,NULL,NULL,"Bachelor of Arts/Science, Peking University; Doctorate, State University of New York at Albany",1
+"Zhang Xi",1.2,China,chemicals,2378,47,"Dongying, China",China,Married,NULL,"Master, University of Houston",1
+"Zhou Minghua",1.2,China,pharmaceutical,2378,57,"Linhai, China",China,NULL,NULL,"Bachelor of Science, Zhejiang University of Technology",1
+"Zhou Ruxin",1.2,China,Navigation,2378,58,"Beijing, China",China,NULL,NULL,"Master of Business Administration, Beijing University; Master of Science, Nankai University",1
+"Radhe Shyam Agarwal",1.1,India,"consumer goods",2524,76,"Kolkata, India",India,Married,3,"LLB, Calcutta University; M.Com, Calcutta University; Chartered Accountant, Institute of Chartered Accountants of India; Company Secretary, Institute of Company Secretaries of India",1
+"Binny Bansal",1.1,India,flipkart,2524,38,"Singapore, Singapore",India,Married,2,"Bachelor of Science in Engineering, Indian Institute of Technology",1
+"Eduardo Belmont Anderson",1.1,Peru,cosmetics,2524,75,"Lima, Peru",Peru,Married,3,"Bachelor of Arts/Science, University of North Carolina, Chapel Hill",1
+"John Bicket",1.1,"United States","sensor systems",2524,41,"San Francisco, California","United States",Married,2,"Bachelor of Science, Cornell University; Master of Science, Massachusetts Institute of Technology",1
+"Sanjit Biswas",1.1,"United States","sensor systems",2524,39,"San Francisco, California","United States",Married,3,"Master of Science, Massachusetts Institute of Technology; Bachelor of Science, Stanford University",1
+"Lloyd Blankfein",1.1,"United States",banking,2524,66,"New York, New York","United States",Married,3,"Bachelor of Arts/Science, Harvard University; Doctor of Jurisprudence, Harvard University",1
+"Chen Jiancheng",1.1,China,manufacturing,2524,62,"Shangyu, China",China,Married,NULL,"Master of Arts, Zhejiang University",1
+"Chen Jinshi & family",1.1,China,"construction, real estate",2524,58,"Nantong, China",China,Married,NULL,"EMBA, Fudan University",1
+"Weili Dai",1.1,"United States",semiconductors,2524,59,"Las Vegas, Nevada","United States",Married,2,"Bachelor of Arts/Science, University of California, Berkeley",1
+"Radhe Shyam Goenka",1.1,India,"consumer goods",2524,75,"Kolkata, India",India,Married,3,"LLB, Calcutta University; M.Com, Calcutta University",1
+"David Golub",1.1,"United States","private equity",2524,59,"New York, New York","United States",NULL,NULL,"Bachelor of Arts/Economics, Harvard College; Master of Philosophy, Oxford University; Master of Business Administration, Stanford Business School",1
+"Ming Hsieh",1.1,"United States","Fulgent Genetics",2524,65,"Los Angeles, California","United States",Married,2,"Bachelor of Arts/Science, University of Southern California; Master of Science, University of Southern California",1
+"Mohammed Ibrahim",1.1,"United Kingdom",communications,2524,75,"London, United Kingdom","United Kingdom",Married,2,"Bachelor of Arts/Science, University of Alexandria; Ph.D, University of Birmingham; Master, University of Bradford",1
+"Kenji Kasahara",1.1,Japan,"social network",2524,45,"Tokyo, Japan",Japan,Married,NULL,"Bachelor of Arts/Science, Tokyo University",1
+"Richard Kayne",1.1,"United States",investments,2524,75,"Santa Monica, California","United States",Married,3,"Bachelor of Arts/Science, Stanford University; Master of Business Administration, University of California, Los Angeles",1
+"Chang-soo Kim",1.1,"South Korea",apparel,2524,60,"Seoul, South Korea","South Korea",NULL,NULL,"Bachelor of Science, Yonsei University",1
+"Gennady Kozovoy",1.1,Russia,coal,2524,69,"Mezhdurechensk, Russia",Russia,Married,2,"Bachelor of Arts/Science, Irkutsk Polytechnic Institute",1
+"Lee Joong-keun",1.1,"South Korea","construction, real estate",2524,80,"Seoul, South Korea","South Korea",Married,4,"Doctorate, Korea University",1
+"Li Qiong",1.1,China,"online games",2524,43,"Beijing, China",China,Divorced,NULL,"Master of Science, Tianjin University",1
+"Li Wenmei & family",1.1,China,"medical equipment",2524,58,"Guangzhou, China",China,Married,NULL,"Master, Jilin University",1
+"Yasseen Mansour",1.1,Egypt,diversified,2524,59,"Cairo, Egypt",Egypt,Married,4,"Bachelor of Arts/Science, George Washington University",1
+"Forrest Preston",1.1,"United States","health care",2524,88,"Cleveland, Tennessee","United States",Widowed,NULL,"Oregon State University; Walla Walla College",1
+"M.Satyanarayana Reddy",1.1,India,pharmaceutical,2524,63,"Hyderabad, India",India,Married,2,"Ph.D, Osmania University",1
+"Ruan Hongxian & family",1.1,China,pharmaceutical,2524,54,"Kunming, China",China,Married,NULL,"Master of Business Administration, Macau University of Science and Technology",1
+"Daisuke Sasaki",1.1,Japan,software,2524,40,"Tokyo, Japan",Japan,NULL,NULL,"Bachelor of Commerce, Hitotsubashi University",1
+"Jack Schuler",1.1,"United States",pharmaceutical,2524,80,"Lake Bluff, Illinois","United States",Married,3,"Master of Business Administration, Stanford Graduate School of Business; Bachelor of Science, Tufts University",1
+"Neerja Sethi",1.1,"United States","IT consulting, outsourcing",2524,66,"Fisher Island, Florida","United States",Married,2,"Bachelor of Arts/Science, Delhi University; Master of Business Administration, Delhi University; Master of Science, Oakland University",1
+"Michael S. Smith",1.1,"United States","liquefied natural gas",2524,65,"Miami Beach, Florida","United States",Married,2,"Drop Out, University of Colorado",1

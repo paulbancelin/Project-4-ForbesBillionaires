@@ -1,0 +1,918 @@
+Name,NetWorth,Country,Source,Rank,Age,Residence,Citizenship,Status,Children,Education,Self_made
+"Amancio Ortega",77,Spain,"fashion retail",11,85,"La Coruna, Spain",Spain,Married,3,NULL,1
+"Zhong Shanshan",68.9,China,"beverages, pharmaceutical",13,66,"Hangzhou, China",China,NULL,NULL,NULL,1
+"Gautam Adani & family",50.5,India,"infrastructure, commodities",24,58,"Ahmedabad, India",India,Married,2,NULL,1
+"Wang Wei",39,China,"package delivery",35,50,"Shenzhen, China",China,NULL,NULL,NULL,1
+"He Xiangjian",37.7,China,"home appliances",37,78,"Foshan, China",China,Married,3,NULL,1
+"Qin Yinglin & family",33.5,China,"pig breeding",44,56,"Nanyang, China",China,Married,NULL,NULL,1
+"Lee Shau Kee",31.7,"Hong Kong","real estate",47,93,"Hong Kong, Hong Kong","Hong Kong",Divorced,5,NULL,1
+"Pang Kang",26.4,China,"soy sauce",57,65,"Foshan, China",China,NULL,NULL,NULL,1
+"Leonardo Del Vecchio & family",25.8,Italy,eyeglasses,62,85,"Milan, Italy",Italy,Married,6,NULL,1
+"Takemitsu Takizaki",25.8,Japan,sensors,62,75,"Osaka, Japan",Japan,Married,NULL,NULL,1
+"Zhang Yong",23,Singapore,restaurants,75,50,"Singapore, Singapore",Singapore,Married,NULL,NULL,1
+"Goh Cheng Liang",21.7,Singapore,paints,80,93,"Singapore, Singapore",Singapore,Widowed,3,NULL,1
+"Lui Che Woo & family",19.4,"Hong Kong",casinos/hotels,93,92,"Hong Kong, Hong Kong","Hong Kong",Married,5,NULL,1
+"Fan Hongwei & family",18.2,China,petrochemicals,102,54,"Wujiang, China",China,Married,NULL,NULL,1
+"James Ratcliffe",17,"United Kingdom",chemicals,113,68,"London, United Kingdom","United Kingdom",Married,NULL,NULL,1
+"Reinhold Wuerth & family",16.8,Germany,fasteners,115,86,"Kuenzelsau, Germany",Germany,Married,3,NULL,1
+"Radhakishan Damani",16.5,India,"retail, investments",117,66,"Mumbai, India",India,Married,3,NULL,1
+"Zuo Hui",15.5,China,"real estate services",128,50,"Beijing, China",China,NULL,NULL,NULL,1
+"Zhou Qunfei & family",15.4,"Hong Kong","smartphone screens",131,NULL,"Hong Kong, Hong Kong","Hong Kong",Married,NULL,NULL,1
+"Cheng Yixiao",14.1,China,"video streaming app",148,37,"Beijing, China",China,NULL,NULL,NULL,1
+"Joseph Lau",13.6,"Hong Kong","real estate",155,69,"Hong Kong, Hong Kong","Hong Kong",Divorced,6,NULL,1
+"Charoen Sirivadhanabhakdi",13.5,Thailand,"alcohol, real estate",156,77,"Bangkok, Thailand",Thailand,Married,5,NULL,1
+"Wang Wenyin",13.2,China,"mining, copper products",161,53,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Wang Liping & family",13.1,China,"hydraulic machinery",163,55,"Changzhou, China",China,Married,NULL,NULL,1
+"Lu Zhongfang",12.5,China,education,173,78,"Tonghua, China",China,NULL,NULL,NULL,1
+"Ma Jianrong & family",12.5,China,"textiles, apparel",173,57,"Ningbo, China",China,Married,NULL,NULL,1
+"Zhang Tao",12.5,China,e-commerce,173,48,"Beijing, China",China,NULL,NULL,NULL,1
+"Liu Yonghao & family",12.1,China,agribusiness,182,69,"Chengdu, China",China,Married,2,NULL,1
+"Patrick Drahi",11.8,France,telecom,186,57,"Zermatt, Switzerland",France,Married,4,NULL,1
+"Tom & Judy Love",10.8,"United States","retail & gas stations",205,NULL,"Oklahoma City, Oklahoma","United States",Married,4,NULL,1
+"Wang Laisheng",10.8,China,"electronics components",205,56,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Gianluigi & Rafaela Aponte",10.7,Switzerland,Shipping,208,80,"Geneva, Switzerland",Switzerland,NULL,2,NULL,1
+"Li Zhenguo & family",10.5,China,"solar wafers and modules",213,53,"Xi'an, China",China,Married,NULL,NULL,1
+"John Fredriksen",10.4,Cyprus,shipping,216,76,"London, United Kingdom",Cyprus,Widowed,2,NULL,1
+"Jay Chaudhry",10,"United States","security software",228,61,"Reno, Nevada","United States",Married,3,NULL,1
+"Tobi Lutke",9.8,Canada,e-commerce,232,40,"Ottawa, Canada",Canada,Married,3,NULL,1
+"James Dyson",9.7,"United Kingdom",vacuums,234,74,"Gloucestershire, United Kingdom","United Kingdom",Married,3,NULL,1
+"Jim Pattison",9.6,Canada,diversified,241,92,"Vancouver, Canada",Canada,Married,3,NULL,1
+"Yao Liangsong",9.6,China,furniture,241,56,"Guangzhou, China",China,NULL,NULL,NULL,1
+"Yeung Kin-man",9.5,"Hong Kong",electronics,245,57,"Hong Kong, Hong Kong","Hong Kong",Married,NULL,NULL,1
+"Ding Shijia",9.3,China,"sports apparel",251,57,"Quanzhou, China",China,Married,NULL,NULL,1
+"Ian & Richard Livingstone",9.3,"United Kingdom","real estate",251,NULL,"London, United Kingdom","United Kingdom",NULL,NULL,NULL,1
+"Lam Wai-ying",9.1,"Hong Kong","smartphone screens",256,NULL,"Hong Kong, Hong Kong","Hong Kong",Married,NULL,NULL,1
+"Lu Xiangyang",9.1,China,"automobiles, batteries",256,58,"Guangzhou, China",China,Married,NULL,NULL,1
+"Wolfgang Marguerre & family",9.1,Germany,pharmaceutical,256,79,"Heidelberg, Germany",Germany,Married,3,NULL,1
+"Guillaume Pousaz",9,Switzerland,fintech,262,39,NULL,Switzerland,Married,3,NULL,1
+"Tse Ping",8.9,China,pharmaceutical,264,69,"Hong Kong, Hong Kong",China,Married,NULL,NULL,1
+"Xavier Niel",8.8,France,"internet, telecom",269,53,"Paris, France",France,Single,3,NULL,1
+"Zong Qinghou",8.8,China,beverages,269,75,"Hangzhou, China",China,Married,1,NULL,1
+"Cheng Xue",8.7,China,"soy sauce",274,51,"Foshan, China",China,NULL,NULL,NULL,1
+"Graeme Hart",8.7,"New Zealand",investments,274,65,"Auckland, New Zealand","New Zealand",Married,2,NULL,1
+"Shigenobu Nagamori",8.7,Japan,motors,274,76,"Kyoto, Japan",Japan,Married,2,NULL,1
+"Xu Shihui",8.7,China,"snacks, beverages",274,63,"Quanzhou, China",China,Married,NULL,NULL,1
+"Kei Hoi Pang",7.8,China,"real estate",316,55,"Hong Kong, Hong Kong",China,NULL,NULL,NULL,1
+"David Reuben",7.7,"United Kingdom","investments, real estate",323,82,"London, United Kingdom","United Kingdom",Married,1,NULL,1
+"Pei Zhenhua",7.5,China,batteries,334,62,"Ningde, China",China,NULL,NULL,NULL,1
+"Ruan Liping",7.5,"Hong Kong","power strips",334,57,"Ningbo, China","Hong Kong",NULL,NULL,NULL,1
+"Ruan Xueping",7.5,"Hong Kong","power strip",334,49,"Ningbo, China","Hong Kong",NULL,NULL,NULL,1
+"Lai Meisong",7.3,China,"package delivery",344,50,"Shanghai, China",China,NULL,NULL,NULL,1
+"Pham Nhat Vuong",7.3,Vietnam,diversified,344,52,"Hanoi, Vietnam",Vietnam,Married,3,NULL,1
+"Manuel Villar",7.2,Philippines,"real estate",352,71,"Manila, Philippines",Philippines,Married,3,NULL,1
+"Johann Graf",7.1,Austria,gambling,358,74,"Vienna, Austria",Austria,Divorced,3,NULL,1
+"Li Hua",7.1,China,"financial services",358,43,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Stewart and Lynda Resnick",7.1,"United States","agriculture, water",358,NULL,"Beverly Hills, California","United States",Married,5,NULL,1
+"Murali Divi & family",6.8,India,pharmaceutical,384,70,"Hyderabad, India",India,Married,2,NULL,1
+"Huang Chulong",6.8,Canada,"real estate",384,62,"Shenzhen, China",Canada,NULL,NULL,NULL,1
+"Li Jianquan & family",6.8,"Hong Kong","consumer products",384,64,"Shenzhen, China","Hong Kong",Married,NULL,NULL,1
+"Shi Yonghong & family",6.8,China,restaurants,384,52,"Chengdu, China",China,Married,NULL,NULL,1
+"Erich Wesjohann & family",6.8,Germany,"poultry genetics",384,75,"Visbek, Germany",Germany,Married,3,NULL,1
+"Li Haiyan",6.7,China,restaurants,391,NULL,"Chengdu, China",China,Married,NULL,NULL,1
+"Francis Choi",6.6,"Hong Kong","real estate",400,73,"Hong Kong, Hong Kong","Hong Kong",Married,3,NULL,1
+"Zeng Fangqin",6.6,China,"smartphone components",400,55,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Chu Mang Yee & family",6.5,China,"real estate",404,61,"Guangzhou, China",China,Married,1,NULL,1
+"Denise Coates",6.5,"United Kingdom","online gambling",404,53,"Stoke-on-Trent, United Kingdom","United Kingdom",Married,5,NULL,1
+"Gopikishan Damani",6.5,India,"retail, investments",404,63,"Mumbai, India",India,Married,2,NULL,1
+"Liu Yongxing",6.5,China,diversified,404,72,"Shanghai, China",China,Married,1,NULL,1
+"Georg Stumpf",6.5,Austria,"real estate, construction",404,48,"Vienna, Austria",Austria,"In Relationship",NULL,NULL,1
+"Wang Junlin",6.3,China,liquor,421,58,"Chengdu, China",China,Married,NULL,NULL,1
+"Wang Ning & family",6.3,China,toys,421,34,"Beijing, China",China,Married,NULL,NULL,1
+"You Xiaoping",6.3,China,"chemicals, spandex",421,63,"Wenzhou, China",China,Married,2,NULL,1
+"Stef Wertheimer & family",6.2,Israel,"metalworking tools",432,94,"tel aviv, Israel",Israel,Married,4,NULL,1
+"Guenther Fielmann & family",6,Germany,optometry,451,81,"Hamburg, Germany",Germany,"In Relationship",2,NULL,1
+"Martin Lorentzon",6,Sweden,Spotify,451,52,"Stockholm, Sweden",Sweden,Single,NULL,NULL,1
+"Isaac Perlmutter",6,"United States","Marvel comics",451,78,"Palm Beach, Florida","United States",Married,NULL,NULL,1
+"Chen Rui",5.9,China,"online entertainment",472,43,"Shanghai, China",China,NULL,NULL,NULL,1
+"Lin Jianhua & family",5.9,China,"solar panel components",472,58,"Hangzhou, China",China,Married,NULL,NULL,1
+"Li Chunan",5.8,China,"renewable energy",476,52,"Fushun, China",China,NULL,NULL,NULL,1
+"William Li",5.8,China,"electric vehicles",476,46,"Beijing, China",China,NULL,NULL,NULL,1
+"Rene Benko",5.6,Austria,"real estate, retail",496,44,Austria,Austria,Married,4,NULL,1
+"Clive Calder",5.5,"United Kingdom","record label",502,74,"Grand Cayman, Cayman Islands","United Kingdom",Married,2,NULL,1
+"Hasmukh Chudgar & family",5.5,India,pharmaceutical,502,87,"Ahmedabad, India",India,Married,3,NULL,1
+"Dong Wei",5.5,China,pharmaceutical,502,50,"Lianyungang, China",China,NULL,NULL,NULL,1
+"He Xiaopeng",5.5,China,"electric vehicles",502,43,"Guangzhou, China",China,NULL,NULL,NULL,1
+"Kjell Inge Rokke",5.5,Norway,"shipping, seafood",502,62,"Vettre, Norway",Norway,Married,4,NULL,1
+"Shu Ping",5.5,Singapore,restaurants,502,NULL,"Singapore, Singapore",Singapore,Married,NULL,NULL,1
+"Alceu Elias Feldmann",5.4,Brazil,fertilizer,520,71,"Curitiba, Brazil",Brazil,Divorced,3,NULL,1
+"Harry Stine",5.4,"United States",agriculture,520,79,"Adel, Iowa","United States",Married,4,NULL,1
+"Cao Renxian",5.3,China,"photovoltaic equipment",529,52,"Hefei, China",China,Married,NULL,NULL,1
+"Yao Zhenhua & family",5.3,China,conglomerate,529,51,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Yu Yong",5.3,China,mining,529,60,"Shanghai, China",China,Married,NULL,NULL,1
+"Frank Lowy",5.2,Australia,"shopping malls",539,90,"Tel Aviv, Israel",Australia,Married,3,NULL,1
+"Akio Nitori",5.2,Japan,"home furnishings",539,77,"Hokkaido, Japan",Japan,Married,NULL,NULL,1
+"Ruan Hongliang & family",5.2,China,glass,539,60,"Jiaxing, China",China,Married,NULL,NULL,1
+"Teddy Sagi",5.2,Israel,"gambling software",539,49,"Tel Aviv, Israel",Israel,"In Relationship",6,NULL,1
+"Wong Man Li",5.2,"Hong Kong",furniture,539,56,"Hong Kong, Hong Kong","Hong Kong",Married,2,NULL,1
+"Gustavo Denegri",5.1,Italy,biotech,550,84,"torino, Italy",Italy,Married,2,NULL,1
+"Patrick Lee",5.1,"Hong Kong",paper,550,79,"Hong Kong, Hong Kong","Hong Kong",Married,5,NULL,1
+"Wu Guanjiang & family",5.1,China,pharmaceutical,550,52,"Chongqing, China",China,Married,NULL,NULL,1
+"Chen Dongsheng",4.9,China,insurance,574,63,"Beijing, China",China,Married,NULL,NULL,1
+"Marc Ladreit de Lacharriere",4.9,France,finance,574,80,"Paris, France",France,Divorced,4,NULL,1
+"Joe Lewis",4.9,"United Kingdom",investments,574,84,"Albany, Bahamas","United Kingdom",Married,2,NULL,1
+"Zhang Fan",4.9,China,"touch screens",574,55,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Bidzina Ivanishvili",4.8,Georgia,investments,589,65,"Tbilisi, Georgia",Georgia,Married,4,NULL,1
+"Issad Rebrab & family",4.8,Algeria,food,589,77,"Algiers, Algeria",Algeria,Married,5,NULL,1
+"Wang Xicheng & family",4.8,China,tires,589,72,"Zhaoyuan, China",China,Married,NULL,NULL,1
+"M.A. Yusuff Ali",4.8,India,retail,589,65,"Abu Dhabi, United Arab Emirates",India,Married,3,NULL,1
+"Hong Jie",4.7,China,paint,608,53,"Putian, China",China,NULL,NULL,NULL,1
+"Eric Smidt",4.7,"United States","hardware stores",608,61,"Beverly Hills, California","United States",Married,NULL,NULL,1
+"Tim Sweeney",4.7,"United States","video games",608,50,"Cary, North Carolina","United States",NULL,NULL,NULL,1
+"Tang Shing-bor",4.7,"Hong Kong","real estate",608,87,"Hong Kong, Hong Kong","Hong Kong",Married,5,NULL,1
+"Wong Luen Hei",4.7,China,"building materials",608,59,"Hong Kong, Hong Kong",China,Married,NULL,NULL,1
+"Zhou Bajin",4.7,China,"auto parts",608,86,"Changzhou, China",China,NULL,NULL,NULL,1
+"Daniel Ek",4.6,Sweden,Spotify,622,38,"Stockholm, Sweden",Sweden,Married,2,NULL,1
+"Vladimir Kim",4.6,Kazakhstan,mining,622,60,"Almaty, Kazakhstan",Kazakhstan,Married,3,NULL,1
+"Li Weiguo",4.6,China,"construction materials",622,56,"Beijing, China",China,Married,NULL,NULL,1
+"Paul-Heinz Wesjohann & family",4.6,Germany,"chicken processing",622,77,"Rechterfeld, Germany",Germany,Married,4,NULL,1
+"Friedrich Knapp",4.5,Germany,"fashion retail",638,70,"Brunswick, Germany",Germany,Married,3,NULL,1
+"Miao Hangen",4.5,China,"textiles, petrochemicals",638,56,"Suzhou, China",China,NULL,NULL,NULL,1
+"Tony Tamer",4.5,"United States","private equity",638,63,"New York, New York","United States",Married,4,NULL,1
+"Nick Caporella",4.4,"United States",beverages,655,85,"Plantation, Florida","United States",Married,4,NULL,1
+"Yakir Gabay",4.4,Cyprus,"real estate",655,55,"London, United Kingdom",Cyprus,NULL,NULL,NULL,1
+"Erman Ilicak",4.4,Turkey,construction,655,53,"Ankara, Turkey",Turkey,Married,3,NULL,1
+"Zhang Daocai",4.4,China,valves,655,71,"Shaoxing, China",China,NULL,NULL,NULL,1
+"Ralph Dommermuth",4.3,Germany,"internet service provider",665,57,"Montabaur, Germany",Germany,Married,1,NULL,1
+"Lee Yin Yee",4.3,China,glass,665,69,"Hong Kong, Hong Kong",China,NULL,NULL,NULL,1
+"Edwin Leong",4.3,"Hong Kong","real estate",665,69,"Hong Kong, Hong Kong","Hong Kong",Married,1,NULL,1
+"Kerry Stokes",4.3,Australia,"construction equipment, media",665,80,"Perth, Australia",Australia,Married,4,NULL,1
+"Alain Bouchard",4.2,Canada,retail,680,72,"Montreal, Canada",Canada,Married,4,NULL,1
+"Fang Wei",4.2,China,steel,680,47,"Beijing, China",China,Married,NULL,NULL,1
+"Peter Hargreaves",4.2,"United Kingdom","financial services",680,74,"Bristol, United Kingdom","United Kingdom",Married,2,NULL,1
+"Bertil Hult",4.2,Sweden,education,680,80,"Lucerne, Switzerland",Sweden,Married,4,NULL,1
+"Liu Fangyi",4.2,China,"medical equipment",680,NULL,"Shanghai, China",China,NULL,NULL,NULL,1
+"Luo Liguo & family",4.2,China,chemicals,680,65,"Ningbo, China",China,Married,NULL,NULL,1
+"Pan Laican",4.2,China,"soy sauce",680,NULL,"foshan, China",China,NULL,NULL,NULL,1
+"Wang Yanqing & family",4.2,China,"electrical equipment",680,55,"Wuxi, China",China,Married,NULL,NULL,1
+"Cho Tak Wong",4.1,"Hong Kong","auto parts",705,74,"Fuqing, China","Hong Kong",Married,3,NULL,1
+"Laurence Graff & family",4.1,"United Kingdom","diamond jewelry",705,82,"Gstaad, Switzerland","United Kingdom",Divorced,5,NULL,1
+"Ji Qi",4.1,China,"hotels, motels",705,54,"Shanghai, China",China,NULL,NULL,NULL,1
+"Julio Ponce Lerou",4.1,Chile,fertilizer,705,75,"Santiago, Chile",Chile,Divorced,1,NULL,1
+"Xu Jingren",4.1,China,pharmaceutical,705,76,"Taizhou, China",China,Married,2,NULL,1
+"Walter P.J. Droege",4,Germany,investing,727,68,"Dusseldorf, Germany",Germany,Married,NULL,NULL,1
+"Masatoshi Ito",4,Japan,retail,727,97,"Tokyo, Japan",Japan,Married,3,NULL,1
+"Li Xiang",4,China,"electric vehicles",727,39,"Beijing, China",China,NULL,NULL,NULL,1
+"Melissa Ma",4,China,"internet search",727,NULL,"Beijing, China",China,Married,NULL,NULL,1
+"Georg Nemetschek & family",4,Germany,software,727,87,"Munich, Germany",Germany,Widowed,2,NULL,1
+"Qiu Guanghe & family",4,China,"fashion retail",727,69,"Wenzhou, China",China,Married,2,NULL,1
+"Ugur Sahin",4,Germany,biotechnology,727,55,"Mainz, Germany",Germany,Married,NULL,NULL,1
+"Michal Solowow",4,Poland,investments,727,58,"Kielce, Poland",Poland,Married,3,NULL,1
+"Wu Jianshu",4,"Hong Kong","auto parts",727,57,"Ningbo, China","Hong Kong",NULL,NULL,NULL,1
+"Che Jianxing",3.9,China,"furniture retailing",752,54,"Shanghai, China",China,Married,NULL,NULL,1
+"Paul Gauselmann & family",3.9,Germany,gambling,752,86,"Espelkamp, Germany",Germany,Married,4,NULL,1
+"Kuan Kam Hon & family",3.9,Malaysia,"synthetic gloves",752,73,"Kuala Lumpur, Malaysia",Malaysia,Married,3,NULL,1
+"Erik Selin",3.9,Sweden,"real estate",752,53,"GÃ¶teborg, Sweden",Sweden,Divorced,NULL,NULL,1
+"Wang Linpeng",3.9,China,"furniture retailing",752,53,"Beijing, China",China,NULL,NULL,NULL,1
+"Wu Zhigang & family",3.9,China,"bakery chain",752,86,"Shenyang, China",China,Married,3,NULL,1
+"Zhang Wenzhong",3.9,China,supermarkets,752,59,"Beijing, China",China,NULL,NULL,NULL,1
+"Jeff Green",3.8,"United States","online advertising",775,44,"Newbury Park, California","United States",NULL,NULL,NULL,1
+"Lai Jianping",3.8,China,"soy sauce",775,NULL,"Foshan, China",China,NULL,NULL,NULL,1
+"Clive Palmer",3.8,Australia,mining,775,67,"Brisbane, Australia",Australia,Married,3,NULL,1
+"Karsanbhai Patel",3.8,India,"consumer goods",775,77,"Ahmedabad, India",India,Married,3,NULL,1
+"Dirk Rossmann & family",3.8,Germany,drugstores,775,74,"Lower-Saxony, Germany",Germany,Married,2,NULL,1
+"Shaul Shani",3.8,Israel,telecom,775,66,Italy,Israel,NULL,NULL,NULL,1
+"Song Fei",3.8,China,machinery,775,54,"Yantai, China",China,Married,NULL,NULL,1
+"Ivar Tollefsen",3.8,Norway,"real estate",775,59,"Oslo, Norway",Norway,NULL,NULL,NULL,1
+"Zhu Gongshan",3.8,China,"solar panel materials",775,63,"Shanghai, China",China,Married,2,NULL,1
+"Peter Gilgan",3.7,Canada,homebuilding,807,70,"Oakville, Canada",Canada,Married,8,NULL,1
+"Li Liangbin",3.7,China,lithium,807,53,"Xinyu, China",China,NULL,NULL,NULL,1
+"Candido Pinheiro Koren de Lima",3.7,Brazil,"hospitals, health insurance",807,74,"Fortaleza, Brazil",Brazil,Married,2,NULL,1
+"Xu Shugen",3.7,China,"construction, mining machinery",807,55,"Hangzhou, China",China,NULL,NULL,NULL,1
+"Anil Agarwal & family",3.6,India,"mining, metals",831,67,"London, United Kingdom",India,Married,2,NULL,1
+"Chu Lam Yiu",3.6,"Hong Kong",flavorings,831,51,"Hong Kong, Hong Kong","Hong Kong",Married,NULL,NULL,1
+"Hu Kaijun",3.6,China,pharmaceutical,831,59,"Beijing, China",China,NULL,NULL,NULL,1
+"Li Hongxin & family",3.6,China,"paper & related products",831,68,"Yanzhou, China",China,Married,3,NULL,1
+"Jerzy Starak",3.6,Poland,pharmaceutical,831,73,"Konstancin, Poland",Poland,Married,3,NULL,1
+"Yang Shaopeng",3.6,China,shipping,831,63,"Qingdao, China",China,NULL,NULL,NULL,1
+"Li Guoqiang",3.5,China,"auto dealerships",859,57,"Beijing, China",China,Married,NULL,NULL,1
+"Liu Xiaodong",3.5,China,flavorings,859,53,"Shanghai, China",China,NULL,NULL,NULL,1
+"Arnout Schuijff",3.5,Netherlands,"payments software",859,53,"Amsterdam, Netherlands",Netherlands,Married,NULL,NULL,1
+"Wu Shaoxun",3.5,China,wine,859,65,"Daye, China",China,NULL,NULL,NULL,1
+"Ye Guofu",3.5,China,retail,859,43,"Guangzhou, China",China,NULL,NULL,NULL,1
+"Zhou Jianping",3.5,China,"fashion retail",859,60,"Jiangyin, China",China,Married,NULL,NULL,1
+"Mohed Altrad",3.4,France,"scaffolding, cement mixers",891,73,"Montpellier, France",France,"In Relationship",5,NULL,1
+"Francesco Gaetano Caltagirone",3.4,Italy,"cement, diversified",891,78,"Rome, Italy",Italy,Married,3,NULL,1
+"Deng Wen",3.4,China,flavorings,891,53,"Chengdu, China",China,Married,NULL,NULL,1
+"Bernard Ecclestone & family",3.4,"United Kingdom","Formula One",891,90,"London, United Kingdom","United Kingdom",Married,2,NULL,1
+"Zarakh Iliev",3.4,Russia,"real estate",891,54,"Moscow, Russia",Russia,Married,2,NULL,1
+"Arnon Milchan",3.4,Israel,"movie making",891,76,"Tel Aviv, Israel",Israel,Married,4,NULL,1
+"Remo Ruffini",3.4,Italy,"winter jackets",891,59,"Como, Italy",Italy,Married,2,NULL,1
+"RJ Scaringe",3.4,"United States","electric vehicles",891,38,"Irvine, California","United States",Married,3,NULL,1
+"Eric Ya Shen",3.4,China,"online apparel retail",891,50,"Guangzhou, China",China,NULL,NULL,NULL,1
+"Bulat Utemuratov",3.4,Kazakhstan,"mining, banking, hotels",891,63,"Astana, Kazakhstan",Kazakhstan,Married,3,NULL,1
+"Dong Jinggui",3.3,China,"electric scooters",925,NULL,"Wuxi, China",China,Married,NULL,NULL,1
+"Charles Edelstenne",3.3,France,aviation,925,83,"Paris, France",France,NULL,NULL,NULL,1
+"Vyacheslav Kim",3.3,Kazakhstan,fintech,925,51,"Almaty, Kazakhstan",Kazakhstan,Single,NULL,NULL,1
+"Horst Paulmann & family",3.3,Chile,retail,925,86,"Santiago, Chile",Chile,Married,3,NULL,1
+"Renzo Rosso & family",3.3,Italy,fashion,925,65,"Bassano del Grappa, Italy",Italy,Divorced,7,NULL,1
+"Klaus-Peter Schulenberg",3.3,Germany,"ticketing service",925,NULL,"Bremen, Germany",Germany,Married,NULL,NULL,1
+"Wang Wenxue",3.3,China,"real estate",925,53,"Beijing, China",China,Married,NULL,NULL,1
+"Giuliana Benetton",3.2,Italy,"fashion retail, investments",956,83,"Treviso, Italy",Italy,Widowed,4,NULL,1
+"Luciano Benetton",3.2,Italy,"fashion retail, investments",956,85,"Ponzano Veneto, Italy",Italy,Married,4,NULL,1
+"Tomasz Biernacki",3.2,Poland,supermarkets,956,48,"Krotoszyn,, Poland",Poland,NULL,NULL,NULL,1
+"Yoichi & Keiko Erikawa",3.2,Japan,videogames,956,NULL,"Yokohama, Japan",Japan,Married,NULL,NULL,1
+"Ke Zunhong & family",3.2,China,pharmaceutical,956,66,"Chengdu, China",China,Married,NULL,NULL,1
+"Zygmunt Solorz-Zak",3.2,Poland,"TV broadcasting",956,64,"Warsaw, Poland",Poland,Divorced,3,NULL,1
+"Lawrence Stroll",3.2,Canada,"fashion investments",956,61,"Geneva, Switzerland",Canada,Married,2,NULL,1
+"Rita Tong Liu",3.2,"Hong Kong","real estate",956,72,"Hong Kong, Hong Kong","Hong Kong",Widowed,2,NULL,1
+"Zhang Li",3.2,China,"real estate",956,68,"Guangzhou, China",China,Married,1,NULL,1
+"John Caudwell",3.1,"United Kingdom","mobile phones",986,68,"Stoke-on-Trent, United Kingdom","United Kingdom",Divorced,6,NULL,1
+"Antonio Del Valle Ruiz & family",3.1,Mexico,chemicals,986,82,"Mexico City, Mexico",Mexico,Married,5,NULL,1
+"Gu Yuhua & family",3.1,China,furniture,986,71,"Hangzhou, China",China,Married,NULL,NULL,1
+"Hao Hong",3.1,"United States",pharmaceutical,986,65,"Tianjin, China","United States",NULL,NULL,NULL,1
+"Hoi Kin Hong",3.1,Macao,"real estate",986,68,"Shanghai, China",Macao,Married,2,NULL,1
+"Jin Lei",3.1,China,pharmaceutical,986,55,"Changchun, China",China,Married,NULL,NULL,1
+"Li Gaiteng",3.1,China,"hair dryers",986,49,"Shanghai, China",China,Married,NULL,NULL,1
+"Nie Tengyun & family",3.1,China,logistics,986,45,"Shanghai, China",China,Married,NULL,NULL,1
+"Prasert Prasarttong-Osoth",3.1,Thailand,hospitals,986,88,"Bangkok, Thailand",Thailand,Married,5,NULL,1
+"Wilhelm Beier & family",3,Germany,pharmaceutical,1008,65,Germany,Germany,NULL,NULL,NULL,1
+"John Coates",3,"United Kingdom","online gambling",1008,51,"Stoke-On-Trent, United Kingdom","United Kingdom",Married,2,NULL,1
+"Behdad Eghbali",3,"United States","private equity",1008,45,"Los Angeles, California","United States",Married,NULL,NULL,1
+"Jose E. Feliciano",3,"United States","private equity",1008,47,"Marina Del Rey, California","United States",Married,NULL,NULL,1
+"Peter Grogg",3,Switzerland,biochemicals,1008,79,"Liestal, Switzerland",Switzerland,NULL,NULL,NULL,1
+"Huang Jinfeng",3,China,e-commerce,1008,38,"Guangzhou, China",China,NULL,NULL,NULL,1
+"Huang Rulun",3,China,"real estate",1008,69,"Beijing, China",China,Married,2,NULL,1
+"Dan Kurzius",3,"United States","email marketing",1008,49,"Atlanta, Georgia","United States",Married,2,NULL,1
+"Sheldon Lavin",3,"United States","meat processing",1008,88,"Highland Park, New Jersey","United States",NULL,NULL,NULL,1
+"Louis Le Duff",3,France,bakeries,1008,74,"Paris, France",France,Married,2,NULL,1
+"Peter Lim",3,Singapore,investments,1008,67,"Singapore, Singapore",Singapore,Married,2,NULL,1
+"Tom Morris",3,"United Kingdom",retail,1008,66,"Merseyside, United Kingdom","United Kingdom",Married,NULL,NULL,1
+"Or Wai Sheun",3,"Hong Kong","real estate",1008,69,"Hong Kong, Hong Kong","Hong Kong",Married,2,NULL,1
+"P.V. Ramprasad Reddy",3,India,pharmaceutical,1008,63,"Hyderabad, India",India,Married,2,NULL,1
+"Gil Shwed",3,Israel,software,1008,52,"Tel Aviv, Israel",Israel,Single,NULL,NULL,1
+"Song Zuowen",3,China,"aluminum, diversified",1008,74,"Longkou, China",China,Married,2,NULL,1
+"Tian Ming",3,China,"measuring instruments",1008,67,"Hefei, China",China,Married,NULL,NULL,1
+"Richard White",3,Australia,software,1008,66,"Sydney, Australia",Australia,NULL,2,NULL,1
+"Xia Zuoquan",3,China,automobiles,1008,59,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Yin Xin",3,China,"video streaming app",1008,36,"Beijing, China",China,NULL,NULL,NULL,1
+"Zhu Xingming",3,China,"electrical equipment",1008,54,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Cao Ji",2.9,China,manufacturing,1064,69,"Hangzhou, China",China,NULL,NULL,NULL,1
+"Chen Kaixuan",2.9,China,"household chemicals",1064,63,"Guangzhou, China",China,NULL,NULL,NULL,1
+"Marcel Erni",2.9,Switzerland,"private equity",1064,56,"Zug, Switzerland",Switzerland,NULL,NULL,NULL,1
+"Walter Faria",2.9,Brazil,beer,1064,66,"Rio de Janeiro, Brazil",Brazil,NULL,1,NULL,1
+"Fu Guangming & family",2.9,China,poultry,1064,67,"Nanping, China",China,Married,2,NULL,1
+"Alfred Gantner",2.9,Switzerland,"private equity",1064,53,"Zug, Switzerland",Switzerland,Married,5,NULL,1
+"Hu Yangzhong",2.9,China,technology,1064,56,"Hangzhou, China",China,NULL,NULL,NULL,1
+"Huang Qiaoling",2.9,China,"amusement parks",1064,62,"Hangzhou, China",China,Married,2,NULL,1
+"Huang Zhenda & family",2.9,China,construction,1064,73,"Shantou, China",China,Married,NULL,NULL,1
+"Bradley Jacobs",2.9,"United States",logistics,1064,64,"Greenwich, Connecticut","United States",Married,4,NULL,1
+"Maritsa Lazari & family",2.9,"United Kingdom","real estate",1064,76,"London, United Kingdom","United Kingdom",Widowed,3,NULL,1
+"Patrice Motsepe",2.9,"South Africa",mining,1064,59,"Johannesburg, South Africa","South Africa",Married,3,NULL,1
+"Urs Wietlisbach",2.9,Switzerland,"private equity",1064,59,"Zug, Switzerland",Switzerland,NULL,NULL,NULL,1
+"Xu Yingzhuo",2.9,China,agribusiness,1064,53,"Guangzhou, China",China,NULL,NULL,NULL,1
+"Ye Fan & family",2.9,China,"auto dealerships",1064,50,"Dongguan, China",China,Married,NULL,NULL,1
+"Bai Baokun",2.8,China,hardware,1111,NULL,"Dongguan, China",China,NULL,NULL,NULL,1
+"David Baszucki",2.8,"United States","online games",1111,58,"San Francisco, California","United States",Married,NULL,NULL,1
+"Chen Hua",2.8,China,"real estate",1111,55,"Shenzhen, China",China,Married,NULL,NULL,1
+"Chen Huwen",2.8,China,stationery,1111,50,"Shanghai, China",China,NULL,NULL,NULL,1
+"Chen Huxiong",2.8,China,stationery,1111,50,"Shanghai, China",China,NULL,NULL,NULL,1
+"Chen Tianshi",2.8,China,semiconductors,1111,36,"Beijing, China",China,NULL,NULL,NULL,1
+"Jean Coutu & family",2.8,Canada,drugstores,1111,93,"Montreal, Canada",Canada,Married,5,NULL,1
+"Deng Weiming & family",2.8,China,materials,1111,52,"Changsha, China",China,Married,NULL,NULL,1
+"John Henry",2.8,"United States",sports,1111,71,"Boca Raton, Florida","United States",Married,2,NULL,1
+"Lv Jianming",2.8,"Hong Kong","medical equipment",1111,56,"Hangzhou, China","Hong Kong",NULL,NULL,NULL,1
+"Hans Melchers",2.8,Netherlands,"chemicals, investments",1111,83,"Vorden, Netherlands",Netherlands,Married,2,NULL,1
+"Nguyen Thi Phuong Thao",2.8,Vietnam,airlines,1111,50,"Ho Chi Minh City, Vietnam",Vietnam,Married,4,NULL,1
+"Hilton Schlosberg",2.8,"United Kingdom","energy drinks",1111,68,"Irvine, California","United Kingdom",NULL,NULL,NULL,1
+"Kenneth Tuchman",2.8,"United States",outsourcing,1111,61,"Denver, Colorado","United States",Married,2,NULL,1
+"Masateru Uno & family",2.8,Japan,drugstores,1111,74,"Fukuoka, Japan",Japan,NULL,NULL,NULL,1
+"Lars Wingefors",2.8,Sweden,"video games",1111,44,"Karlstad, Sweden",Sweden,Married,NULL,NULL,1
+"Wong Kwong Yu & family",2.8,China,retail,1111,51,"Beijing, China",China,Married,2,NULL,1
+"Xiong Wu",2.8,China,software,1111,45,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Xu Jinfu",2.8,China,chemicals,1111,57,"Guangzhou, China",China,NULL,NULL,NULL,1
+"Xu Zhihan",2.8,China,electronics,1111,48,"Wuxi, China",China,NULL,NULL,NULL,1
+"Zhong Ruonong & family",2.8,China,electronics,1111,58,"Zhuzhou, China",China,Married,NULL,NULL,1
+"Luciano Hang",2.7,Brazil,"department stores",1174,58,"Brusque, Brazil",Brazil,Married,3,NULL,1
+"Sergio Mantegazza",2.7,Switzerland,travel,1174,93,"Lugano, Switzerland",Switzerland,Married,2,NULL,1
+"Nan Cunhui",2.7,China,"power equipment",1174,57,"Wenzhou, China",China,Married,NULL,NULL,1
+"Ou Zongrong & family",2.7,China,"real estate",1174,57,"Shanghai, China",China,NULL,NULL,NULL,1
+"Su Suyu & family",2.7,China,"utilities, real estate",1174,72,"Shantou, China",China,NULL,NULL,NULL,1
+"Sun Shoukuan",2.7,China,"metals, coal",1174,71,"Yingkou, China",China,Married,2,NULL,1
+"Tao Yuequn",2.7,China,"Contact Lens",1174,61,"Hefei, China",China,NULL,NULL,NULL,1
+"Tong Jinquan",2.7,China,"real estate",1174,66,"Shanghai, China",China,Married,2,NULL,1
+"Yitzhak Tshuva",2.7,Israel,"real estate",1174,72,"Netanya, Israel",Israel,Married,5,NULL,1
+"Zhang Wanzhen",2.7,China,"electronics components",1174,71,"Chaozhou, China",China,NULL,NULL,NULL,1
+"Rajendra Agarwal",2.6,India,pharmaceutical,1205,NULL,"Mumbai, India",India,NULL,NULL,NULL,1
+"John Armitage",2.6,Ireland,"hedge funds",1205,61,"London, United Kingdom",Ireland,NULL,NULL,NULL,1
+"Banwari Lal Bawri",2.6,India,pharmaceutical,1205,68,"Mumbai, India",India,Married,2,NULL,1
+"Girdhari Lal Bawri",2.6,India,pharmaceutical,1205,73,"Mumbai, India",India,Married,3,NULL,1
+"Choo Chong Ngen",2.6,Singapore,hotels,1205,68,"Singapore, Singapore",Singapore,Married,4,NULL,1
+"Stein Erik Hagen",2.6,Norway,"consumer goods",1205,64,"Oslo, Norway",Norway,Married,4,NULL,1
+"Hal Jackman",2.6,Canada,"insurance, investments",1205,88,"Toronto, Canada",Canada,Married,5,NULL,1
+"Lai Shixian",2.6,China,"sports apparel",1205,46,"Quanzhou, China",China,Married,NULL,NULL,1
+"Stephen Lansdown",2.6,Guernsey,"financial services",1205,68,"St. Peter Port, Guernsey",Guernsey,Married,2,NULL,1
+"Ren Jianhua",2.6,China,"kitchen appliances",1205,64,"Hangzhou, China",China,Married,NULL,NULL,1
+"Pieter van der Does",2.6,Netherlands,"payments software",1205,52,"Amsterdam, Netherlands",Netherlands,Married,NULL,NULL,1
+"Yang Yuanxi",2.6,China,"video streaming app",1205,NULL,"Beijing, China",China,NULL,NULL,NULL,1
+"Yu Qibing & family",2.6,China,glass,1205,55,"Ningbo, China",China,NULL,NULL,NULL,1
+"Zhaojiang Zhu",2.6,China,Smartphones,1205,47,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Byju Raveendran and Divya Gokulnath",2.5,India,"education technology",1249,39,"Bangalore, India",India,Married,2,NULL,1
+"Chang Jing",2.5,China,technology,1249,38,"Beijing, China",China,NULL,NULL,NULL,1
+"Hu Kun",2.5,China,"medical equipment",1249,51,"Qinhuangdao, China",China,NULL,NULL,NULL,1
+"Mark & Robyn Jones",2.5,"United States",insurance,1249,NULL,"Westlake, Texas","United States",Married,6,NULL,1
+"Hans Langer",2.5,Germany,"3D printing",1249,69,Germany,Germany,Married,2,NULL,1
+"Liang Feng",2.5,China,manufacturing,1249,52,"Shanghai, China",China,Married,NULL,NULL,1
+"Lin Ming-hsiung",2.5,Taiwan,supermarkets,1249,71,"Taipei, Taiwan",Taiwan,Married,2,NULL,1
+"JosÃ© Neves",2.5,Portugal,"luxury fashion",1249,46,"London, United Kingdom",Portugal,NULL,NULL,NULL,1
+"Ravi Pillai",2.5,India,construction,1249,67,"Dubai, United Arab Emirates",India,Married,2,NULL,1
+"Matthias Reinhart",2.5,Switzerland,finance,1249,61,"Zurich, Switzerland",Switzerland,NULL,NULL,NULL,1
+"Ruan Shuilong & family",2.5,China,chemicals,1249,85,"Shangyu, China",China,NULL,NULL,NULL,1
+"Sun Mengquan & family",2.5,China,"edible oil",1249,71,"Yantai, China",China,NULL,NULL,NULL,1
+"Daniel Sundheim",2.5,"United States","hedge funds",1249,44,"New York, New York","United States",Married,NULL,NULL,1
+"Torsten Toeller",2.5,Germany,"pet food",1249,55,"Krefeld, Germany",Germany,Married,NULL,NULL,1
+"Peter Unger",2.5,Germany,"auto repair",1249,76,"Neustadt an der Waldnaab, Germany",Germany,Married,2,NULL,1
+"Wang Wenmo",2.5,China,"sports apparel",1249,64,"Quanzhou, China",China,NULL,NULL,NULL,1
+"Xu Shaochun",2.5,China,software,1249,58,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Eddie & Sol Zakay",2.5,"United Kingdom","real estate",1249,NULL,"Monaco, Monaco","United Kingdom",Married,NULL,NULL,1
+"Michael Ashley",2.4,"United Kingdom","sports retailing",1299,56,"Hertfordshire, United Kingdom","United Kingdom",Divorced,NULL,NULL,1
+"Chen Xiao Ying",2.4,China,"health information",1299,58,"Hong Kong, Hong Kong",China,NULL,NULL,NULL,1
+"Chen Xueli",2.4,China,pharmaceutical,1299,69,"Weihai, China",China,NULL,NULL,NULL,1
+"Todd Christopher",2.4,"United States","hair care products",1299,58,"Clearwater, Florida","United States",Married,NULL,NULL,1
+"Mark Coombs",2.4,"United Kingdom",finance,1299,60,"London, United Kingdom","United Kingdom",NULL,NULL,NULL,1
+"Luigi Cremonini & family",2.4,Italy,"meat processing",1299,82,"Modena, Italy",Italy,Married,4,NULL,1
+"Eduardo de Pontes",2.4,Brazil,"payments processing",1299,41,"Rio de Janeiro, Brazil",Brazil,Married,NULL,NULL,1
+"Fu Mingkang & family",2.4,China,manufacturing,1299,58,"Ningbo, China",China,Married,NULL,NULL,1
+"Philip & Cristina Green",2.4,"United Kingdom","fashion retail",1299,69,"London, United Kingdom","United Kingdom",Married,2,NULL,1
+"Luo Yangyong & family",2.4,China,mining,1299,45,"Panzhihua, China",China,Married,NULL,NULL,1
+"Erwin Franz Mueller",2.4,Germany,drugstores,1299,88,"Ulm, Germany",Germany,Married,1,NULL,1
+"Antonio Luiz Seabra",2.4,Brazil,cosmetics,1299,78,"London, United Kingdom",Brazil,Married,4,NULL,1
+"Shen Wenrong",2.4,China,"steel production",1299,75,"Zhangjiagang, China",China,Married,2,NULL,1
+"Tony Tan Caktiong & family",2.4,Philippines,food,1299,68,"Manila, Philippines",Philippines,Married,3,NULL,1
+"Tang Jinkui & family",2.4,China,"textiles, petrochemicals",1299,65,"Suzhou, China",China,Married,NULL,NULL,1
+"Yang Jianliang & family",2.4,China,machinery,1299,51,"Wuxi, China",China,Married,NULL,NULL,1
+"Michael Ying",2.4,"Hong Kong",retail,1299,71,"Hong Kong, Hong Kong","Hong Kong",Married,3,NULL,1
+"Zhang Ning & family",2.4,Canada,chemicals,1299,47,"Shanghai, China",Canada,NULL,NULL,NULL,1
+"Zhao Hongfei",2.4,China,software,1299,46,"Beijing, China",China,NULL,NULL,NULL,1
+"Bill and Jean Adderley & family",2.3,"United Kingdom","home furnishings",1362,73,"Leicester, United Kingdom","United Kingdom",Married,2,NULL,1
+"Sezai Bacaksiz",2.3,Turkey,diversified,1362,71,"Ankara, Turkey",Turkey,Married,2,NULL,1
+"Suhail Bahwan",2.3,Oman,diversified,1362,82,"Muscat, Oman",Oman,Married,15,NULL,1
+"Bang Jun-hyuk",2.3,"South Korea","online gaming",1362,52,"Seoul, South Korea","South Korea",Married,3,NULL,1
+"Bang Shi-hyuk",2.3,"South Korea",entertainment,1362,48,"Seoul, South Korea","South Korea",Single,NULL,NULL,1
+"Cao Longxiang & family",2.3,China,pharmaceutical,1362,63,"Taixing, China",China,Married,NULL,NULL,1
+"Vanich Chaiyawan",2.3,Thailand,"insurance, beverages",1362,89,"Bangkok, Thailand",Thailand,Married,8,NULL,1
+"Deng Yingzhong",2.3,China,paper,1362,70,"Zhongshan, China",China,NULL,NULL,NULL,1
+"Bob Ell",2.3,Australia,"real estate",1362,76,"Surfers Paradise, Australia",Australia,Married,5,NULL,1
+"Sandeep Engineer",2.3,India,"plastic pipes",1362,59,"Ahmedabad, India",India,Married,2,NULL,1
+"Lindsay Fox",2.3,Australia,"logistics, real estate",1362,84,"Melbourne, Australia",Australia,Married,5,NULL,1
+"Guan Yihong",2.3,China,restaurant,1362,NULL,"Guangzhou, China",China,Married,NULL,NULL,1
+"Stewart Horejsi & family",2.3,"United States",finance,1362,83,"Phoenix, Arizona","United States",Divorced,2,NULL,1
+"Hua Xuande & family",2.3,China,pharmaceutical,1362,77,"Taizhou, China",China,Married,NULL,NULL,1
+"David Jiang",2.3,China,e-cigarettes,1362,42,"Beijing, China",China,NULL,NULL,NULL,1
+"Boris Jordan",2.3,"United States",cannabis,1362,54,"New York, New York","United States",Married,5,NULL,1
+"David Xueling Li",2.3,China,"live streaming service",1362,48,"Guangzhou, China",China,NULL,NULL,NULL,1
+"Li Xuhui",2.3,China,"soy sauce",1362,52,"Foshan, China",China,NULL,NULL,NULL,1
+"Liu Ming Chung",2.3,Brazil,paper,1362,58,"Hong Kong, Hong Kong",Brazil,Married,NULL,NULL,1
+"Eugene Murtagh",2.3,Ireland,"building materials",1362,78,"Kingscourt, Ireland",Ireland,Widowed,5,NULL,1
+"Nihat Ozdemir",2.3,Turkey,diversified,1362,71,"Ankara, Turkey",Turkey,Widowed,2,NULL,1
+"Karl Scheufele, III. & family",2.3,Switzerland,jewelry,1362,82,"Geneva, Switzerland",Switzerland,Married,2,NULL,1
+"Sze Man Bok",2.3,China,"hygiene products",1362,71,"Jinjiang, China",China,Married,1,NULL,1
+"Katsumi Tada",2.3,Japan,"real estate",1362,75,"Tokyo, Japan",Japan,Married,3,NULL,1
+"Wei Ying-Chiao",2.3,Taiwan,"food, beverages",1362,66,"Taipei, Taiwan",Taiwan,Married,5,NULL,1
+"Xu Chuanhua & family",2.3,China,"chemicals, logistics",1362,86,"Hangzhou, China",China,Married,2,NULL,1
+"Yang Weidong & family",2.3,China,chemicals,1362,52,"Jiaxing, China",China,Married,NULL,NULL,1
+"Zhang Xuezheng",2.3,China,telecom,1362,45,"Jiaxing, China",China,NULL,NULL,NULL,1
+"Zhang Yin",2.3,China,"paper manufacturing",1362,64,"Dongguan, China",China,Married,2,NULL,1
+"Acharya Balkrishna",2.2,India,"consumer goods",1444,48,"Haridwar, India",India,Single,NULL,NULL,1
+"Nikolai Buinov",2.2,Russia,"oil, gas",1444,53,"Irkutsk, Russia",Russia,Married,2,NULL,1
+"Dermot Desmond",2.2,Ireland,finance,1444,70,"Dublin, Ireland",Ireland,Married,4,NULL,1
+"Gu Wei",2.2,China,"consumer electronics",1444,56,"Shenzhen, China",China,Married,2,NULL,1
+"Guo Jiangang",2.2,China,"household appliances",1444,54,"Foshan, China",China,NULL,NULL,NULL,1
+"Gerry Harvey",2.2,Australia,retail,1444,81,"Sydney, Australia",Australia,Married,4,NULL,1
+"Hui Lin Chit",2.2,China,"hygiene products",1444,67,"Jinjiang, China",China,Married,3,NULL,1
+"Miguel Krigsner",2.2,Brazil,cosmetics,1444,71,"Sao Jose dos Pinhais, Brazil",Brazil,Married,2,NULL,1
+"Li Guoqing",2.2,China,"Petro Fibre",1444,51,"Hangzhou, China",China,NULL,NULL,NULL,1
+"Li Shuirong",2.2,China,petrochemicals,1444,64,"Hangzhou, China",China,Married,1,NULL,1
+"Li Yongqing",2.2,China,"Petro Firbe",1444,56,"Hangzhou, China",China,NULL,NULL,NULL,1
+"Lin Fanlian",2.2,China,"energy, real estate",1444,59,"Linyi, China",China,NULL,NULL,NULL,1
+"David McMurtry",2.2,"United Kingdom",manufacturing,1444,81,"Wotton-under-Edge, United Kingdom","United Kingdom",Married,3,NULL,1
+"Mi Enhua",2.2,China,retail,1444,63,"Urumqi, China",China,Married,NULL,NULL,1
+"Catherine Phillips",2.2,Canada,investments,1444,NULL,"Toronto, Canada",Canada,Married,NULL,NULL,1
+"Qian Ying",2.2,China,"pig breeding",1444,55,"Nanyang, China",China,Married,NULL,NULL,1
+"Peter Spuhler",2.2,Switzerland,"train cars",1444,61,"Weiningen, Switzerland",Switzerland,Married,2,NULL,1
+"Tang Yiu",2.2,"Hong Kong","fashion retail",1444,87,"Hong Kong, Hong Kong","Hong Kong",Married,2,NULL,1
+"Tran Dinh Long",2.2,Vietnam,steel,1444,60,"Hanoi, Vietnam",Vietnam,Married,NULL,NULL,1
+"Xu Yuejuan",2.2,China,"Petro Fibre",1444,59,"Hangzhou, China",China,Married,NULL,NULL,1
+"Shintaro Yamada",2.2,Japan,"mobile apps",1444,43,"Tokyo, Japan",Japan,NULL,NULL,NULL,1
+"Yang Jian",2.2,China,"real estate",1444,49,"Wenzhou, China",China,Married,NULL,NULL,1
+"Gavril Yushvaev",2.2,Russia,"precious metals, real estate",1444,63,"Moscow, Russia",Russia,Married,7,NULL,1
+"Zhang Jingzhang & family",2.2,China,"precision machinery",1444,85,"Ningbo, China",China,NULL,NULL,NULL,1
+"Michael Ashcroft",2.1,"United Kingdom",security,1517,75,"Turks and Caicos Islands, Turks and Caicos Islands","United Kingdom",NULL,NULL,NULL,1
+"George Bishop",2.1,"United States","oil & gas",1517,83,"The Woodlands, Texas","United States",Married,NULL,NULL,1
+"Julio Bozano",2.1,Brazil,banking,1517,85,"Rio de Janeiro, Brazil",Brazil,Married,1,NULL,1
+"Herb Chambers",2.1,"United States","car dealerships",1517,79,"Boston, Massachusetts","United States",Single,NULL,NULL,1
+"Jacques D'Amours",2.1,Canada,retail,1517,64,"Montreal, Canada",Canada,Married,2,NULL,1
+"Diao Zhizhong",2.1,China,software,1517,57,"Beijing, China",China,NULL,NULL,NULL,1
+"Michael Federmann & family",2.1,Israel,"defense, hotels",1517,77,"Tel Aviv, Israel",Israel,Married,3,NULL,1
+"Bernard Fraisse",2.1,France,pharmaceutical,1517,64,"Paris, France",France,NULL,NULL,NULL,1
+"Philippe Ginestet & family",2.1,France,"retail stores",1517,67,"Pujols, France",France,NULL,NULL,NULL,1
+"Lutz Mario Helmig",2.1,Germany,hospitals,1517,74,"Grebenhain, Germany",Germany,Married,2,NULL,1
+"Arthur Xiaobo Hong",2.1,China,e-commerce,1517,49,"Guangzhou, China",China,NULL,NULL,NULL,1
+"Huang Shih Tsai",2.1,"Hong Kong","real estate",1517,69,"Shenzhen, China","Hong Kong",Married,2,NULL,1
+"Jiang Yehua & family",2.1,China,"real estate",1517,58,"Chongqing, China",China,NULL,NULL,NULL,1
+"Keeree Kanjanapas",2.1,Thailand,transportation,1517,70,"Bangkok, Thailand",Thailand,Married,2,NULL,1
+"Mustafa Kucuk",2.1,Turkey,"fashion retail",1517,57,"Istanbul, Turkey",Turkey,Married,3,NULL,1
+"Li Wanqiang",2.1,China,smartphones,1517,43,"Beijing, China",China,NULL,NULL,NULL,1
+"Li Weiwei",2.1,China,"online games",1517,44,"Shanghai, China",China,NULL,NULL,NULL,1
+"Lin Chen-hai",2.1,Taiwan,"real estate",1517,74,"Taipei, Taiwan",Taiwan,Married,2,NULL,1
+"Erik Paulsson & family",2.1,Sweden,"construction, real estate",1517,79,"BÃ¥stad, Sweden",Sweden,Married,NULL,NULL,1
+"Florentino Perez",2.1,Spain,construction,1517,74,"Madrid, Spain",Spain,Widowed,3,NULL,1
+"Wang Minwen",2.1,China,semiconductor,1517,57,"Beijing, China",China,NULL,NULL,NULL,1
+"Weng Xianding",2.1,China,"medical devices",1517,59,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Yuan Fugen & family",2.1,China,"metal processing",1517,70,"Suzhou, China",China,NULL,NULL,NULL,1
+"Zhao Fenggang",2.1,China,batteries,1517,55,"Ningde, China",China,NULL,NULL,NULL,1
+"Zhou Zongwen & family",2.1,China,jewelry,1517,64,"Shenzhen, China",China,Married,NULL,NULL,1
+"Isak Andic & family",2,Spain,"fashion retail",1580,67,"Barcelona, Spain",Spain,Divorced,3,NULL,1
+"Masaaki Arai",2,Japan,"home sales",1580,55,"Tokyo, Japan",Japan,NULL,NULL,NULL,1
+"Pavel Baudis",2,Czechia,software,1580,60,"Prague, Czechia",Czechia,Married,2,NULL,1
+"Brett Blundy",2,Australia,"retail, agribusiness",1580,61,"Paradise Island, Bahamas",Australia,Married,2,NULL,1
+"Dai Wenjun",2,China,food,1580,52,"Changsha, China",China,NULL,NULL,NULL,1
+"John de Mol",2,Netherlands,"TV programs",1580,66,"Blaricum, Netherlands",Netherlands,Single,1,NULL,1
+"Dou Zhenggang",2,China,"energy, chemicals",1580,67,"Hangzhou, China",China,NULL,NULL,NULL,1
+"Ibrahim Erdemoglu",2,Turkey,carpet,1580,58,"Istanbul, Turkey",Turkey,Married,3,NULL,1
+"Fang Hongbo",2,China,"home appliances",1580,54,"Shunde, China",China,NULL,NULL,NULL,1
+"Dennis Gillings",2,"United Kingdom","drug testing",1580,77,"Durham, North Carolina","United Kingdom",NULL,NULL,NULL,1
+"Sam Goi",2,Singapore,"frozen foods",1580,74,"Singapore, Singapore",Singapore,Married,3,NULL,1
+"Hou Juncheng",2,China,cosmetics,1580,56,"Hangzhou, China",China,NULL,NULL,NULL,1
+"Ke Yunfeng & family",2,China,retailing,1580,54,"Guangzhou, China",China,NULL,NULL,NULL,1
+"Solomon Lew",2,Australia,retail,1580,76,"Melbourne, Australia",Australia,Married,3,NULL,1
+"Li Yong",2,China,education,1580,44,"Shanghai, China",China,NULL,NULL,NULL,1
+"Liu Yachao",2,China,education,1580,40,"Beijing, China",China,NULL,NULL,NULL,1
+"Jed McCaleb",2,"United States",cryptocurrency,1580,46,"Berkeley, California","United States",NULL,NULL,NULL,1
+"Miao Yongjun",2,China,"clinical diagnostics",1580,53,"Zhengzhou, China",China,NULL,NULL,NULL,1
+"David Nahmad",2,Monaco,"art collection",1580,74,"New York, New York",Monaco,Married,3,NULL,1
+"Mahendra Prasad",2,India,pharmaceutical,1580,81,"Delhi, India",India,Married,NULL,NULL,1
+"Sathien Setthasit",2,Thailand,"energy drinks",1580,67,"Bangkok, Thailand",Thailand,Married,3,NULL,1
+"Shen Xiqiang & family",2,China,chemical,1580,73,"Yixing, China",China,Married,NULL,NULL,1
+"Martua Sitorus",2,Indonesia,"palm oil",1580,61,"Singapore, Singapore",Indonesia,Married,4,NULL,1
+"Alain Taravella",2,France,"real estate development",1580,73,"Paris, France",France,NULL,NULL,NULL,1
+"Wichai Thongtang",2,Thailand,investments,1580,74,"Bangkok, Thailand",Thailand,Widowed,4,NULL,1
+"Arvind Tiku",2,India,"oil & gas, investments",1580,51,"Singapore, Singapore",India,Married,2,NULL,1
+"Hamdi Ulukaya",2,Turkey,"greek yogurt",1580,48,"Norwich, New York",Turkey,Married,NULL,NULL,1
+"Wang Chaobin",2,China,"real estate",1580,65,"Zhengzhou, China",China,NULL,NULL,NULL,1
+"Wang Zhenghua",2,China,"budget airline",1580,77,"Shanghai, China",China,NULL,NULL,NULL,1
+"Wei Ing-Chou",2,Taiwan,"food, beverages",1580,67,"Tianjin, China",Taiwan,Married,3,NULL,1
+"Horst Wortmann",2,Germany,footwear,1580,79,"Detmold, Germany",Germany,Married,NULL,NULL,1
+"Wu Junbao",2,China,education,1580,55,"Hefei, China",China,Married,NULL,NULL,1
+"Zhang Xuansong",2,China,supermarkets,1580,49,"Fuzhou, China",China,NULL,NULL,NULL,1
+"Andrey Andreev",1.9,"United Kingdom","online dating",1664,47,"London, United Kingdom","United Kingdom",Single,NULL,NULL,1
+"Felix Baker",1.9,"United States","biotech investing",1664,52,"New York, New York","United States",NULL,NULL,NULL,1
+"Julian Baker",1.9,"United States",investing,1664,54,"New York, New York","United States",NULL,NULL,NULL,1
+"Andrey Blokh",1.9,Russia,cannabis,1664,57,"Moscow, Russia",Russia,NULL,3,NULL,1
+"Josef Boquoi & family",1.9,Germany,"frozen foods",1664,87,"Straelen, Germany",Germany,NULL,3,NULL,1
+"Chen Shiliang",1.9,China,polyester,1664,57,"Tongxiang, China",China,Married,NULL,NULL,1
+"Beda Diethelm",1.9,Switzerland,"hearing aids",1664,80,"Zurich, Switzerland",Switzerland,NULL,NULL,NULL,1
+"Mark Dixon",1.9,"United Kingdom","office real estate",1664,61,"Monaco, Monaco","United Kingdom",Divorced,5,NULL,1
+"William Foley, II.",1.9,"United States",â,1664,76,"Las Vegas, Nevada","United States",Married,NULL,NULL,1
+"Gao Yi & family",1.9,China,pharmaceutical,1664,52,"Changsha, China",China,NULL,NULL,NULL,1
+"Huang Jiangji",1.9,"Hong Kong",smartphones,1664,NULL,"Beijing, China","Hong Kong",NULL,NULL,NULL,1
+"Jiang Zhaobai",1.9,China,"real estate",1664,57,"Shanghai, China",China,NULL,NULL,NULL,1
+"Ke Jinlong & family",1.9,China,retailing,1664,NULL,"Guangzhou, China",China,Married,NULL,NULL,1
+"Ke Kangbao & family",1.9,China,retailing,1664,58,"Guangzhou, China",China,Married,NULL,NULL,1
+"Kurt Krieger",1.9,Germany,"furniture retailing",1664,73,"Berlin, Germany",Germany,Married,3,NULL,1
+"Li Hongjing",1.9,China,"auto parts",1664,53,"Haikou, China",China,NULL,NULL,NULL,1
+"Li Jiaquan",1.9,China,chemicals,1664,57,"Chengdu, China",China,NULL,NULL,NULL,1
+"Li Min",1.9,China,semiconductor,1664,55,"Fuzhou, China",China,NULL,NULL,NULL,1
+"Lin Dingqiang & family",1.9,"Hong Kong","real estate",1664,54,"Beijing, China","Hong Kong",Married,NULL,NULL,1
+"Yusaku Maezawa",1.9,Japan,"online retail",1664,45,"Chiba, Japan",Japan,Divorced,1,NULL,1
+"Willy Michel",1.9,Switzerland,"medical devices",1664,74,"Burgdorf, Switzerland",Switzerland,Married,3,NULL,1
+"Peng Yongdong",1.9,China,"real estate",1664,41,"Beijing, China",China,NULL,NULL,NULL,1
+"Tan Lili",1.9,China,feed,1664,NULL,"Guangzhou, China",China,NULL,NULL,NULL,1
+"David Teoh & family",1.9,Australia,telecom,1664,65,"Sydney, Australia",Australia,Married,4,NULL,1
+"Wan Long",1.9,China,food,1664,80,"Luohe, China",China,NULL,NULL,NULL,1
+"Wang Jilei",1.9,China,logistics,1664,56,"Shanghai, China",China,NULL,NULL,NULL,1
+"Wang Junshi & family",1.9,China,"solar energy",1664,72,"Ningbo, China",China,NULL,NULL,NULL,1
+"Wei Yin-Chun",1.9,Taiwan,"food, beverages",1664,64,"Taipei, Taiwan",Taiwan,Married,4,NULL,1
+"Wei Yin-Heng",1.9,Taiwan,"food, beverages",1664,62,"Shanghai, China",Taiwan,Married,2,NULL,1
+"Yang Xuegang",1.9,China,coking,1664,56,"Beijing, China",China,Married,NULL,NULL,1
+"Yu Huijiao",1.9,China,"package delivery",1664,55,"Shanghai, China",China,Married,NULL,NULL,1
+"Zeng Kaitian",1.9,China,"online games",1664,46,"Shanghai, China",China,NULL,NULL,NULL,1
+"Changpeng Zhao",1.9,China,"cryptocurrency exchange",1664,45,"Taiwan, China",China,NULL,NULL,NULL,1
+"Zhu Yiwen & family",1.9,China,healthcare,1664,NULL,"Shanghai, China",China,Married,NULL,NULL,1
+"Mohamed Al Fayed",1.8,Egypt,"retail, investments",1750,92,"London, United Kingdom",Egypt,Married,5,NULL,1
+"Joachim Ante",1.8,Germany,"game software",1750,38,"Copenhagen, Denmark",Germany,"In Relationship",NULL,NULL,1
+"John Bloor",1.8,"United Kingdom","real estate, manufacturing",1750,77,"Aberdyfi, United Kingdom","United Kingdom",NULL,NULL,NULL,1
+"Cai Mingtong",1.8,China,"electronic components",1750,69,"Quanzhou, China",China,Married,NULL,NULL,1
+"Yvon Chouinard",1.8,"United States",Patagonia,1750,82,"Ventura, California","United States",Married,2,NULL,1
+"Jack Cockwell",1.8,Canada,"real estate, private equity",1750,80,"Toronto, Canada",Canada,NULL,NULL,NULL,1
+"Ali Erdemoglu",1.8,Turkey,carpet,1750,61,"Istanbul, Turkey",Turkey,Married,3,NULL,1
+"William Heinecke",1.8,Thailand,hotels,1750,71,"Bangkok, Thailand",Thailand,Married,2,NULL,1
+"David Hindawi",1.8,"United States",software,1750,76,"Seattle, Washington","United States",Married,2,NULL,1
+"Jin Huiming",1.8,China,"real estate",1750,68,"Shanghai, China",China,NULL,NULL,NULL,1
+"Willis Johnson",1.8,"United States","damaged cars",1750,73,"Franklin, Tennessee","United States",Married,2,NULL,1
+"Wolfgang Leitner",1.8,Austria,engineering,1750,68,"Graz, Austria",Austria,Married,2,NULL,1
+"Li Rucheng",1.8,China,apparel,1750,69,"Ningbo, China",China,NULL,NULL,NULL,1
+"Lv Dalong",1.8,China,"telecom services",1750,59,"Beijing, China",China,NULL,NULL,NULL,1
+"Miao Shouliang",1.8,China,"real estate",1750,66,"Shenzhen, China",China,Married,1,NULL,1
+"Kazuo Okada",1.8,Japan,casinos,1750,78,"Tokyo, Japan",Japan,Married,3,NULL,1
+"Pu Zhongjie & family",1.8,China,"medical equipment",1750,58,"Beijing, China",China,Married,NULL,NULL,1
+"Qin Long",1.8,China,tire,1750,55,"Qingdao, China",China,NULL,NULL,NULL,1
+"Alvaro Saieh Bendeck",1.8,Chile,banking,1750,71,"Santiago, Chile",Chile,Married,5,NULL,1
+"Glenn Sanford",1.8,"United States","real estate brokerage",1750,54,"Blaine, Washington","United States",Married,NULL,NULL,1
+"Shang Xiaobo & family",1.8,China,Manufacturing,1750,47,"Hefei, China",China,Married,NULL,NULL,1
+"Shi Wen-long",1.8,Taiwan,plastics,1750,93,"Tainan, Taiwan",Taiwan,Married,3,NULL,1
+"Tan Yu Yeh",1.8,Malaysia,retail,1750,50,"Selangor, Malaysia",Malaysia,NULL,NULL,NULL,1
+"Wang Lizhan",1.8,China,sauce,1750,NULL,"Foshan, China",China,NULL,NULL,NULL,1
+"Wu Bo",1.8,China,machinery,1750,67,"Nanjing, China",China,NULL,NULL,NULL,1
+"Wu Kaiting",1.8,"Hong Kong",electronics,1750,51,"Xiamen, China","Hong Kong",NULL,NULL,NULL,1
+"Wu Xushun & family",1.8,China,internet,1750,73,"Wuhu, China",China,NULL,NULL,NULL,1
+"Xu Guozhong & family",1.8,China,Motors,1750,57,"Changzhou, China",China,Married,NULL,NULL,1
+"Yang Tingdong",1.8,China,brewery,1750,60,"Suqian, China",China,NULL,NULL,NULL,1
+"Zhang Xuexin & family",1.8,China,aluminum,1750,73,"Liaocheng, China",China,Married,NULL,NULL,1
+"Zhang Yubai",1.8,China,wine,1750,56,"Suqian, China",China,NULL,NULL,NULL,1
+"Zhao Weiguo",1.8,China,"IT products",1750,54,"Beijing, China",China,NULL,NULL,NULL,1
+"Henadiy Boholyubov",1.7,Ukraine,"banking, investments",1833,59,"Dnipro, Ukraine",Ukraine,Married,5,NULL,1
+"Richard Chang",1.7,Taiwan,"real estate, electronics",1833,74,"Taipei, Taiwan",Taiwan,NULL,NULL,NULL,1
+"Chao Teng-hsiung",1.7,Taiwan,"real estate",1833,76,"Taipei, Taiwan",Taiwan,Married,3,NULL,1
+"Chen Guoxiang & family",1.7,China,"real estate",1833,70,"Hangzhou, China",China,Married,NULL,NULL,1
+"Chen Wenyuan & family",1.7,China,"testing equipment",1833,53,"Suzhou, China",China,Married,NULL,NULL,1
+"Chen Xueling",1.7,China,stationery,1833,53,"Shantou, China",China,NULL,NULL,NULL,1
+"Cheng Xianfeng",1.7,China,pharmaceutical,1833,52,"Hefei, China",China,NULL,NULL,NULL,1
+"Daniel Chiu",1.7,"Hong Kong","oil & gas",1833,60,"Hong Kong, Hong Kong","Hong Kong",NULL,NULL,NULL,1
+"Ivan Chrenko",1.7,Slovakia,"real estate",1833,53,"Bratislava, Slovakia",Slovakia,NULL,NULL,NULL,1
+"Brunello Cucinelli & family",1.7,Italy,fashion,1833,67,"Solomeo, Italy",Italy,Married,2,NULL,1
+"Philip Fayer",1.7,Canada,"online payments",1833,NULL,NULL,Canada,NULL,NULL,NULL,1
+"Bernd Freier",1.7,Germany,"fashion retail",1833,64,"Rottendorf, Germany",Germany,Married,2,NULL,1
+"Chang-Woo Han & family",1.7,Japan,"pachinko parlors",1833,90,"Kyoto, Japan",Japan,Married,6,NULL,1
+"Jia Tianjiang & family",1.7,China,"non-ferrous metals",1833,58,"Yinchuan, China",China,NULL,NULL,NULL,1
+"Eric Jing",1.7,China,e-commerce,1833,48,"Hangzhou, China",China,NULL,NULL,NULL,1
+"Chatchai Kaewbootta",1.7,Thailand,"auto loans",1833,69,"Bangkok, Thailand",Thailand,Married,2,NULL,1
+"David Lichtenstein",1.7,"United States","real estate",1833,59,"Monsey, New York","United States",Married,NULL,NULL,1
+"Bill Liu",1.7,China,electronics,1833,38,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Lu Di",1.7,China,drones,1833,NULL,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Ma Xiuhui",1.7,China,"LED lighting",1833,50,"Shanghai, China",China,Married,NULL,NULL,1
+"Yves-Loic Martin",1.7,France,"laboratory services",1833,55,"Nantes, France",France,NULL,NULL,NULL,1
+"Markus Persson",1.7,Sweden,"computer games",1833,41,"Stockholm, Sweden",Sweden,Single,NULL,NULL,1
+"Mochtar Riady & family",1.7,Indonesia,diversified,1833,91,"Jakarta, Indonesia",Indonesia,Married,6,NULL,1
+"Shao Qinxiang",1.7,China,diversified,1833,66,"Hangzhou, China",China,Married,NULL,NULL,1
+"Djoko Susanto",1.7,Indonesia,supermarkets,1833,71,"Jakarta, Indonesia",Indonesia,Married,5,NULL,1
+"Ion Tiriac",1.7,Romania,"banking, insurance",1833,81,"Bucharest, Romania",Romania,Single,2,NULL,1
+"Tung Ching Sai",1.7,China,manufacturing,1833,56,"Dongguan, China",China,NULL,NULL,NULL,1
+"Wang Junmin",1.7,China,pharmaceutical,1833,52,"Chengdu, China",China,Married,NULL,NULL,1
+"Wang Yanqing & family",1.7,China,"carbon fiber products",1833,55,"Wuxi, China",China,Married,NULL,NULL,1
+"Wu Ying",1.7,China,materials,1833,57,"Xianyang, China",China,NULL,NULL,NULL,1
+"Wu Yulan",1.7,China,pharmaceutical,1833,51,"Lianyungang, China",China,NULL,NULL,NULL,1
+"Xie Weitong",1.7,Taiwan,cobalt,1833,64,"Taipei, Taiwan",Taiwan,NULL,NULL,NULL,1
+"Xu Xudong & family",1.7,China,"auto parts",1833,51,"Ningbo, China",China,NULL,NULL,NULL,1
+"Yang Yunyun",1.7,China,retail,1833,44,"Guangzhou, China",China,Married,NULL,NULL,1
+"Ye Yanqiao",1.7,China,"soy sauce",1833,51,"Foshan, China",China,NULL,NULL,NULL,1
+"Zeng Chaoyi",1.7,China,"aluminum products",1833,52,"Changsha, China",China,NULL,NULL,NULL,1
+"Faisal Bin Qassim Al Thani",1.6,Qatar,"hotels, diversified",1931,73,"Doha, Qatar",Qatar,Married,10,NULL,1
+"Chen Kaichen",1.6,China,"household chemicals",1931,NULL,"Guangzhou, China",China,NULL,NULL,NULL,1
+"Chen Qiongxiang",1.6,China,batteries,1931,NULL,"Ningde, China",China,NULL,NULL,NULL,1
+"Chen Xuehua",1.6,China,nonferrous,1931,60,"Tongxiang, China",China,NULL,NULL,NULL,1
+"Chen Zemin & family",1.6,China,food,1931,78,"Zhengzhou, China",China,Married,NULL,NULL,1
+"Ryan Cohen",1.6,Canada,investments,1931,35,"Bal Harbour, Florida",Canada,Married,NULL,NULL,1
+"Norbert Dentressangle",1.6,France,"transport, logistics",1931,66,"Lyon, France",France,Married,NULL,NULL,1
+"Domenico Dolce",1.6,Italy,"luxury goods",1931,62,"Milan, Italy",Italy,Single,NULL,NULL,1
+"Donald Foss",1.6,"United States","auto loans",1931,76,"Farmington Hills, Michigan","United States",Married,2,NULL,1
+"Susumu Fujita",1.6,Japan,"internet media",1931,47,"Tokyo, Japan",Japan,Married,1,NULL,1
+"Alexandre Grendene Bartelle",1.6,Brazil,shoes,1931,71,"Porto Alegre, Brazil",Brazil,Single,7,NULL,1
+"Huang Zhengcong",1.6,"Hong Kong",electronics,1931,54,"Guangzhou, China","Hong Kong",NULL,NULL,NULL,1
+"Jiang Yintai & family",1.6,China,"auto parts",1931,70,"Shanghai, China",China,Married,NULL,NULL,1
+"Ke Guihua",1.6,China,"auto parts",1931,55,"Shanghai, China",China,NULL,NULL,NULL,1
+"Manuel Lao Hernandez",1.6,Spain,casinos,1931,76,"Matadepera, Spain",Spain,Married,3,NULL,1
+"Li Zhen & family",1.6,China,"lithium batteries",1931,57,"Hefei, China",China,NULL,NULL,NULL,1
+"Liang Yanfeng & family",1.6,China,"real estate",1931,56,"Fuzhou, China",China,NULL,NULL,NULL,1
+"Liu Yingqi",1.6,China,technology,1931,44,"Shenzhen, China",China,Married,NULL,NULL,1
+"Mao Lixiang & family",1.6,China,"cooking appliances",1931,80,"Ningbo, China",China,NULL,NULL,NULL,1
+"Mario Moretti Polegato & family",1.6,Italy,shoes,1931,68,"Crocetta del Montello, Italy",Italy,Married,1,NULL,1
+"Ni Zugen",1.6,China,appliances,1931,64,"Suzhou, China",China,Married,NULL,NULL,1
+"Kentaro Ogawa",1.6,Japan,restaurants,1931,72,"Tokyo, Japan",Japan,Married,NULL,NULL,1
+"Tomas Olivo Lopez",1.6,Spain,"shopping centers",1931,47,"Marbella, Spain",Spain,Separated,3,NULL,1
+"Pan Gang",1.6,China,dairy,1931,50,"Hohhot, China",China,NULL,NULL,NULL,1
+"G. Rajendran",1.6,India,jewellery,1931,78,"Chennai, India",India,Married,NULL,NULL,1
+"P.P. Reddy",1.6,India,infrastructure,1931,63,"Hyderabad, India",India,Married,2,NULL,1
+"Shen Hua & family",1.6,"United States",semiconductors,1931,58,"Jiaxing, China","United States",Married,NULL,NULL,1
+"Barry Silbert",1.6,"United States",cryptocurrency,1931,44,"Rye, New York","United States",NULL,NULL,NULL,1
+"Tang Jianfang",1.6,China,"packaged foods",1931,NULL,"Wuhan, China",China,Married,NULL,NULL,1
+"Prachak Tangkaravakoon",1.6,Thailand,paints,1931,77,"Bangkok, Thailand",Thailand,Married,4,NULL,1
+"Clemens Toennies",1.6,Germany,"meat processing",1931,64,"Rheda-WiedenbrÃ¼ck, Germany",Germany,NULL,NULL,NULL,1
+"Tran Ba Duong & family",1.6,Vietnam,automotive,1931,61,"Ho Chi Minh City, Vietnam",Vietnam,Married,2,NULL,1
+"Tung Ching Bor",1.6,China,manufacturing,1931,58,"Dongguan, China",China,NULL,NULL,NULL,1
+"Wang Qinghua",1.6,China,"electric equipment",1931,55,"Suzhou, China",China,NULL,NULL,NULL,1
+"Wang Xuechao",1.6,China,pharmaceutical,1931,NULL,"Hangzhou, China",China,NULL,NULL,NULL,1
+"Wang Yiran",1.6,China,"LCD main board",1931,41,"Guangzhou, China",China,NULL,NULL,NULL,1
+"Myron Wentz",1.6,"St. Kitts and Nevis","health products",1931,81,"Grand Cayman, Cayman Islands","St. Kitts and Nevis",Married,3,NULL,1
+"Wu Chaoqun",1.6,China,chemicals,1931,51,"Meishan, China",China,NULL,NULL,NULL,1
+"Wu Yingming",1.6,China,batteries,1931,54,"Ningde, China",China,NULL,NULL,NULL,1
+"Xie Bingkun & family",1.6,China,"pearlescent pigments",1931,54,"Fuzhou, China",China,Married,NULL,NULL,1
+"Xiu Laigui",1.6,China,pharmaceutical,1931,66,"Tonghua, China",China,Married,2,NULL,1
+"Yang Lijuan",1.6,China,restaurants,1931,43,"Beijing, China",China,NULL,NULL,NULL,1
+"Yao Kuizhang",1.6,China,beverages,1931,56,"Hengshui, China",China,NULL,NULL,NULL,1
+"Yu Peidi",1.6,"Hong Kong","real estate",1931,61,"Shanghai, China","Hong Kong",Married,3,NULL,1
+"Zhang Cheng Fei",1.6,China,"paper & related products",1931,53,"Dongguan, China",China,NULL,NULL,NULL,1
+"Zhang Shilong & family",1.6,China,semiconductor,1931,55,"Beijing, China",China,Married,NULL,NULL,1
+"Zhang Xiaojuan",1.6,China,logistics,1931,51,"Shanghai, China",China,Married,NULL,NULL,1
+"Zhang Yuanlin",1.6,China,"real estate",1931,45,"Nanchang, China",China,Married,NULL,NULL,1
+"Hamdi Akin & family",1.5,Turkey,diversified,2035,66,"Istanbul, Turkey",Turkey,Divorced,3,NULL,1
+"Harindarpal Banga",1.5,India,commodities,2035,70,"Hong Kong, Hong Kong",India,Married,2,NULL,1
+"Ahmet Calik",1.5,Turkey,"energy, banking, construction",2035,63,"Istanbul, Turkey",Turkey,Married,4,NULL,1
+"Chen Xianbao & family",1.5,China,food,2035,61,"Hefei, China",China,Married,NULL,NULL,1
+"Guo Ziwen",1.5,China,"real estate",2035,57,"Hong Kong, Hong Kong",China,Married,NULL,NULL,1
+"Torstein Hagen",1.5,Norway,cruises,2035,78,"Lucerne, Switzerland",Norway,Divorced,2,NULL,1
+"Huang Wen Tsai",1.5,China,"real estate",2035,67,"Guangzhou, China",China,NULL,NULL,NULL,1
+"Huang Wenbiao",1.5,China,"soy sauce",2035,54,"Foshan, China",China,NULL,NULL,NULL,1
+"Heikki Kyostila",1.5,Finland,"dental products",2035,75,"Helsinki, Finland",Finland,NULL,NULL,NULL,1
+"Anthony Langley",1.5,"United Kingdom",manufacturing,2035,66,"Nottinghamshire, United Kingdom","United Kingdom",Married,3,NULL,1
+"Christian Latouche",1.5,France,"accounting services",2035,80,"Lyon, France",France,Married,1,NULL,1
+"Lin Zhijun",1.5,China,"medical devices",2035,45,"Xiamen, China",China,NULL,NULL,NULL,1
+"Lin Zhixiong & family",1.5,China,"medical devices",2035,47,"Xiamen, China",China,Married,NULL,NULL,1
+"Liu Xiucai & family",1.5,"United States",chemicals,2035,64,"Shanghai, China","United States",Married,NULL,NULL,1
+"Lu Zongjun",1.5,China,logistics,2035,57,"Shanghai, China",China,NULL,NULL,NULL,1
+"Duncan MacMillan",1.5,"United States","Bloomberg LP",2035,83,"Princeton, New Jersey","United States",Married,2,NULL,1
+"Lorinc Meszaros",1.5,Hungary,diversified,2035,55,"FelcsÃºt, Hungary",Hungary,Married,3,NULL,1
+"Jerry Moyes",1.5,"United States",transportation,2035,77,"Tolleson, Arizona","United States",Married,10,NULL,1
+"Alberto Palatchi",1.5,Spain,"wedding dresses",2035,71,"Madrid, Spain",Spain,Separated,3,NULL,1
+"Lirio Parisotto",1.5,Brazil,investments,2035,67,"Manaus, Brazil",Brazil,Divorced,1,NULL,1
+"P.V.Krishna Reddy",1.5,India,infrastructure,2035,51,"Hyderabad, India",India,Married,2,NULL,1
+"Prathap Reddy",1.5,India,healthcare,2035,89,"Chennai, India",India,Married,4,NULL,1
+"Steven Schuurman",1.5,Netherlands,software,2035,45,"Amsterdam, Netherlands",Netherlands,NULL,NULL,NULL,1
+"Peter Sondakh",1.5,Indonesia,investments,2035,71,"Surabaya, Indonesia",Indonesia,Married,4,NULL,1
+"Sun Qinghuan",1.5,China,lighting,2035,47,"Zhongshan, China",China,Married,NULL,NULL,1
+"Sun Yonghui",1.5,China,"LCD main board",2035,50,"Guangzhou, China",China,NULL,NULL,NULL,1
+"Luc Tack",1.5,Belgium,"textile, chemicals",2035,59,"Deinze, Belgium",Belgium,Married,NULL,NULL,1
+"Wang Wenbiao",1.5,China,"natural gas, fertilizers",2035,64,"Beijing, China",China,NULL,NULL,NULL,1
+"Wang Yaohai",1.5,China,lighting,2035,54,"Shanghai, China",China,Married,NULL,NULL,1
+"Wang Zhentao & family",1.5,China,"vaccine & shoes",2035,55,"Wenzhou, China",China,Married,2,NULL,1
+"Wen Yilong",1.5,China,e-cigarettes,2035,32,"Beijing, China",China,NULL,NULL,NULL,1
+"Wu Zhenxing",1.5,China,"soy sauce",2035,51,"Foshan, China",China,NULL,NULL,NULL,1
+"Xiang Guangming & family",1.5,China,"waste disposal",2035,57,"Wenzhou, China",China,Married,NULL,NULL,1
+"Xu Gang",1.5,China,Chemicals,2035,58,"Jiaozuo, China",China,NULL,NULL,NULL,1
+"Xu Wanmao",1.5,China,education,2035,76,"Ningbo, China",China,NULL,NULL,NULL,1
+"Ye Cheng",1.5,China,conglomerate,2035,59,"Rizhao, China",China,NULL,NULL,NULL,1
+"Yi Dasheng",1.5,China,conglomerate,2035,60,"Changsha, China",China,NULL,NULL,NULL,1
+"Yu Rong",1.5,China,"health clinics",2035,49,"Shanghai, China",China,NULL,NULL,NULL,1
+"Zhong Sheng Jian",1.5,Singapore,"real estate",2035,63,"Singapore, Singapore",Singapore,Married,5,NULL,1
+"Zhou Jian",1.5,China,robotics,2035,44,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Zhu Yiming",1.5,China,semiconductors,2035,48,"Beijing, China",China,NULL,NULL,NULL,1
+"Zhuang Kuilong & family",1.5,China,polyester,2035,58,"Jiaxing, China",China,Married,NULL,NULL,1
+"Farkhad Akhmedov",1.4,Russia,investments,2141,65,"Moscow, Russia",Russia,Divorced,3,NULL,1
+"Nigel Austin",1.4,Australia,retail,2141,50,"Melbourne, Australia",Australia,Married,6,NULL,1
+"Ziv Aviram",1.4,Israel,"automotive technology",2141,62,"Mevaseret Zion, Israel",Israel,NULL,NULL,NULL,1
+"Samuel Barata",1.4,Brazil,drugstores,2141,83,"Rio de Janeiro, Brazil",Brazil,Married,NULL,NULL,1
+"Cai Hao & family",1.4,China,"solar energy",2141,50,"Kunshan, China",China,Married,NULL,NULL,1
+"Chen Liying",1.4,China,"package delivery",2141,45,"Shanghai, China",China,Married,NULL,NULL,1
+"Chen Qixing",1.4,China,"electronics components",2141,61,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Chen Zhuolin",1.4,China,"real estate",2141,59,"Zhongshan, China",China,Married,2,NULL,1
+"Jean-Paul Clozel",1.4,Switzerland,pharmaceutical,2141,66,"Basel, Switzerland",Switzerland,Married,NULL,NULL,1
+"Sefik Yilmaz Dizdar",1.4,Turkey,"fashion retail",2141,83,"Istanbul, Turkey",Turkey,Married,NULL,NULL,1
+"James Duff",1.4,"United States","tires, diversified",2141,60,"Hattiesburg, Mississippi","United States",Married,2,NULL,1
+"Fang Zhancheng",1.4,China,"soy sauce",2141,NULL,"Foshan, China",China,NULL,NULL,NULL,1
+"Balkrishan Goenka",1.4,India,textiles,2141,54,"Mumbai, India",India,Married,2,NULL,1
+"He Ningning",1.4,China,"electronic components",2141,50,"Shenzhen, China",China,NULL,NULL,NULL,1
+"He Yamin & family",1.4,China,manufacturing,2141,64,"Chengdu, China",China,NULL,NULL,NULL,1
+"Francis Holder",1.4,France,bakeries,2141,80,"Lille, France",France,Married,3,NULL,1
+"Hu Chengzhong",1.4,China,manufacturing,2141,60,"Wenzhou, China",China,NULL,NULL,NULL,1
+"Hu Gengxi & family",1.4,China,Bio-Pharma,2141,57,"Shanghai, China",China,Married,NULL,NULL,1
+"Huang Jian",1.4,China,"home appliance",2141,54,"Shunde, China",China,NULL,NULL,NULL,1
+"Huang Weibin",1.4,China,"home appliances",2141,53,"Haining, China",China,NULL,NULL,NULL,1
+"Huang Xiaofen & family",1.4,China,"printed circuit boards",2141,59,"Shenzhen, China",China,Married,NULL,NULL,1
+Jay-Z,1.4,"United States",Multiple,2141,51,"New York, New York","United States",Married,3,NULL,1
+"Theodore Leonsis",1.4,"United States","sports teams",2141,65,"Bethesda, Maryland","United States",Married,2,NULL,1
+"Li Denghai",1.4,China,"seed production",2141,71,"Laizhou, China",China,Married,NULL,NULL,1
+"Liang Qin & family",1.4,China,"semiconductor devices",2141,49,"Yangzhou, China",China,Married,NULL,NULL,1
+"Liang Yaoming",1.4,China,diagnostics,2141,57,"Guangzhou, China",China,NULL,NULL,NULL,1
+"Liu Hua",1.4,China,"infant formula",2141,48,"Qiqihaer, China",China,NULL,NULL,NULL,1
+"Liu Xuejing & family",1.4,China,"copper, poultry",2141,70,"Liaocheng, China",China,Married,NULL,NULL,1
+"Lu Rongfu",1.4,China,telecommunication,2141,50,"Xiamen, China",China,NULL,NULL,NULL,1
+"Ilson Mateus",1.4,Brazil,supermarkets,2141,58,"Sao Luis, Brazil",Brazil,Married,3,NULL,1
+"Qi Jinxing",1.4,China,"real estate",2141,59,"Hangzhou, China",China,Married,1,NULL,1
+"Qian Jinghong",1.4,China,"electric scooters",2141,48,"Wuxi, China",China,Married,NULL,NULL,1
+"Vito Rodriguez Rodriguez",1.4,Peru,"processed milk",2141,82,"Lima, Peru",Peru,Married,3,NULL,1
+"Amnon Shashua",1.4,Israel,"automotive technology",2141,60,"Kfar Shmaryahu, Israel",Israel,NULL,NULL,NULL,1
+"Nobutoshi Shimamura",1.4,Japan,retail,2141,95,"Saitama, Japan",Japan,Married,3,NULL,1
+"Tan Ruiqing",1.4,China,chemicals,2141,54,"Zhengzhou, China",China,Married,NULL,NULL,1
+"Itaru Tanimura",1.4,Japan,heathcare,2141,56,"Tokyo, Japan",Japan,NULL,NULL,NULL,1
+"Sukanto Tanoto",1.4,Indonesia,diversified,2141,71,"Singapore, Singapore",Indonesia,Married,4,NULL,1
+"Alexander Tedja",1.4,Indonesia,"real estate",2141,75,"Jakarta, Indonesia",Indonesia,Married,4,NULL,1
+"Vardis Vardinoyannis & family",1.4,Greece,"oil and gas",2141,88,"Athens, Greece",Greece,NULL,5,NULL,1
+"Wang Jianfeng & family",1.4,China,"auto parts",2141,NULL,"Ningbo, China",China,NULL,NULL,NULL,1
+"Wang Junjin",1.4,China,airline,2141,52,"Shanghai, China",China,NULL,NULL,NULL,1
+"Wang Xiaoshen",1.4,China,lithium,2141,52,"Urumchi, China",China,NULL,NULL,NULL,1
+"Werner O. Weber",1.4,Switzerland,"electronic components",2141,82,"Zurich, Switzerland",Switzerland,NULL,NULL,NULL,1
+"Wu Po Sum",1.4,China,"real estate",2141,70,"Zhengzhou, China",China,Married,NULL,NULL,1
+"Xie Ketao",1.4,China,education,2141,57,"Guangzhou, China",China,NULL,NULL,NULL,1
+"Swift Xie",1.4,China,drones,2141,41,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Yu Guo",1.4,China,education,2141,59,"Nanchang, China",China,NULL,NULL,NULL,1
+"Zheng Hong & family",1.4,China,electronics,2141,70,"Beijing, China",China,NULL,NULL,NULL,1
+"Nerio Alessandri",1.3,Italy,"gym equipment",2263,60,"Cesena, Italy",Italy,Married,2,NULL,1
+"Mika Anttonen",1.3,Finland,"oil & gas",2263,54,"Helsinki, Finland",Finland,Married,NULL,NULL,1
+"Ryuji Arai",1.3,Japan,appliances,2263,74,"Tokyo, Japan",Japan,NULL,NULL,NULL,1
+"Mehmet Aydinlar",1.3,Turkey,hospitals,2263,64,"Istanbul, Turkey",Turkey,Married,1,NULL,1
+"Rafal Brzoska",1.3,Poland,"parcel lockers",2263,43,"Warsaw, Poland",Poland,NULL,NULL,NULL,1
+"Cao Xiaochun",1.3,China,pharmaceutical,2263,52,"Hangzhou, China",China,NULL,NULL,NULL,1
+"Cheng Lili",1.3,China,"poultry breeding",2263,56,"Changzhou, China",China,Married,NULL,NULL,1
+"Cho Jyh-jer",1.3,Taiwan,semiconductors,2263,NULL,NULL,Taiwan,Married,2,NULL,1
+"Chu Jian",1.3,China,Manufacturing,2263,58,"Hangzhou, China",China,NULL,NULL,NULL,1
+"Eduard Chukhlebov",1.3,Russia,metallurgy,2263,57,"Moscow, Russia",Russia,Married,NULL,NULL,1
+"Richard Desmond",1.3,"United Kingdom",publishing,2263,69,"London, United Kingdom","United Kingdom",Married,3,NULL,1
+"Du Shuanghua",1.3,China,steel,2263,56,"Hengshui, China",China,NULL,NULL,NULL,1
+"Eduardo Eurnekian",1.3,Argentina,"airports, investments",2263,88,"Buenos Aires, Argentina",Argentina,Single,NULL,NULL,1
+"Fan Minhua",1.3,China,pharmaceutical,2263,59,"Haikou, China",China,Married,NULL,NULL,1
+"Feng Yi",1.3,China,software,2263,47,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Kenneth Hao",1.3,"United States","private equity",2263,52,"Hillsborough, California","United States",NULL,NULL,NULL,1
+"Michael Heine",1.3,Australia,"financial services",2263,71,"Melbourne, Australia",Australia,NULL,2,NULL,1
+"Huang Dawen",1.3,"Hong Kong",silicon,2263,60,"Hong Kong, Hong Kong","Hong Kong",NULL,NULL,NULL,1
+"Jiang Ganjun",1.3,China,"home & office products",2263,57,"Guangzhou, China",China,NULL,NULL,NULL,1
+"Conni Jonsson",1.3,Sweden,"asset management",2263,60,"Stockholm, Sweden",Sweden,Married,NULL,NULL,1
+"Zbigniew Juroszek & family",1.3,Poland,"real estate, gambling",2263,58,"Cieszyn, Poland",Poland,NULL,NULL,NULL,1
+"Peter Kelly",1.3,"United Kingdom",I.T.,2263,63,"Bristol, United Kingdom","United Kingdom",Married,NULL,NULL,1
+"Bernard Lewis & family",1.3,"United Kingdom","fashion retailer",2263,95,"London, United Kingdom","United Kingdom",NULL,NULL,NULL,1
+"Liang Guangwei",1.3,China,conglomerate,2263,57,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Liang Jiankun & family",1.3,China,"cobalt mining",2263,59,"Nanjing, China",China,NULL,NULL,NULL,1
+"Liu Jilu & family",1.3,China,Logistics,2263,74,"Maanshan, China",China,NULL,NULL,NULL,1
+"Mangal Prabhat Lodha",1.3,India,"real estate",2263,65,"Mumbai, India",India,Married,2,NULL,1
+"Lu Hongyan",1.3,China,"online games",2263,43,"Xiamen, China",China,NULL,NULL,NULL,1
+"Zhaoxi Lu",1.3,China,e-commerce,2263,52,"Hangzhou, China",China,NULL,NULL,NULL,1
+"Ma Renhe",1.3,China,"textiles, apparel",2263,61,"Ningbo, China",China,NULL,NULL,NULL,1
+"Lidiya Mikhailova & family",1.3,Russia,agribusiness,2263,63,"London, United Kingdom",Russia,Divorced,2,NULL,1
+"Martin Moller Nielsen",1.3,Denmark,"aircraft leasing",2263,56,"London, United Kingdom",Denmark,Single,NULL,NULL,1
+"Greg Mondre",1.3,"United States","private equity",2263,46,"New York, New York","United States",Married,NULL,NULL,1
+"Antonio Percassi",1.3,Italy,"real estate, diversified",2263,67,"Bergamo, Italy",Italy,Divorced,6,NULL,1
+"Qiu Minxiu",1.3,China,semiconductors,2263,75,"Shangyu, China",China,NULL,NULL,NULL,1
+"Shao Xiaofeng",1.3,China,e-commerce,2263,55,"Hangzhou, China",China,NULL,NULL,NULL,1
+"Shi Xu",1.3,Singapore,technology,2263,57,"Singapore, Singapore",Singapore,Married,NULL,NULL,1
+"Ron Sim",1.3,Singapore,retail,2263,62,"Singapore, Singapore",Singapore,Married,3,NULL,1
+"Jasminder Singh & family",1.3,"United Kingdom",hotels,2263,70,"London, United Kingdom","United Kingdom",Married,NULL,NULL,1
+"Terry Snow",1.3,Australia,"airports, real estate",2263,77,"Canberra, Australia",Australia,Married,4,NULL,1
+"Petter Stordalen & family",1.3,Norway,hotels,2263,58,"Oslo, Norway",Norway,Married,NULL,NULL,1
+"Joop van den Ende",1.3,Netherlands,"TV shows",2263,79,"Baarn, Netherlands",Netherlands,Married,2,NULL,1
+"Masaru Wasami",1.3,Japan,logistics,2263,75,Japan,Japan,NULL,NULL,NULL,1
+"Wei Shaojun",1.3,China,"real estate",2263,58,"Baoding, China",China,NULL,NULL,NULL,1
+"Wu Yonghua",1.3,China,apparel,2263,50,"Xiamen, China",China,NULL,NULL,NULL,1
+"Xiong Jun & family",1.3,China,pharmaceutical,2263,47,"Shanghai, China",China,NULL,NULL,NULL,1
+"Xu Guangfu & family",1.3,China,"Daqo Group",2263,78,"Chongqing, China",China,NULL,NULL,NULL,1
+"Ye Qiongjiu",1.3,China,software,2263,66,"Hangzhou, China",China,NULL,NULL,NULL,1
+"Yeh Kuo-I",1.3,Taiwan,manufacturing,2263,80,NULL,Taiwan,Married,2,NULL,1
+"Yu Bangping & family",1.3,China,"coal mining",2263,53,"Liupanshui, China",China,Married,NULL,NULL,1
+"Yu Jinkun & family",1.3,China,"transportation equipment",2263,78,"Changzhou, China",China,NULL,NULL,NULL,1
+"Zhang Gongyun",1.3,China,"tyre manufacturing machinery",2263,58,"Gaomi, China",China,NULL,NULL,NULL,1
+"Zhou Xiayun & family",1.3,China,Education,2263,66,"Ningguo, China",China,NULL,NULL,NULL,1
+"Anant Asavabhokin",1.2,Thailand,"real estate",2378,70,"Bangkok, Thailand",Thailand,Married,3,NULL,1
+"Shay Banon",1.2,Israel,"search engine",2378,43,"Palo Alto, California",Israel,Married,NULL,NULL,1
+"Cao Kejian",1.2,China,"air compressors",2378,59,"Quzhou, China",China,Married,1,NULL,1
+"Edouard Carmignac",1.2,France,"asset management",2378,73,"Paris, France",France,Married,5,NULL,1
+"Chen Gang",1.2,China,"solar energy",2378,53,"Guangzhou, China",China,NULL,NULL,NULL,1
+"Cheng Wei",1.2,China,"ride-hailing service",2378,38,"Beijing, China",China,NULL,NULL,NULL,1
+"Chua Thian Poh",1.2,Singapore,"real estate",2378,72,"Singapore, Singapore",Singapore,Married,4,NULL,1
+"Sandor Csanyi",1.2,Hungary,"finance, real estate",2378,68,"Budapest, Hungary",Hungary,Married,5,NULL,1
+"Carl DeSantis",1.2,"United States","energy drink",2378,81,"Delray Beach, Florida","United States",NULL,NULL,NULL,1
+"Aydin Dogan",1.2,Turkey,media,2378,85,"Istanbul, Turkey",Turkey,Married,4,NULL,1
+"Marek Dospiva",1.2,Czechia,investments,2378,51,"Prague, Czechia",Czechia,Divorced,NULL,NULL,1
+"Wolfgang Egger",1.2,Germany,"real estate",2378,55,"Augsburg, Germany",Germany,NULL,1,NULL,1
+"Gabriel Escarrer",1.2,Spain,hotels,2378,86,"Palma de Majorca, Spain",Spain,Married,6,NULL,1
+"Fan Zhaoxia & family",1.2,China,"photovoltaic equipment",2378,53,"Beijing, China",China,Married,NULL,NULL,1
+"Clement Fayat & family",1.2,France,construction,2378,89,"Saint-Ãmilion, France",France,Married,NULL,NULL,1
+"Mehmet Nazif Gunal",1.2,Turkey,"tourism, construction",2378,73,"Istanbul, Turkey",Turkey,Married,3,NULL,1
+"Alfredo Harp Helu & family",1.2,Mexico,banking,2378,77,"Mexico City, Mexico",Mexico,Married,4,NULL,1
+"Jaroslav Hascak",1.2,Slovakia,investments,2378,51,"Bratislava, Slovakia",Slovakia,Married,NULL,NULL,1
+"Hu Xiaojun & family",1.2,China,Airline,2378,59,"Guiyang, China",China,Married,NULL,NULL,1
+"Huang Shanbing & family",1.2,China,semiconductors,2378,64,"Qidong, China",China,Married,NULL,NULL,1
+"Huang Yimeng",1.2,China,"mobile games",2378,39,"Shanghai, China",China,NULL,NULL,NULL,1
+"Kim Dae-il",1.2,"South Korea","mobile gaming",2378,41,"Anyang, South Korea","South Korea",Married,1,NULL,1
+"Guy LalibertÃ©",1.2,Canada,"Cirque du Soleil",2378,61,"Montreal, Canada",Canada,"In Relationship",5,NULL,1
+"Li Fengluan",1.2,China,"steel, diversified",2378,59,"Ruzhou, China",China,Married,NULL,NULL,1
+"Lin Jie & family",1.2,China,pharmaceutical,2378,52,"Taizhou, China",China,Married,NULL,NULL,1
+"Liu Baolin",1.2,China,pharmacies,2378,67,"Wuhan, China",China,Married,2,NULL,1
+"Lou Guoqiang",1.2,China,copper,2378,64,"Ningbo, China",China,NULL,NULL,NULL,1
+"Lu Shenglin",1.2,China,machinery,2378,40,"Dongguan, China",China,NULL,NULL,NULL,1
+"Lu Zhilin",1.2,China,machinery,2378,38,"Dongguan, China",China,NULL,NULL,NULL,1
+"Lun Ruixiang & family",1.2,China,"real estate",2378,53,"Hong Kong, Hong Kong",China,Married,NULL,NULL,1
+"Alexander Lutsenko & family",1.2,Russia,agribusiness,2378,59,Kaliningrad,Russia,Married,2,NULL,1
+"Ulrich Mommert & family",1.2,Austria,lighting,2378,80,NULL,Austria,NULL,NULL,NULL,1
+"Taichiro Motoe",1.2,Japan,"Internet services",2378,45,"Kashiwa, Japan",Japan,NULL,NULL,NULL,1
+"Mou Jinxiang",1.2,China,chemicals,2378,67,"Taizhou, China",China,NULL,NULL,NULL,1
+"Udo Mueller",1.2,Germany,advertising,2378,59,"Cologne, Germany",Germany,NULL,NULL,NULL,1
+"Nguyen Dang Quang",1.2,Vietnam,"consumer products, banking",2378,57,"Ho Chi Minh City, Vietnam",Vietnam,Married,3,NULL,1
+"Fatih Ozmen",1.2,"United States",aerospace,2378,63,"Reno, Nevada","United States",Married,NULL,NULL,1
+"Qin Qingping & family",1.2,China,"coal & coke",2378,58,"Dezhou, China",China,Married,NULL,NULL,1
+"Qiu Dongxu",1.2,Canada,pharmaceutical,2378,61,"Tianjin, China",Canada,NULL,NULL,NULL,1
+"Ren Zhengfei",1.2,China,"telecom equipment",2378,77,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Hajime Satomi",1.2,Japan,"video games, pachinko",2378,79,"Tokyo, Japan",Japan,Married,3,NULL,1
+"Ronald Slabke",1.2,Germany,fintech,2378,NULL,"Berlin, Germany",Germany,NULL,NULL,NULL,1
+"Winarko Sulistyo",1.2,Indonesia,"paper and pulp",2378,75,"Jakarta, Indonesia",Indonesia,Married,1,NULL,1
+"Sam Tarascio",1.2,Australia,"real estate",2378,76,"Melbourne, Australia",Australia,Married,3,NULL,1
+"Thomas Tull",1.2,"United States","movies, investments",2378,50,"Pittsburgh, Pennsylvania","United States",Married,NULL,NULL,1
+"Thongma Vijitpongpun",1.2,Thailand,"real estate",2378,63,"Bangkok, Thailand",Thailand,Married,1,NULL,1
+"Thomas von Koch",1.2,Sweden,"asset management",2378,55,"Hong Kong, Hong Kong",Sweden,Married,NULL,NULL,1
+"Wan Feng & family",1.2,China,"medical equipment",2378,52,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Wang Fuji",1.2,China,pharmaceutical,2378,NULL,"Zhangzhou, China",China,NULL,NULL,NULL,1
+"Wang Shumin",1.2,China,manufacturing,2378,64,"Beijing, China",China,NULL,NULL,NULL,1
+"Xiang Guangda",1.2,China,metals,2378,63,"Wenzhou, China",China,NULL,NULL,NULL,1
+"Xiong Haitao",1.2,China,plastics/investment,2378,57,"Guangzhou, China",China,Married,NULL,NULL,1
+"Xu Guifen & family",1.2,China,food,2378,70,"Nanchang, China",China,Married,NULL,NULL,1
+"Yao Liangbo",1.2,China,"furniture retailing",2378,52,"Guangzhou, China",China,NULL,NULL,NULL,1
+"Yi Xianzhong & family",1.2,China,pharmaceutical,2378,62,"Guangzhou, China",China,NULL,NULL,NULL,1
+"Yu Xuefeng",1.2,Canada,pharmaceutical,2378,58,"Tianjin, China",Canada,NULL,NULL,NULL,1
+"Zhang Chuanwei & family",1.2,China,machinery,2378,58,"Zhongshan, China",China,Married,NULL,NULL,1
+"Zhang Xuanning",1.2,China,retail,2378,50,"Fuzhou, China",China,NULL,NULL,NULL,1
+"Zhao Dongping",1.2,China,technology,2378,44,"Changsha, China",China,NULL,NULL,NULL,1
+"Zheng Jianjiang & family",1.2,China,"electrical equipment",2378,60,"Ningbo, China",China,Married,NULL,NULL,1
+"Zheng Xiaodong",1.2,China,manufacturing,2378,57,"Shanghai, China",China,NULL,NULL,NULL,1
+"Zhou Wen & family",1.2,China,chemicals,2378,56,"Shanghai, China",China,Married,NULL,NULL,1
+"Zhou Yifeng & family",1.2,China,"liquefied petroleum gas",2378,42,"Zhangjiagang, China",China,Married,NULL,NULL,1
+"Bai Houshan",1.1,China,"lithium battery",2524,57,"Ningbo, China",China,NULL,NULL,NULL,1
+"Cai Hongbin",1.1,China,pharmaceutical,2524,NULL,"Lianyungang, China",China,NULL,NULL,NULL,1
+"Cao Jianwei",1.1,China,semiconductors,2524,42,"Shangyu, China",China,NULL,NULL,NULL,1
+"Chen Yuantai",1.1,China,batteries,2524,53,"Ningde, China",China,NULL,NULL,NULL,1
+"Cheng Antares",1.1,"Hong Kong",liquor,2524,63,"Hong Kong, Hong Kong","Hong Kong",NULL,NULL,NULL,1
+"Ron Corio",1.1,"United States",solar,2524,59,"Albuquerque, New Mexico","United States",Divorced,2,NULL,1
+"Trudy Shan Dai",1.1,China,e-commerce,2524,45,"Hangzhou, China",China,NULL,NULL,NULL,1
+"Charles Dunstone",1.1,"United Kingdom","mobile phones",2524,57,"London, United Kingdom","United Kingdom",Married,NULL,NULL,1
+"Feng Yuxia",1.1,China,pharmaceutical,2524,56,"Beijing, China",China,Married,NULL,NULL,1
+"Paul Fireman",1.1,"United States",Reebok,2524,77,"Brookline, Massachusetts","United States",Married,3,NULL,1
+"Richard Fortin",1.1,Canada,"convinience stores",2524,72,"Boucherville, Canada",Canada,NULL,NULL,NULL,1
+"Donald Friese",1.1,"United States",manufacturing,2524,80,"Los Angeles, California","United States",Married,NULL,NULL,1
+"Gao Xingjiang",1.1,China,steel,2524,57,"Huzhou, China",China,NULL,NULL,NULL,1
+"Gaston Glock & family",1.1,Austria,guns,2524,92,"Velden am WÃ¶rther See, Austria",Austria,Married,3,NULL,1
+"Guo Jianqiang",1.1,China,"Electrical appliances",2524,53,"Foshan, China",China,NULL,NULL,NULL,1
+"Ho Kuang-chi",1.1,Taiwan,Restaurants,2524,58,"Beijing, China",Taiwan,Married,NULL,NULL,1
+"Hu Rongda & family",1.1,China,chemicals,2524,62,"Jinhua, China",China,NULL,NULL,NULL,1
+"Huang Qiaolong & family",1.1,China,tourism,2524,61,"Hangzhou, China",China,Married,NULL,NULL,1
+"Hedda im Brahm-Droege",1.1,Germany,investments,2524,66,"Dusseldorf, Germany",Germany,Married,NULL,NULL,1
+"Jiang Xuefei & family",1.1,China,"printed circuit boards",2524,51,"Shenzhen, China",China,Married,NULL,NULL,1
+"Jin Lei & family",1.1,China,"medical equipment",2524,55,"Changchun, China",China,Married,NULL,NULL,1
+"Eduard Kucera",1.1,Czechia,software,2524,68,"Prague, Czechia",Czechia,Married,2,NULL,1
+"Lai Baosheng",1.1,China,"consumer technology",2524,NULL,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Lai Guogui & family",1.1,China,machinery,2524,57,"Hangzhou, China",China,Married,2,NULL,1
+"Lam Lung On & family",1.1,China,"real estate",2524,56,"Xiamen, China",China,Married,NULL,NULL,1
+"Michiel Le Roux",1.1,"South Africa",banking,2524,71,"Stellenbosch, South Africa","South Africa",Married,NULL,NULL,1
+"Lim Hariyanto Wijaya Sarwono",1.1,Indonesia,"palm oil, nickel mining",2524,92,"Jakarta, Indonesia",Indonesia,Married,7,NULL,1
+"Liu Shenghui",1.1,China,"infant formula",2524,NULL,"Tianjin, China",China,NULL,NULL,NULL,1
+"Lou Boliang & family",1.1,"United States",pharmaceutical,2524,57,"Beijing, China","United States",Married,NULL,NULL,1
+"Low Tuck Kwong",1.1,Indonesia,coal,2524,73,"Jakarta, Indonesia",Indonesia,Married,2,NULL,1
+"Lv Yongxiang",1.1,China,"magnetic switches",2524,71,"Changchun, China",China,Married,NULL,NULL,1
+"John Martin",1.1,"United States",pharmaceutical,2524,NULL,NULL,"United States",NULL,2,NULL,1
+"Carsten Maschmeyer",1.1,Germany,"finance and investments",2524,61,"Munich, Germany",Germany,Married,2,NULL,1
+"Bruce Mathieson",1.1,Australia,hotels,2524,77,"Gold Coast, Australia",Australia,Married,3,NULL,1
+"Takanori Nakamura",1.1,Japan,"cloud software",2524,48,"Tokyo, Japan",Japan,NULL,NULL,NULL,1
+"Ou Xueming",1.1,China,"real estate",2524,72,"Foshan, China",China,NULL,NULL,NULL,1
+"Mats Paulsson & family",1.1,Sweden,construction,2524,77,"BÃ¥stad, Sweden",Sweden,Married,NULL,NULL,1
+"Peng Hao",1.1,China,electronics,2524,53,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Ricardo Po, Sr. & family",1.1,Philippines,"canned food",2524,90,"Manila, Philippines",Philippines,Married,4,NULL,1
+"Enrico Preziosi",1.1,Italy,toys,2524,73,"Cogliate, Italy",Italy,NULL,NULL,NULL,1
+"Pu Shulin",1.1,China,"TV shows",2524,65,"Nanjing, China",China,NULL,NULL,NULL,1
+"Qiu Lingyun",1.1,China,"consumer technology",2524,45,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Chanchai Ruayrungruang",1.1,China,"real estate",2524,67,"Beijing, China",China,NULL,NULL,NULL,1
+"Shin Dong-guk",1.1,"South Korea",pharmaceutical,2524,71,"Seoul, South Korea","South Korea",Married,NULL,NULL,1
+"Edgar Sia II",1.1,Philippines,"fast food",2524,44,"Manila, Philippines",Philippines,Married,2,NULL,1
+"Sun Xishuang",1.1,China,"real estate",2524,67,"Beijing, China",China,NULL,NULL,NULL,1
+"Tan Eng Kee",1.1,Malaysia,"factory equipment",2524,51,"Penang, Malaysia",Malaysia,Married,3,NULL,1
+"Yoshikazu Tanaka",1.1,Japan,"social network",2524,44,"Tokyo, Japan",Japan,Single,NULL,NULL,1
+"Hary Tanoesoedibjo",1.1,Indonesia,media,2524,55,"Jakarta, Indonesia",Indonesia,Married,5,NULL,1
+"Sunil Vachani",1.1,India,electronics,2524,52,"Delhi, India",India,Married,2,NULL,1
+"Jan Van Geet",1.1,Belgium,"real estate developer",2524,50,"Prague, Czechia",Belgium,NULL,NULL,NULL,1
+"Wang Jianliang",1.1,China,"consumer technology",2524,45,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Wang Kunxiao",1.1,China,"oilfield equipment",2524,51,"Yantai, China",China,NULL,NULL,NULL,1
+"Wen Pengcheng & family",1.1,China,agribusiness,2524,58,"Yunfu, China",China,Married,NULL,NULL,1
+"Wong Hong King",1.1,China,"real estate",2524,59,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Wu Eddie Yongming",1.1,China,e-commerce,2524,46,"Hangzhou, China",China,NULL,NULL,NULL,1
+"Wu Wei",1.1,China,education,2524,53,"Hefei, China",China,NULL,NULL,NULL,1
+"Xiao Guoqing",1.1,China,education,2524,52,"Hefei, China",China,NULL,NULL,NULL,1
+"Yu Faxiang",1.1,China,"tourism, cultural industry",2524,49,"Shaoxing, China",China,NULL,NULL,NULL,1
+"Zeng Huansha",1.1,China,"real estate",2524,53,"Hong Kong, Hong Kong",China,Married,NULL,NULL,1
+"Zhang Xuewu",1.1,China,snacks,2524,46,"Changsha, China",China,NULL,NULL,NULL,1
+"Zhang Yuxiang & family",1.1,China,apparel,2524,56,"Shanghai, China",China,NULL,NULL,NULL,1
+"Zhao Tongtong",1.1,Canada,Hotels,2524,54,"Hong Kong, Hong Kong",Canada,NULL,NULL,NULL,1
+"Tony Zhao",1.1,China,software,2524,49,"Shanghai, China",China,NULL,NULL,NULL,1
+"Zhong Peifeng",1.1,"United States",semiconductor,2524,58,"Beijing, China","United States",Married,NULL,NULL,1
+"Zhou Ping & family",1.1,China,utilities,2524,58,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Zhou Yahui",1.1,China,"online games",2524,44,"Beijing, China",China,Divorced,NULL,NULL,1
+"A. Jayson Adair",1,"United States","damaged cars",2674,51,"Dallas, Texas","United States",Married,2,NULL,1
+"GT Dave",1,"United States",kombucha,2674,44,"Beverly Hills, California","United States",Engaged,NULL,NULL,1
+"Mukand Lal Dua",1,India,footwear,2674,72,"Delhi, India",India,Married,3,NULL,1
+"Ramesh Kumar Dua",1,India,footwear,2674,67,"Delhi, India",India,Married,3,NULL,1
+"Gou Yiqun",1,China,restaurant,2674,48,"Beijing, China",China,NULL,NULL,NULL,1
+"Hang Hong",1,China,machinery,2674,53,"Wuxi, China",China,Married,NULL,NULL,1
+"David Helgason",1,Iceland,"game software",2674,43,"Copenhagen, Denmark",Iceland,NULL,NULL,NULL,1
+"Hou Jianbin",1,China,education,2674,39,"Beijing, China",China,NULL,NULL,NULL,1
+"Morris Kahn",1,Israel,software,2674,91,"Beit Yanay, Israel",Israel,Married,NULL,NULL,1
+"T.S. Kalyanaraman",1,India,jewelry,2674,73,"Thrissur, India",India,Married,3,NULL,1
+"Kim Kardashian West",1,"United States","cosmetics, reality TV",2674,40,"Hidden Hills, California","United States",Separated,4,NULL,1
+"Li Yinan",1,China,Investments,2674,NULL,"Shenzhen, China",China,NULL,NULL,NULL,1
+"Liu Qingfeng",1,China,software,2674,48,"Hefei, China",China,NULL,NULL,NULL,1
+"Ma Hong",1,China,machinery,2674,53,"Dongguan, China",China,Married,NULL,NULL,1
+"Mao Huihua",1,Canada,pharmaceutical,2674,59,"Tianjin, China",Canada,NULL,NULL,NULL,1
+"Mofatraj Munot",1,India,"real estate",2674,76,"Mumbai, India",India,Widowed,3,NULL,1
+"George Pedersen",1,"United States","defense contractor",2674,85,"McLean, Virginia","United States",Married,3,NULL,1
+"Tyler Perry",1,"United States","movies, television",2674,51,"Atlanta, Georgia","United States","In Relationship",1,NULL,1
+"Maria Pinheiro",1,Brazil,supermarkets,2674,NULL,"Balsas, Brazil",Brazil,Divorced,NULL,NULL,1
+"Jorge Rodriguez Rodriguez",1,Peru,"processed milk",2674,75,"Lima, Peru",Peru,Married,2,NULL,1
+"Hartley Rogers",1,"United States","asset management",2674,61,"Chicago, Illinois","United States",Married,3,NULL,1
+"Alan Rydge",1,Australia,entertainment,2674,68,"Sydney, Australia",Australia,Married,NULL,NULL,1
+"Axel Stawski",1,"United States","real estate",2674,70,"Sagaponack, New York","United States",Married,NULL,NULL,1
+"Tong Judy Wenhong",1,China,e-commerce,2674,NULL,"Hangzhou, China",China,NULL,NULL,NULL,1
+"Murat Vargi",1,Turkey,telecom,2674,73,"Istanbul, Turkey",Turkey,Married,2,NULL,1
+"Vlad Vendrow & family",1,"United States",software,2674,53,"Reno, Nevada","United States",NULL,NULL,NULL,1
+"Wang Qiangxiang",1,China,"artificial turf",2674,49,"Nanjing, China",China,NULL,NULL,NULL,1
+"Wang Wenjian",1,China,"optical devices",2674,74,"Yuyao, China",China,NULL,NULL,NULL,1
+"Xia Zhisheng & family",1,China,"home appliances",2674,79,"Haining, China",China,Married,NULL,NULL,1
+"Xu Jin",1,China,wine,2674,56,"Huaibei city, China",China,NULL,NULL,NULL,1
+"Mark Haoyong Yang",1,China,e-commerce,2674,46,"Beijing, China",China,NULL,NULL,NULL,1
+"Yao Hsiao Tung",1,Singapore,Manufacturing,2674,81,"Singapore, Singapore",Singapore,Married,NULL,NULL,1
+"Yu De-Chao",1,"United States",pharmaceutical,2674,57,"Suzhou, China","United States",NULL,NULL,NULL,1
+"Daniel Yong Zhang",1,China,e-commerce,2674,49,"Hangzhou, China",China,NULL,NULL,NULL,1
+"Zhang Yuqiang",1,China,Fiberglass,2674,65,"Tongxiang, China",China,NULL,NULL,NULL,1
+"Zhao Meiguang",1,China,"gold mining",2674,58,"Jilin, China",China,NULL,NULL,NULL,1
+"Zhong Naixiong",1,China,conglomerate,2674,58,"Foshan, China",China,NULL,NULL,NULL,1
+"Zhou Wei family",1,China,software,2674,54,"Shanghai, China",China,Married,NULL,NULL,1
